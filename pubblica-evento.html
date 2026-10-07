@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pubblica il tuo evento – Mugello Eventi</title>
+<meta name="description" content="Organizzi un evento in Mugello o Alto Mugello? Pubblica un articolo su mugelloeventi.it: 50 euro ad articolo.">
+<meta property="og:title" content="Pubblica il tuo evento su Mugello Eventi">
+<meta property="og:description" content="Un articolo dedicato al tuo evento su mugelloeventi.it: 50 euro ad articolo.">
+<style>
+  :root { --verde: #1f4d2b; --oro: #c9a227; --carta: #f6f3ea; --testo: #222; --bianco: #fff; --bordo: #ddd6c3; --grigio: #666; }
+  @media (prefers-color-scheme: dark) { :root { --carta: #16130d; --testo: #ece6d6; --bianco: #221e16; --bordo: #3a3426; --grigio: #b3ab98; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 17px/1.6 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; background: var(--carta); color: var(--testo); }
+  header { background: var(--verde); color: #fff; text-align: center; padding: 24px 16px 20px; border-bottom: 4px solid var(--oro); }
+  header a.t { color: #fff; text-decoration: none; font: 700 2rem Georgia, serif; }
+  header nav { margin-top: 12px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+  header nav a { color: #fff; text-decoration: none; padding: 6px 14px; border: 1px solid rgba(255,255,255,.45); border-radius: 20px; font-size: .92rem; }
+  main { max-width: 760px; margin: 0 auto; padding: 26px 16px 50px; }
+  h1 { font: 700 1.8rem/1.25 Georgia, serif; color: var(--verde); margin: 0 0 8px; }
+  @media (prefers-color-scheme: dark) { h1, h2 { color: var(--oro) !important; } }
+  h2 { color: var(--verde); font-size: 1.2rem; margin: 30px 0 8px; }
+  .prezzo { display: flex; align-items: baseline; gap: 12px; background: var(--bianco); border: 1px solid var(--bordo); border-left: 6px solid var(--oro); border-radius: 10px; padding: 16px 18px; margin: 20px 0; }
+  .prezzo b { font: 700 2.4rem Georgia, serif; color: var(--verde); }
+  @media (prefers-color-scheme: dark) { .prezzo b { color: var(--oro); } }
+  ol.passi { padding-left: 22px; } ol.passi li { margin: 6px 0; }
+  form { background: var(--bianco); border: 1px solid var(--bordo); border-radius: 10px; padding: 18px; }
+  label { display: block; font-weight: 600; margin: 14px 0 5px; } label:first-child { margin-top: 0; }
+  .aiuto { font-weight: 400; color: var(--grigio); font-size: .85rem; }
+  input, textarea { width: 100%; font: inherit; padding: 10px 12px; border: 1px solid var(--bordo); border-radius: 8px; background: var(--carta); color: var(--testo); }
+  textarea { min-height: 150px; }
+  .due { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 560px) { .due { grid-template-columns: 1fr; } }
+  button { margin-top: 18px; font: 600 1rem -apple-system, Helvetica, sans-serif; background: var(--oro); color: #1f1a05; border: 0; border-radius: 8px; padding: 12px 20px; cursor: pointer; }
+  .piccolo { font-size: .88rem; color: var(--grigio); }
+  footer { text-align: center; font-size: .85rem; color: var(--grigio); padding: 0 16px 32px; }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<header>
+  <a class="t" href="./">Mugello Event</a>
+  <nav><a href="./">La guida</a><a href="notizie/">Notizie</a><a href="pubblica-evento.html">Pubblica il tuo evento</a></nav>
+</header>
+<main>
+  <h1>Pubblica il tuo evento</h1>
+  <p>Organizzi una sagra, un concerto, una mostra, una gara o una festa in Mugello o Alto Mugello? Possiamo dedicargli un articolo su mugelloeventi.it.</p>
+
+  <div class="prezzo"><b>50 €</b><span>ad articolo</span></div>
+
+  <h2>Cosa comprende</h2>
+  <ul>
+    <li>Un articolo dedicato al tuo evento nella sezione <a href="notizie/">Notizie</a>, scritto a partire dalle informazioni che ci mandi.</li>
+    <li>Foto o locandina, date, orari, luogo e i tuoi contatti o il link al tuo sito.</li>
+    <li>Un indirizzo proprio, da condividere su WhatsApp e Facebook con l'anteprima.</li>
+  </ul>
+  <p class="piccolo">Come prevede la legge per i contenuti a pagamento, l'articolo porta la dicitura "Contenuto sponsorizzato".</p>
+
+  <h2>Come funziona</h2>
+  <ol class="passi">
+    <li>Compila il modulo qui sotto: si apre un'email già pronta, la invii e allega foto o locandina.</li>
+    <li>Ti rispondiamo per email: se l'evento va bene ti mandiamo la conferma e il link per pagare con PayPal.</li>
+    <li>Dopo il pagamento l'articolo viene pubblicato. Ricevi una ricevuta per prestazione occasionale.</li>
+  </ol>
+  <p class="piccolo">Non si paga niente prima della conferma. Pubblichiamo solo eventi che si svolgono in Mugello, Alto Mugello e Val di Sieve, con informazioni verificabili.</p>
+
+  <h2>Richiedi la pubblicazione</h2>
+  <form id="f">
+    <label for="ev">Nome dell'evento</label><input id="ev" required>
+    <div class="due">
+      <div><label for="qd">Date e orari</label><input id="qd" placeholder="es. sabato 17 ottobre, dalle 15 alle 23" required></div>
+      <div><label for="dv">Luogo</label><input id="dv" placeholder="paese, indirizzo" required></div>
+    </div>
+    <label for="ds">Descrizione <span class="aiuto">(programma, prezzi, prenotazioni, cosa c'è da sapere)</span></label><textarea id="ds" required></textarea>
+    <label for="lk">Sito o pagina dell'evento <span class="aiuto">(facoltativo)</span></label><input id="lk" type="url" placeholder="https://">
+    <div class="due">
+      <div><label for="nm">Chi organizza</label><input id="nm" placeholder="associazione, Pro Loco, locale…" required></div>
+      <div><label for="rf">Nome e cognome di chi scrive</label><input id="rf" required></div>
+    </div>
+    <div class="due">
+      <div><label for="tl">Telefono <span class="aiuto">(facoltativo)</span></label><input id="tl" type="tel"></div>
+      <div><label for="cf">Dati per la ricevuta <span class="aiuto">(nome o ragione sociale, codice fiscale)</span></label><input id="cf"></div>
+    </div>
+    <button type="submit">Prepara l'email</button>
+    <p class="piccolo">Il modulo non invia niente da solo: apre il tuo programma di posta con il testo già scritto, verso <b>ceseri@gmail.com</b>. Se non si apre, scrivi direttamente a questo indirizzo. I dati servono solo per l'articolo e la ricevuta.</p>
+  </form>
+</main>
+<footer>Mugello Eventi · a cura di Fabio Ceseri, in collaborazione con <a href="https://www.radiomugello.it/">Radio Mugello</a></footer>
+<script>
+document.getElementById('f').addEventListener('submit', function (e) {
+  e.preventDefault();
+  var v = function (id) { return document.getElementById(id).value.trim(); };
+  var corpo = 'Richiesta di pubblicazione su mugelloeventi.it (50 euro ad articolo)\n\n' +
+    'Evento: ' + v('ev') + '\nDate e orari: ' + v('qd') + '\nLuogo: ' + v('dv') + '\n\nDescrizione:\n' + v('ds') +
+    '\n\nSito o pagina: ' + (v('lk') || '-') + '\nOrganizza: ' + v('nm') + '\nReferente: ' + v('rf') +
+    '\nTelefono: ' + (v('tl') || '-') + '\nDati per la ricevuta: ' + (v('cf') || '-') +
+    '\n\n(Allego foto o locandina)';
+  location.href = 'mailto:ceseri@gmail.com?subject=' + encodeURIComponent('Pubblica evento: ' + v('ev')) +
+    '&body=' + encodeURIComponent(corpo);
+});
+</script>
+</body>
+</html>
