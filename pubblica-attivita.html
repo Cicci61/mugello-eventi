@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Metti la tua attività sulla mappa – Mugello Event</title>
+<meta name="description" content="Hai un B&B, un albergo, un ristorante o un'enoteca in Mugello? Metti gratis la tua attività sulla mappa di mugelloeventi.it, vicino agli eventi del weekend.">
+<meta property="og:title" content="Metti la tua attività sulla mappa di Mugello Event">
+<meta property="og:description" content="Scheda gratuita sulla mappa per B&B, alberghi, ristoranti ed enoteche del Mugello.">
+<style>
+  :root { --verde: #1f4d2b; --oro: #c9a227; --carta: #f6f3ea; --testo: #222; --bianco: #fff; --bordo: #ddd6c3; --grigio: #666; }
+  @media (prefers-color-scheme: dark) { :root { --carta: #16130d; --testo: #ece6d6; --bianco: #221e16; --bordo: #3a3426; --grigio: #b3ab98; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 17px/1.6 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; background: var(--carta); color: var(--testo); }
+  header { background: var(--verde); color: #fff; text-align: center; padding: 24px 16px 20px; border-bottom: 4px solid var(--oro); }
+  header a.t { color: #fff; text-decoration: none; font: 700 2rem Georgia, serif; }
+  header nav { margin-top: 12px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+  header nav a { color: #fff; text-decoration: none; padding: 6px 14px; border: 1px solid rgba(255,255,255,.45); border-radius: 20px; font-size: .92rem; }
+  main { max-width: 760px; margin: 0 auto; padding: 26px 16px 50px; }
+  h1 { font: 700 1.8rem/1.25 Georgia, serif; color: var(--verde); margin: 0 0 8px; }
+  @media (prefers-color-scheme: dark) { h1, h2 { color: var(--oro) !important; } }
+  h2 { color: var(--verde); font-size: 1.2rem; margin: 30px 0 8px; }
+  .prezzo { display: flex; align-items: baseline; gap: 12px; background: var(--bianco); border: 1px solid var(--bordo); border-left: 6px solid var(--oro); border-radius: 10px; padding: 16px 18px; margin: 20px 0; }
+  .prezzo b { font: 700 2.4rem Georgia, serif; color: var(--verde); }
+  @media (prefers-color-scheme: dark) { .prezzo b { color: var(--oro); } }
+  ol.passi { padding-left: 22px; } ol.passi li { margin: 6px 0; }
+  form { background: var(--bianco); border: 1px solid var(--bordo); border-radius: 10px; padding: 18px; }
+  label { display: block; font-weight: 600; margin: 14px 0 5px; } label:first-child { margin-top: 0; }
+  .aiuto { font-weight: 400; color: var(--grigio); font-size: .85rem; }
+  input, textarea { width: 100%; font: inherit; padding: 10px 12px; border: 1px solid var(--bordo); border-radius: 8px; background: var(--carta); color: var(--testo); }
+  textarea { min-height: 150px; }
+  .due { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 560px) { .due { grid-template-columns: 1fr; } }
+  button { margin-top: 18px; font: 600 1rem -apple-system, Helvetica, sans-serif; background: var(--oro); color: #1f1a05; border: 0; border-radius: 8px; padding: 12px 20px; cursor: pointer; }
+  .piccolo { font-size: .88rem; color: var(--grigio); }
+  footer { text-align: center; font-size: .85rem; color: var(--grigio); padding: 0 16px 32px; }
+  footer a { color: inherit; }
+  .piani { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 20px 0; }
+  @media (max-width: 560px) { .piani { grid-template-columns: 1fr; } }
+  .piano { background: var(--bianco); border: 1px solid var(--bordo); border-radius: 10px; padding: 16px 18px; }
+  .piano.oro { border: 2px solid var(--oro); }
+  .piano h3 { margin: 0 0 4px; color: var(--verde); }
+  .piano .p { font: 700 1.9rem Georgia, serif; color: var(--verde); }
+  @media (prefers-color-scheme: dark) { .piano h3, .piano .p { color: var(--oro); } }
+  .piano ul { padding-left: 20px; margin: 8px 0 0; }
+  select { width: 100%; font: inherit; padding: 10px 12px; border: 1px solid var(--bordo); border-radius: 8px; background: var(--carta); color: var(--testo); }
+  .scelta label { display: flex; gap: 8px; align-items: center; font-weight: 400; margin: 6px 0; }
+  .scelta input { width: auto; }
+</style>
+</head>
+<body>
+<header>
+  <a class="t" href="./">Mugello Event</a>
+  <nav><a href="./">La guida</a><a href="aree-camper/">Aree camper</a><a href="musei/">Musei</a><a href="notizie/">Notizie</a></nav>
+</header>
+<main>
+  <h1>Metti la tua attività sulla mappa</h1>
+  <p>Chi legge Mugello Event cerca cosa fare nel weekend e poi dove dormire, mangiare e bere. Se hai un <b>B&amp;B, un albergo, un agriturismo, un affittacamere, un ristorante, una trattoria o un'enoteca</b> in Mugello, Alto Mugello o Val di Sieve, puoi comparire sulle nostre mappe accanto agli eventi.</p>
+
+  <div class="piani">
+    <div class="piano">
+      <h3>Scheda base</h3>
+      <div class="p">Gratis</div>
+      <ul>
+        <li>La tua attività sulla mappa della sua categoria</li>
+        <li>Nome, indirizzo, telefono, sito, una riga di descrizione</li>
+        <li>Link "Apri in Google Maps"</li>
+      </ul>
+    </div>
+    <div class="piano oro">
+      <h3>Visibilità su misura</h3>
+      <div class="p" style="font-size:1.35rem">Preventivo su richiesta</div>
+      <ul>
+        <li>Scheda in evidenza: in cima all'elenco, con foto, descrizione completa, orari e offerte</li>
+        <li>Spazio nella guida del weekend e sulle pagine del sito</li>
+        <li>Articolo dedicato nella sezione Notizie</li>
+        <li>Se vuoi, anche pubblicità su Radio Mugello e banner su radiomugello.it</li>
+        <li>Ne parliamo insieme e ti facciamo una proposta, senza impegno</li>
+      </ul>
+    </div>
+  </div>
+  <p class="piccolo">Gli spazi a pagamento portano la dicitura "In evidenza" o "Contenuto sponsorizzato", come prevede la legge.</p>
+
+  <h2>Come funziona</h2>
+  <ol class="passi">
+    <li>Compila il modulo: si apre un'email già pronta, la invii (se vuoi, allega una foto).</li>
+    <li>Controlliamo i dati e ti scriviamo quando la scheda è online.</li>
+    <li>Se chiedi un colloquio, ti richiamiamo quando preferisci per capire cosa ti serve e farti un preventivo. Non si paga niente prima di aver accettato la proposta.</li>
+  </ol>
+  <p class="piccolo">Pubblichiamo solo attività aperte e verificabili. Se qualcosa cambia (orari, chiusure, telefono), scrivici e aggiorniamo la scheda.</p>
+
+  <h2>Richiedi la scheda</h2>
+  <form id="f">
+    <label for="tp">Che attività è</label>
+    <select id="tp" required>
+      <option value="">Scegli…</option>
+      <option>B&amp;B</option><option>Albergo</option><option>Agriturismo</option><option>Affittacamere</option><option>Casa vacanze</option>
+      <option>Ristorante</option><option>Trattoria / osteria</option><option>Pizzeria</option><option>Enoteca / wine bar</option><option>Altro</option>
+    </select>
+    <label for="nm">Nome dell'attività</label><input id="nm" required>
+    <div class="due">
+      <div><label for="in">Indirizzo</label><input id="in" placeholder="via, numero civico" required></div>
+      <div><label for="cm">Comune o frazione</label><input id="cm" required></div>
+    </div>
+    <div class="due">
+      <div><label for="tl">Telefono</label><input id="tl" type="tel" required></div>
+      <div><label for="lk">Sito o pagina social <span class="aiuto">(facoltativo)</span></label><input id="lk" placeholder="https://"></div>
+    </div>
+    <label for="ds">Descrizione <span class="aiuto">(cosa offrite, specialità, servizi, orari)</span></label><textarea id="ds" required></textarea>
+    <div class="scelta">
+      <b>Cosa ti interessa</b>
+      <label><input type="radio" name="pi" value="base" checked> Scheda base gratuita</label>
+      <label><input type="radio" name="pi" value="colloquio"> Vorrei un colloquio per un preventivo</label>
+      <b style="display:block;margin-top:12px">Vuoi la pubblicità anche su Radio Mugello?</b>
+      <label><input type="checkbox" id="rm"> Sì, mi interessa anche la pubblicità su Radio Mugello</label>
+      <b style="display:block;margin-top:12px">Banner su www.radiomugello.it?</b>
+      <label><input type="checkbox" id="bn"> Sì, mi interessa un banner sul sito di Radio Mugello</label>
+    </div>
+    <div class="due">
+      <div><label for="rf">Nome e cognome di chi scrive</label><input id="rf" required></div>
+      <div><label for="cf">Quando preferisci essere ricontattato <span class="aiuto">(per il colloquio)</span></label><input id="cf" placeholder="es. mattina, dopo le 15, lunedì"></div>
+    </div>
+    <button type="submit">Prepara l'email</button>
+    <p class="piccolo">Il modulo non invia niente da solo: apre il tuo programma di posta con il testo già scritto, verso <b>ceseri@gmail.com</b>. Se non si apre, scrivi direttamente a questo indirizzo. I dati servono solo per la scheda e per ricontattarti.</p>
+  </form>
+</main>
+<footer>Mugello Event · a cura di Fabio Ceseri, in collaborazione con <a href="https://www.radiomugello.it/">Radio Mugello</a></footer>
+<script>
+document.getElementById('f').addEventListener('submit', function (e) {
+  e.preventDefault();
+  var v = function (id) { return document.getElementById(id).value.trim(); };
+  var col = document.querySelector('input[name="pi"]:checked').value === 'colloquio';
+  var pi = col ? 'Richiesta di colloquio per un preventivo' : 'Scheda base gratuita';
+  var corpo = 'Richiesta di scheda su mugelloeventi.it\n\n' +
+    'Tipo: ' + v('tp') + '\nNome: ' + v('nm') + '\nIndirizzo: ' + v('in') + ', ' + v('cm') +
+    '\nTelefono: ' + v('tl') + '\nSito: ' + (v('lk') || '-') + '\n\nDescrizione:\n' + v('ds') +
+    '\n\nRichiesta: ' + pi + '\nReferente: ' + v('rf') + (col ? '\nQuando ricontattarmi: ' + (v('cf') || '-') : '') +
+    '\nPubblicità anche su Radio Mugello: ' + (document.getElementById('rm').checked ? 'SÌ, mi interessa' : 'no') +
+    '\nBanner su www.radiomugello.it: ' + (document.getElementById('bn').checked ? 'SÌ, mi interessa' : 'no');
+  location.href = 'mailto:ceseri@gmail.com?subject=' + encodeURIComponent((col ? 'Preventivo: ' : 'Scheda attività: ') + v('nm') + ((document.getElementById('rm').checked || document.getElementById('bn').checked) ? ' + Radio Mugello' : '')) +
+    '&body=' + encodeURIComponent(corpo);
+});
+</script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "78228b0435ad4361be105de6a45adf58"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
