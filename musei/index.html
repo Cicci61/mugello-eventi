@@ -99,7 +99,7 @@ Promise.all([fetch('dati.json').then((r) => r.json()), fetch('comuni.geojson').t
     let schede = '';
     for (const v of d.voci) {
       if (com && v.comune !== com) continue;
-      const col = colore[v.cat] || '#2d5a3d';
+      const col = v.chiuso ? '#8a8a8a' : (colore[v.cat] || '#2d5a3d');
       const gmaps = 'https://www.google.com/maps/search/?api=1&query=' + v.lat + ',' + v.lon;
       L.marker([v.lat, v.lon], { icon: L.divIcon({ className: 'pin', iconSize: [30, 30], iconAnchor: [15, 15], html: '<span style="background:' + col + '">' + v.n + '</span>' }) })
         .bindPopup('<b>' + v.n + '. ' + esc(v.nome) + '</b><br>' + esc(v.indirizzo) + ', ' + esc(v.comune) + (v.avviso ? '<br><b style="color:#8a1f1f">' + esc(v.avviso) + '</b>' : '') + '<br><a href="' + gmaps + '" target="_blank" rel="noopener">Apri in Google Maps</a>')

@@ -68,6 +68,22 @@
   <nav><a href="./">La guida</a><a href="notizie/">Notizie</a><a href="aree-camper/">Aree camper</a><a href="musei/">Musei</a><a href="uffici-turistici/">Uffici turistici</a><a href="pubblica-evento.html" class="cta">Pubblica il tuo evento</a></nav>
 </header>
 <main>
+  <section class="radio" id="radio"><h3>Le notizie di Radio Mugello</h3><div id="radio-lista"><a href="https://www.radiomugello.it/cronaca/intelligenza-artificiale-cresce-luso-nelle-piccole-imprese-al-mugello-ai-forum-la-sfida-delle-competenze/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Intelligenza artificiale, cresce l’uso nelle piccole imprese: al Mugello AI Forum la sfida delle competenze</b></a><a href="https://www.radiomugello.it/cronaca/vino-ed-eccellenze-del-mugello-guardano-alla-cina-incontro-per-i-produttori-locali/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Vino ed eccellenze del Mugello guardano alla Cina: incontro per i produttori locali</b></a><a href="https://www.radiomugello.it/cronaca/trasporti-fdi-borgo-s-lorenzo-scarperia-e-s-piero-giani-risponda-ai-pendolari-del-mugello-i-ricorsi-non-fanno-arrivare-i-treni/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Trasporti, FdI Borgo S. Lorenzo Scarperia e S. Piero: «Giani risponda ai pendolari del Mugello: i ricorsi non fanno arrivare i treni»</b></a><a href="https://www.radiomugello.it/cronaca/barberino-lavori-alla-passerella-sullandolaccio-100mila-euro-per-completare-la-riqualificazione/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Barberino, lavori alla passerella sull’Andolaccio: 100mila euro per completare la riqualificazione</b></a><a href="https://www.radiomugello.it/cronaca/borgo-san-lorenzo-la-fotografia-della-salute-bene-il-sociale-da-rafforzare-cronicita-e-salute-mentale/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Borgo San Lorenzo, la fotografia della salute: bene il sociale, da rafforzare cronicità e salute mentale</b></a><a href="https://www.radiomugello.it/cronaca/villore-il-marrone-torna-a-casa/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Villore – Il marrone torna a casa</b></a></div>
+<a class="tutte" href="https://www.radiomugello.it/" target="_blank" rel="noopener">Tutte le notizie su radiomugello.it →</a></section>
+<script>
+fetch('https://www.radiomugello.it/wp-json/wp/v2/posts?per_page=6&categories_exclude=25&_fields=title,link,date')
+  .then(function (r) { return r.json(); })
+  .then(function (d) {
+    var t = document.createElement('textarea');
+    var h = d.map(function (p) {
+      t.innerHTML = p.title.rendered;
+      var tit = t.value.replace(/[&<>"]/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]; });
+      var g = new Date(p.date).toLocaleDateString('it-IT', {day: 'numeric', month: 'long'});
+      return '<a href="' + p.link + '" target="_blank" rel="noopener"><small>' + g + '</small><b>' + tit + '</b></a>';
+    }).join('');
+    if (h) { document.getElementById('radio-lista').innerHTML = h; document.getElementById('radio').hidden = false; }
+  }).catch(function () {});
+</script>
   <h2>Weekend 16–18 ottobre 2026</h2>
   <p style="text-align:center;margin:-6px 0 18px"><a href="weekend/16-18ott2026/" style="color:var(--verde)">Leggi la guida in versione testo</a></p>
   <div class="pagine">
@@ -87,22 +103,6 @@
 <a href="uffici-turistici/"><b>Uffici turistici</b><small>Orari e contatti</small></a>
 <a href="https://salutemugello.it/"><b>Salute Mugello</b><small>I servizi sanitari della zona</small></a>
 </div></section>
-  <section class="radio" id="radio" hidden><h3>Le notizie di Radio Mugello</h3><div id="radio-lista"></div>
-<a class="tutte" href="https://www.radiomugello.it/" target="_blank" rel="noopener">Tutte le notizie su radiomugello.it →</a></section>
-<script>
-fetch('https://www.radiomugello.it/wp-json/wp/v2/posts?per_page=6&categories_exclude=25&_fields=title,link,date')
-  .then(function (r) { return r.json(); })
-  .then(function (d) {
-    var t = document.createElement('textarea');
-    var h = d.map(function (p) {
-      t.innerHTML = p.title.rendered;
-      var tit = t.value.replace(/[&<>"]/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]; });
-      var g = new Date(p.date).toLocaleDateString('it-IT', {day: 'numeric', month: 'long'});
-      return '<a href="' + p.link + '" target="_blank" rel="noopener"><small>' + g + '</small><b>' + tit + '</b></a>';
-    }).join('');
-    if (h) { document.getElementById('radio-lista').innerHTML = h; document.getElementById('radio').hidden = false; }
-  }).catch(function () {});
-</script>
   
   <h3>Edizioni precedenti</h3>
 <details><summary>Weekend 9–11 ottobre 2026</summary><div class="pagine"><a href="img/Mugello_Event_9-11ott2026_pag1_copertina.jpg" target="_blank" rel="noopener"><img src="img/Mugello_Event_9-11ott2026_pag1_copertina.jpg" alt="Mugello Event 9–11 ottobre 2026, pagina 1: copertina" loading="lazy"></a>

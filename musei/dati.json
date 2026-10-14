@@ -50,8 +50,9 @@
    "lat": 43.952276,
    "lon": 11.395108,
    "posizione": "OpenStreetMap: Villa Pecori Giraldi",
-   "avviso": "Chiuso temporaneamente per lavori alla villa: riapertura prevista entro la fine del 2026",
-   "n": 1
+   "avviso": "Chiuso al momento per ristrutturazione della villa che lo ospita: riapertura prevista entro la fine del 2026",
+   "n": 1,
+   "chiuso": true
   },
   {
    "nome": "Museo Spazio Brizzolari",
