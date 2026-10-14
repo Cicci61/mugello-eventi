@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aree camper in Mugello · Mugello Event</title>
+<meta name="description" content="Le 9 aree attrezzate per camper del Mugello sulla mappa: indirizzi, servizi, sosta gratuita o a pagamento, contatti. Fonte: Ufficio Turismo del Mugello.">
+<link rel="canonical" href="https://mugelloeventi.it/aree-camper/">
+<link rel="stylesheet" href="leaflet.css">
+<style>
+  :root { --verde: #2d5a3d; --verde-scuro: #1c3b28; --oro: #c9a227; --oro-chiaro: #e8cf7a; --crema: #faf6ec; --ruggine: #a8502f; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Georgia, serif; color: #2b2b23; background: var(--crema); }
+  header { background: linear-gradient(180deg, var(--verde-scuro), var(--verde)); color: #fff; text-align: center; padding: 22px 16px 18px; }
+  header .marchio { font-family: 'Trebuchet MS', sans-serif; letter-spacing: 3px; font-size: .8rem; color: var(--oro-chiaro); }
+  header h1 { font-family: 'Trebuchet MS', sans-serif; margin: 6px 0 4px; font-size: 1.9rem; }
+  header p { margin: 0; opacity: .9; font-style: italic; }
+  header nav { margin-top: 14px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+  header nav a { color: #fff; text-decoration: none; padding: 6px 14px; border: 1px solid rgba(255,255,255,.45); border-radius: 20px; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: .92rem; }
+  main { max-width: 1100px; margin: 0 auto; padding: 16px; }
+  #mappa { height: 520px; border-radius: 12px; border: 1px solid #ddd3b6; }
+  .base-tenue { filter: saturate(.4) brightness(1.05); }
+  .pin span { display: flex; align-items: center; justify-content: center; width: 30px; height: 30px; border-radius: 50%;
+    background: var(--verde); color: #fff; font: 800 15px 'Trebuchet MS', sans-serif; border: 3px solid var(--oro-chiaro); box-shadow: 0 2px 6px rgba(0,0,0,.35); }
+  .pin.paga span { background: var(--ruggine); }
+  .legenda { display: flex; gap: 18px; flex-wrap: wrap; margin: 10px 2px 18px; font-size: .92rem; }
+  .legenda i { display: inline-block; width: 13px; height: 13px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
+  .schede { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+  .scheda { background: #fff; border: 1px solid #e2d6b0; border-left: 5px solid var(--verde); border-radius: 8px; padding: 14px 16px; }
+  .scheda.paga { border-left-color: var(--ruggine); }
+  .scheda h2 { font-family: 'Trebuchet MS', sans-serif; font-size: 1.05rem; margin: 0 0 2px; color: var(--verde-scuro); }
+  .scheda .com { font-family: 'Trebuchet MS', sans-serif; font-size: .78rem; letter-spacing: 1.5px; text-transform: uppercase; color: var(--oro); font-weight: 700; }
+  .scheda p { margin: 6px 0; font-size: .93rem; line-height: 1.5; }
+  .scheda .info { font-size: .86rem; color: #555; }
+  .scheda a { color: var(--verde); }
+  .scheda .pos { font-size: .78rem; color: #8a6a1f; font-style: italic; }
+  .nota { font-size: .88rem; color: #5c574a; line-height: 1.6; margin-top: 18px; border-top: 1px solid #ddd3b6; padding-top: 12px; }
+  footer { text-align: center; font-size: .85rem; color: #6b6558; padding: 24px 16px; }
+  footer a { color: var(--verde); }
+  /* versione per la guida PDF: solo la mappa */
+  body.stampa header, body.stampa .resto, body.stampa footer, body.stampa .leaflet-control-zoom { display: none; }
+  body.stampa main { padding: 0; max-width: none; }
+  body.stampa #mappa { height: 100vh; border: 0; border-radius: 0; }
+  @media (max-width: 600px) { #mappa { height: 420px; } header h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="marchio">MUGELLOEVENTI.IT</div>
+  <h1>Aree camper in Mugello</h1>
+  <p>Dove sostare con il camper per sagre, feste ed eventi</p>
+  <nav><a href="../">La guida</a><a href="../notizie/">Notizie</a></nav>
+</header>
+<main>
+  <div id="mappa"></div>
+  <div class="resto">
+    <div class="legenda"><span><i style="background:#2d5a3d"></i>Sosta gratuita</span><span><i style="background:#a8502f"></i>Sosta a pagamento</span><span><i style="border:2px dashed #1f2a44"></i>Confini comunali</span></div>
+    <div class="schede" id="schede"></div>
+    <div class="nota" id="nota"></div>
+  </div>
+</main>
+<footer>A cura di <a href="https://fabioceseri.it/">Fabio Ceseri</a>, in collaborazione con <a href="https://www.radiomugello.it/">Radio Mugello</a> · <a href="../">Mugello Event</a></footer>
+<script src="leaflet.js"></script>
+<script>
+const STAMPA = new URLSearchParams(location.search).has('stampa');
+if (STAMPA) document.body.classList.add('stampa');
+const esc = (s) => String(s || '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const mappa = L.map('mappa', { zoomControl: !STAMPA, attributionControl: true, zoomSnap: 0.25 });
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19, className: 'base-tenue', attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+}).addTo(mappa);
+mappa.createPane('confini').style.zIndex = 330;
+mappa.getPane('confini').style.pointerEvents = 'none';
+if (!STAMPA) L.control.scale({ imperial: false }).addTo(mappa);
+Promise.all([fetch('aree.json').then((r) => r.json()), fetch('comuni.geojson').then((r) => r.json()).catch(() => null)]).then(([d, comuni]) => {
+  if (comuni) L.geoJSON(comuni, { pane: 'confini', interactive: false, style: { color: '#1f2a44', weight: 1.5, opacity: 0.55, dashArray: '5 5', fill: false } }).addTo(mappa);
+  const punti = [];
+  let schede = '';
+  for (const a of d.aree) {
+    const paga = a.sosta === 'a pagamento';
+    const gmaps = 'https://www.google.com/maps/search/?api=1&query=' + a.lat + ',' + a.lon;
+    const info = [a.sosta && 'Sosta ' + a.sosta, 'Aperta ' + a.apertura, a.animali && 'animali ' + a.animali, a.caravan && 'caravan ' + a.caravan].filter(Boolean).join(' · ');
+    const m = L.marker([a.lat, a.lon], { icon: L.divIcon({ className: 'pin' + (paga ? ' paga' : ''), iconSize: [30, 30], iconAnchor: [15, 15], html: '<span>' + a.n + '</span>' }) }).addTo(mappa);
+    m.bindPopup('<b>' + a.n + '. ' + esc(a.nome) + '</b><br>' + esc(a.indirizzo) + ', ' + esc(a.comune) + '<br><small>' + esc(info) + '</small><br><a href="' + gmaps + '" target="_blank" rel="noopener">Apri in Google Maps</a>');
+    punti.push([a.lat, a.lon]);
+    schede += '<div class="scheda' + (paga ? ' paga' : '') + '"><div class="com">' + a.n + ' · ' + esc(a.comune) + '</div><h2>' + esc(a.nome) + '</h2>'
+      + '<p>' + esc(a.indirizzo) + '</p><p>' + esc(a.descrizione) + '</p><p class="info">' + esc(info) + '<br>Info: ' + esc(a.contatti)
+      + (a.sito ? ' · <a href="' + esc(a.sito) + '" target="_blank" rel="noopener">sito</a>' : '') + '</p>'
+      + '<p><a href="' + gmaps + '" target="_blank" rel="noopener">Apri in Google Maps</a></p>'
+      + (a.posizione.startsWith('approssimata') ? '<p class="pos">Posizione ' + esc(a.posizione) + '</p>' : '') + '</div>';
+  }
+  document.getElementById('schede').innerHTML = schede;
+  document.getElementById('nota').innerHTML = 'Fonte: <a href="' + esc(d.fonte.url) + '" target="_blank" rel="noopener">' + esc(d.fonte.ente) + '</a>, elenco delle aree attrezzate per camper. '
+    + 'La pagina dell\'Ufficio Turismo non indica la data di aggiornamento: prima di partire telefonate ai numeri indicati per verificare apertura e servizi. '
+    + 'Dove la posizione è segnata come approssimata, il punto è sulla via o sulla località citate dalla fonte. Mappa © OpenStreetMap.';
+  const adatta = () => { mappa.invalidateSize(); mappa.fitBounds(punti, { padding: STAMPA ? [40, 40] : [30, 30] }); };
+  adatta();
+  window.addEventListener('resize', adatta);
+  window.mappaCamper = mappa;
+  setTimeout(() => document.body.setAttribute('data-pronta', '1'), 1500);
+});
+</script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "78228b0435ad4361be105de6a45adf58"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
