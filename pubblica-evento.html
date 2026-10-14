@@ -47,6 +47,7 @@
   <p>Organizzi una sagra, un concerto, una mostra, una gara o una festa in Mugello o Alto Mugello? Possiamo dedicargli un articolo su mugelloeventi.it.</p>
 
   <div class="prezzo"><b>50 €</b><span>ad articolo</span></div>
+  <div class="prezzo" style="border-left-color:var(--verde)"><span><b style="font-size:1.4rem">Evento in evidenza</b><br>Vuoi di più? Il tuo evento in cima alla home di mugelloeventi.it, il primo che si vede, con foto e link. Prezzo su preventivo.</span></div>
 
   <h2>Cosa comprende</h2>
   <ul>
@@ -81,6 +82,7 @@
       <div><label for="tl">Telefono <span class="aiuto">(facoltativo)</span></label><input id="tl" type="tel"></div>
       <div><label for="cf">Dati per la ricevuta <span class="aiuto">(nome o ragione sociale, codice fiscale)</span></label><input id="cf"></div>
     </div>
+    <label style="display:flex;gap:8px;align-items:center;font-weight:400"><input type="checkbox" id="evd" style="width:auto"> Voglio anche l'evento <b>in evidenza in home</b> (prezzo su preventivo)</label>
     <button type="submit">Prepara l'email</button>
     <p class="piccolo">Il modulo non invia niente da solo: apre il tuo programma di posta con il testo già scritto, verso <b>ceseri@gmail.com</b>. Se non si apre, scrivi direttamente a questo indirizzo. I dati servono solo per l'articolo e la ricevuta.</p>
   </form>
@@ -94,8 +96,9 @@ document.getElementById('f').addEventListener('submit', function (e) {
     'Evento: ' + v('ev') + '\nDate e orari: ' + v('qd') + '\nLuogo: ' + v('dv') + '\n\nDescrizione:\n' + v('ds') +
     '\n\nSito o pagina: ' + (v('lk') || '-') + '\nOrganizza: ' + v('nm') + '\nReferente: ' + v('rf') +
     '\nTelefono: ' + (v('tl') || '-') + '\nDati per la ricevuta: ' + (v('cf') || '-') +
+    '\nEvento in evidenza in home: ' + (document.getElementById('evd').checked ? 'SÌ, vorrei un preventivo' : 'no') +
     '\n\n(Allego foto o locandina)';
-  location.href = 'mailto:ceseri@gmail.com?subject=' + encodeURIComponent('Pubblica evento: ' + v('ev')) +
+  location.href = 'mailto:ceseri@gmail.com?subject=' + encodeURIComponent('Pubblica evento: ' + v('ev') + (document.getElementById('evd').checked ? ' + IN EVIDENZA' : '')) +
     '&body=' + encodeURIComponent(corpo);
 });
 </script>

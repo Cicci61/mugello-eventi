@@ -49,6 +49,17 @@
   .dove li span { color: #555; font-size: .92rem; }
   .dove li a { color: var(--verde); font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: .9rem; font-weight: 600; text-decoration: none; }
   .dove li a::before { content: "\1F4CD  "; }
+  .evidenza { margin: 18px 0; }
+  .ev-sch { display: flex; gap: 16px; background: #fff; border: 2px solid var(--oro); border-radius: 12px; padding: 16px 18px; margin-bottom: 12px; box-shadow: 0 3px 12px rgba(0,0,0,.08); }
+  .ev-sch img { width: 38%; max-width: 300px; border-radius: 8px; object-fit: cover; }
+  .ev-sch h3 { margin: 4px 0; font-size: 1.35rem; }
+  .ev-sch p { margin: 6px 0; }
+  .ev-q { font-weight: 600; color: var(--verde); }
+  .ev-tag { font: 700 .7rem -apple-system, Helvetica, sans-serif; text-transform: uppercase; letter-spacing: 1px; background: var(--oro); color: #1f1a05; padding: 2px 8px; border-radius: 4px; }
+  .ev-link { font-weight: 600; color: var(--verde); }
+  .ev-invito { border: 2px dashed var(--oro); border-radius: 12px; padding: 12px 16px; text-align: center; font-size: .95rem; background: #fffdf5; }
+  .ev-invito a { color: var(--verde); font-weight: 600; }
+  @media (max-width: 600px) { .ev-sch { flex-direction: column; } .ev-sch img { width: 100%; max-width: none; } }
   .scopri, .radio { background: #fff; border: 1px solid #e2d6b0; border-radius: 10px; padding: 16px 18px; margin: 22px 0; }
   .scopri h3, .radio h3 { margin-top: 0; }
   .scopri-g { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
@@ -68,6 +79,7 @@
   <nav><a href="./">La guida</a><a href="notizie/">Notizie</a><a href="aree-camper/">Aree camper</a><a href="musei/">Musei</a><a href="uffici-turistici/">Uffici turistici</a><a href="https://salutemugello.it/">Salute Mugello</a><a href="pubblica-evento.html" class="cta">Pubblica il tuo evento</a></nav>
 </header>
 <main>
+  <section class="evidenza"><div class="ev-invito" id="ev-invito"><b>Il tuo evento qui</b> · Vuoi che il tuo evento sia il primo che si vede su Mugello Event? <a href="pubblica-evento.html">Chiedi lo spazio in evidenza</a></div></section><script>(function(){var o=new Date().toISOString().slice(0,10),n=0;document.querySelectorAll(".ev-sch").forEach(function(e){if((e.dataset.al&&e.dataset.al<o)||(e.dataset.dal&&e.dataset.dal>o))e.remove();else n++;});if(!n)document.getElementById("ev-invito").hidden=false;})();</script>
   <section class="radio" id="radio"><h3>Le notizie di Radio Mugello</h3><div id="radio-lista"><a href="https://www.radiomugello.it/cronaca/firenzuola-disavanzo-comunale-da-92mila-euro-lopposizione-contesta-il-piano-di-rientro-a-pagare-saranno-i-cittadini/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Firenzuola – Disavanzo comunale da 92mila euro, l’opposizione contesta il piano di rientro: «A pagare saranno i cittadini»</b></a><a href="https://www.radiomugello.it/cronaca/intelligenza-artificiale-cresce-luso-nelle-piccole-imprese-al-mugello-ai-forum-la-sfida-delle-competenze/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Intelligenza artificiale, cresce l’uso nelle piccole imprese: al Mugello AI Forum la sfida delle competenze</b></a><a href="https://www.radiomugello.it/cronaca/vino-ed-eccellenze-del-mugello-guardano-alla-cina-incontro-per-i-produttori-locali/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Vino ed eccellenze del Mugello guardano alla Cina: incontro per i produttori locali</b></a><a href="https://www.radiomugello.it/cronaca/trasporti-fdi-borgo-s-lorenzo-scarperia-e-s-piero-giani-risponda-ai-pendolari-del-mugello-i-ricorsi-non-fanno-arrivare-i-treni/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Trasporti, FdI Borgo S. Lorenzo Scarperia e S. Piero: «Giani risponda ai pendolari del Mugello: i ricorsi non fanno arrivare i treni»</b></a><a href="https://www.radiomugello.it/cronaca/barberino-lavori-alla-passerella-sullandolaccio-100mila-euro-per-completare-la-riqualificazione/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Barberino, lavori alla passerella sull’Andolaccio: 100mila euro per completare la riqualificazione</b></a><a href="https://www.radiomugello.it/cronaca/borgo-san-lorenzo-la-fotografia-della-salute-bene-il-sociale-da-rafforzare-cronicita-e-salute-mentale/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Borgo San Lorenzo, la fotografia della salute: bene il sociale, da rafforzare cronicità e salute mentale</b></a></div>
 <a class="tutte" href="https://www.radiomugello.it/" target="_blank" rel="noopener">Tutte le notizie su radiomugello.it →</a></section>
 <script>
