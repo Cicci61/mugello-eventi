@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Musei del Mugello · Mugello Event</title>
+<meta name="description" content="I musei del Mugello sulla mappa: musei d&#x27;arte, di storia, di vita contadina e delle tradizioni, con orari, indirizzi e contatti. Fonte: Sistema Museale del Mugello.">
+<link rel="canonical" href="https://mugelloeventi.it/musei/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Mugello Event">
+<meta property="og:title" content="Musei del Mugello">
+<meta property="og:description" content="I musei del Mugello sulla mappa: musei d&#x27;arte, di storia, di vita contadina e delle tradizioni, con orari, indirizzi e contatti. Fonte: Sistema Museale del Mugello.">
+<meta property="og:url" content="https://mugelloeventi.it/musei/">
+<meta property="og:image" content="https://mugelloeventi.it/musei/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="it_IT">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://mugelloeventi.it/musei/og.jpg">
+<link rel="stylesheet" href="leaflet.css">
+<style>
+  :root { --verde: #2d5a3d; --verde-scuro: #1c3b28; --oro: #c9a227; --oro-chiaro: #e8cf7a; --crema: #faf6ec; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Georgia, serif; color: #2b2b23; background: var(--crema); }
+  header { background: linear-gradient(180deg, var(--verde-scuro), var(--verde)); color: #fff; text-align: center; padding: 22px 16px 18px; }
+  header .marchio { font-family: 'Trebuchet MS', sans-serif; letter-spacing: 3px; font-size: .8rem; color: var(--oro-chiaro); }
+  header .marchio a { color: inherit; text-decoration: none; }
+  header h1 { font-family: 'Trebuchet MS', sans-serif; margin: 6px 0 4px; font-size: 1.9rem; }
+  header p { margin: 0; opacity: .9; font-style: italic; }
+  header nav { margin-top: 14px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+  header nav a { color: #fff; text-decoration: none; padding: 6px 13px; border: 1px solid rgba(255,255,255,.45); border-radius: 20px; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: .9rem; }
+  header nav a.qui { background: var(--oro); border-color: var(--oro); color: #1f1a05; font-weight: 600; }
+  main { max-width: 1100px; margin: 0 auto; padding: 16px; }
+  #mappa { height: 520px; border-radius: 12px; border: 1px solid #ddd3b6; }
+  .base-tenue { filter: saturate(.4) brightness(1.05); }
+  .pin span { display: flex; align-items: center; justify-content: center; width: 30px; height: 30px; border-radius: 50%;
+    color: #fff; font: 800 14px 'Trebuchet MS', sans-serif; border: 3px solid var(--oro-chiaro); box-shadow: 0 2px 6px rgba(0,0,0,.35); }
+  .barra { display: flex; gap: 14px 18px; flex-wrap: wrap; align-items: center; margin: 10px 2px 18px; font-size: .92rem; }
+  .barra i { display: inline-block; width: 13px; height: 13px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
+  .barra select { font: inherit; padding: 5px 8px; border-radius: 8px; border: 1px solid #cdbf95; background: #fff; }
+  .schede { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+  .scheda { background: #fff; border: 1px solid #e2d6b0; border-left: 5px solid var(--verde); border-radius: 8px; padding: 14px 16px; }
+  .scheda h2 { font-family: 'Trebuchet MS', sans-serif; font-size: 1.05rem; margin: 0 0 2px; color: var(--verde-scuro); }
+  .scheda .com { font-family: 'Trebuchet MS', sans-serif; font-size: .76rem; letter-spacing: 1.4px; text-transform: uppercase; color: var(--oro); font-weight: 700; }
+  .scheda p { margin: 6px 0; font-size: .93rem; line-height: 1.5; }
+  .scheda .info { font-size: .86rem; color: #555; }
+  .scheda a { color: var(--verde); }
+  .scheda .avviso { background: #fdeaea; color: #8a1f1f; border-radius: 6px; padding: 6px 9px; font-size: .86rem; }
+  .scheda .pos { font-size: .78rem; color: #8a6a1f; font-style: italic; }
+  .nota { font-size: .88rem; color: #5c574a; line-height: 1.6; margin-top: 18px; border-top: 1px solid #ddd3b6; padding-top: 12px; }
+  footer { text-align: center; font-size: .85rem; color: #6b6558; padding: 24px 16px; }
+  footer a { color: var(--verde); }
+  body.stampa header, body.stampa .resto, body.stampa footer, body.stampa .leaflet-control-zoom { display: none; }
+  body.stampa main { padding: 0; max-width: none; }
+  body.stampa #mappa { height: 100vh; border: 0; border-radius: 0; }
+  @media (max-width: 600px) { #mappa { height: 420px; } header h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="marchio"><a href="../">MUGELLOEVENTI.IT</a></div>
+  <h1>Musei del Mugello</h1>
+  <p>Musei e luoghi della cultura da visitare tra un evento e l&#x27;altro</p>
+  <nav><a href="../">La guida</a><a href="../aree-camper/">Aree camper</a><a href="../musei/" class="qui">Musei</a><a href="../uffici-turistici/">Uffici turistici</a><a href="../notizie/">Notizie</a></nav>
+</header>
+<main>
+  <div id="mappa"></div>
+  <div class="resto">
+    <div class="barra" id="barra"></div>
+    <div class="schede" id="schede"></div>
+    <div class="nota" id="nota"></div>
+  </div>
+</main>
+<footer>A cura di <a href="https://fabioceseri.it/">Fabio Ceseri</a>, in collaborazione con <a href="https://www.radiomugello.it/">Radio Mugello</a> · <a href="../">Mugello Event</a> · <a href="https://salutemugello.it/">Salute Mugello</a></footer>
+<script src="leaflet.js"></script>
+<script>
+const STAMPA = new URLSearchParams(location.search).has('stampa');
+if (STAMPA) document.body.classList.add('stampa');
+const esc = (s) => String(s || '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const link = (s) => esc(s).replace(/([\w.+-]+@[\w-]+\.[\w.]+)/g, '<a href="mailto:$1">$1</a>');
+const mappa = L.map('mappa', { zoomControl: !STAMPA, zoomSnap: 0.25 });
+window.mappaPagina = mappa;
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19, className: 'base-tenue', attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+}).addTo(mappa);
+mappa.createPane('confini').style.zIndex = 330;
+mappa.getPane('confini').style.pointerEvents = 'none';
+if (!STAMPA) L.control.scale({ imperial: false }).addTo(mappa);
+const livPunti = L.layerGroup().addTo(mappa);
+Promise.all([fetch('dati.json').then((r) => r.json()), fetch('comuni.geojson').then((r) => r.json()).catch(() => null)]).then(([d, comuni]) => {
+  if (comuni) L.geoJSON(comuni, { pane: 'confini', interactive: false, style: { color: '#1f2a44', weight: 1.5, opacity: 0.55, dashArray: '5 5', fill: false } }).addTo(mappa);
+  const colore = Object.fromEntries(d.legenda.map((l) => [l.chiave, l.colore]));
+  const comuniVoci = [...new Set(d.voci.map((v) => v.comune))].sort();
+  document.getElementById('barra').innerHTML = d.legenda.map((l) => '<span><i style="background:' + l.colore + '"></i>' + esc(l.chiave) + '</span>').join('')
+    + (comuniVoci.length > 3 ? '<select id="filtro" aria-label="Filtra per Comune"><option value="">Tutti i Comuni</option>' + comuniVoci.map((c) => '<option>' + esc(c) + '</option>').join('') + '</select>' : '');
+  function disegna(com) {
+    livPunti.clearLayers();
+    const punti = [];
+    let schede = '';
+    for (const v of d.voci) {
+      if (com && v.comune !== com) continue;
+      const col = colore[v.cat] || '#2d5a3d';
+      const gmaps = 'https://www.google.com/maps/search/?api=1&query=' + v.lat + ',' + v.lon;
+      L.marker([v.lat, v.lon], { icon: L.divIcon({ className: 'pin', iconSize: [30, 30], iconAnchor: [15, 15], html: '<span style="background:' + col + '">' + v.n + '</span>' }) })
+        .bindPopup('<b>' + v.n + '. ' + esc(v.nome) + '</b><br>' + esc(v.indirizzo) + ', ' + esc(v.comune) + (v.avviso ? '<br><b style="color:#8a1f1f">' + esc(v.avviso) + '</b>' : '') + '<br><a href="' + gmaps + '" target="_blank" rel="noopener">Apri in Google Maps</a>')
+        .addTo(livPunti);
+      punti.push([v.lat, v.lon]);
+      schede += '<div class="scheda" style="border-left-color:' + col + '"><div class="com">' + v.n + ' · ' + esc(v.comune) + (d.legenda.length > 1 ? ' · ' + esc(v.cat) : '') + '</div><h2>' + esc(v.nome) + '</h2>'
+        + '<p>' + esc(v.indirizzo) + '</p>' + (v.avviso ? '<p class="avviso">' + esc(v.avviso) + '</p>' : '') + (v.descrizione ? '<p>' + esc(v.descrizione) + '</p>' : '')
+        + (v.info && v.info.length ? '<p class="info">' + v.info.map(link).join('<br>') + '</p>' : '')
+        + '<p><a href="' + gmaps + '" target="_blank" rel="noopener">Apri in Google Maps</a>' + (v.scheda ? ' · <a href="' + esc(v.scheda) + '" target="_blank" rel="noopener">Scheda ufficiale</a>' : '') + '</p>'
+        + (String(v.posizione).startsWith('approssimata') ? '<p class="pos">Posizione ' + esc(v.posizione) + '</p>' : '') + '</div>';
+    }
+    document.getElementById('schede').innerHTML = schede;
+    mappa.invalidateSize();
+    if (punti.length) mappa.fitBounds(punti, { padding: STAMPA ? [40, 40] : [30, 30], maxZoom: 15 });
+  }
+  disegna('');
+  const f = document.getElementById('filtro');
+  if (f) f.addEventListener('change', () => disegna(f.value));
+  window.addEventListener('resize', () => disegna(f ? f.value : ''));
+  document.getElementById('nota').innerHTML = 'Fonte: <a href="' + esc(d.fonte.url) + '" target="_blank" rel="noopener">' + esc(d.fonte.ente) + '</a>. ' + esc(d.nota) + ' Mappa © OpenStreetMap.';
+  setTimeout(() => document.body.setAttribute('data-pronta', '1'), 1500);
+});
+</script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "78228b0435ad4361be105de6a45adf58"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>

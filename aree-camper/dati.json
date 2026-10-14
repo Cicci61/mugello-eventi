@@ -1,0 +1,200 @@
+{
+ "slug": "aree-camper",
+ "titolo": "Aree camper in Mugello",
+ "sottotitolo": "Dove sostare con il camper per sagre, feste ed eventi",
+ "meta": "Le 9 aree attrezzate per camper del Mugello sulla mappa: servizi, sosta gratuita o a pagamento, contatti. Fonte: Ufficio Turismo del Mugello.",
+ "fonte": {
+  "ente": "Ufficio Turismo del Mugello (Unione Montana dei Comuni del Mugello)",
+  "url": "https://www.mugellotoscana.it/it/ospitalita-mugello/aree-attrezzate-per-camper.html",
+  "letto": "2026-10-14"
+ },
+ "legenda": [
+  {
+   "chiave": "Sosta gratuita",
+   "colore": "#2d5a3d"
+  },
+  {
+   "chiave": "Sosta a pagamento",
+   "colore": "#a8502f"
+  }
+ ],
+ "nota": "La pagina dell'Ufficio Turismo non indica la data di aggiornamento: prima di partire telefonate ai numeri indicati per verificare apertura e servizi. Dove la posizione è segnata come approssimata, il punto è sulla via o sulla località citate dalla fonte.",
+ "voci": [
+  {
+   "n": 1,
+   "nome": "Area Sosta Camper Bilancino",
+   "comune": "Barberino di Mugello",
+   "cat": "Sosta a pagamento",
+   "indirizzo": "Viale Gramsci, Lago di Bilancino",
+   "descrizione": "Sulle sponde del Lago di Bilancino. Area attrezzata e videosorvegliata con camper service, corrente elettrica, scarico acque grigie e nere, wifi, area picnic e barbecue.",
+   "info": [
+    "Sosta a pagamento",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "324 0872050 · 339 6725017 · info@lagodibilancino.com"
+   ],
+   "scheda": "https://www.lagodibilancino.com/area-sosta-camper-bilancino/",
+   "lat": 43.98912,
+   "lon": 11.24146,
+   "posizione": "OpenStreetMap",
+   "avviso": ""
+  },
+  {
+   "n": 2,
+   "nome": "Area sosta Monte di Fò",
+   "comune": "Barberino di Mugello",
+   "cat": "Sosta gratuita",
+   "indirizzo": "Loc. Monte di Fò, via Santa Lucia",
+   "descrizione": "Nella frazione di Monte di Fò, lungo la via Santa Lucia. Area di sosta attrezzata.",
+   "info": [
+    "Sosta gratuita",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "Caravan ammessi",
+    "055 84771"
+   ],
+   "scheda": "",
+   "lat": 44.07733,
+   "lon": 11.28191,
+   "posizione": "approssimata: centro della frazione di Monte di Fò",
+   "avviso": ""
+  },
+  {
+   "n": 3,
+   "nome": "Area sosta camper Dicomano",
+   "comune": "Dicomano",
+   "cat": "Sosta gratuita",
+   "indirizzo": "Via Ettore Pinzani / SS67, loc. Borghetto",
+   "descrizione": "Lungo la statale 67, in località Borghetto. Area attrezzata con camper service, bagni e area picnic.",
+   "info": [
+    "Sosta gratuita",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "Caravan ammessi",
+    "055 8385426"
+   ],
+   "scheda": "",
+   "lat": 43.89215,
+   "lon": 11.52711,
+   "posizione": "approssimata: via Ettore Pinzani",
+   "avviso": ""
+  },
+  {
+   "n": 4,
+   "nome": "Area Sosta Marradi",
+   "comune": "Marradi",
+   "cat": "Sosta gratuita",
+   "indirizzo": "Presso il Parco delle Piscine",
+   "descrizione": "Vicino al Parco delle Piscine. Area attrezzata con camper service e corrente elettrica.",
+   "info": [
+    "Sosta gratuita",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "055 8045005"
+   ],
+   "scheda": "",
+   "lat": 44.0728,
+   "lon": 11.61112,
+   "posizione": "OpenStreetMap",
+   "avviso": ""
+  },
+  {
+   "n": 5,
+   "nome": "Parcheggio “Il Casone”",
+   "comune": "Palazzuolo sul Senio",
+   "cat": "Sosta gratuita",
+   "indirizzo": "Via del Poggiolino",
+   "descrizione": "A pochi passi dal centro storico e dall'ufficio informazioni turistiche. Area attrezzata con scarico acque grigie e nere, acqua potabile, corrente elettrica e area picnic.",
+   "info": [
+    "Sosta gratuita",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "Caravan ammessi",
+    "055 8046125 · turismo@comune.palazzuolo-sul-senio.fi.it"
+   ],
+   "scheda": "",
+   "lat": 44.11062,
+   "lon": 11.5493,
+   "posizione": "OpenStreetMap",
+   "avviso": ""
+  },
+  {
+   "n": 6,
+   "nome": "Parco pubblico “Brigata Fanfulla”, San Piero a Sieve",
+   "comune": "Scarperia e San Piero",
+   "cat": "Sosta gratuita",
+   "indirizzo": "Via Falcone, San Piero a Sieve",
+   "descrizione": "Nel parco pubblico di San Piero a Sieve. Area attrezzata con area picnic e giochi per bambini; strutture ricettive a un chilometro.",
+   "info": [
+    "Sosta gratuita",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "Caravan ammessi",
+    "055 84875"
+   ],
+   "scheda": "",
+   "lat": 43.9626,
+   "lon": 11.3273,
+   "posizione": "OpenStreetMap: punto di scarico in via Giudici Falcone e Borsellino",
+   "avviso": ""
+  },
+  {
+   "n": 7,
+   "nome": "Area camper La Pineta, Scarperia",
+   "comune": "Scarperia e San Piero",
+   "cat": "Sosta gratuita",
+   "indirizzo": "Loc. Pineta, via Boccaccio, Scarperia",
+   "descrizione": "A Scarperia, in località Pineta. Camper service, bagni, area picnic, barbecue e giochi per bambini.",
+   "info": [
+    "Sosta gratuita",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "Caravan ammessi",
+    "055 843161"
+   ],
+   "scheda": "",
+   "lat": 43.99746,
+   "lon": 11.35677,
+   "posizione": "approssimata: via Boccaccio",
+   "avviso": ""
+  },
+  {
+   "n": 8,
+   "nome": "Area sosta “Le Fornaci”",
+   "comune": "Firenzuola",
+   "cat": "Sosta a pagamento",
+   "indirizzo": "Loc. Le Fornaci, Firenzuola",
+   "descrizione": "In località Le Fornaci, con strutture ricettive a un chilometro. Camper service, scarico acque grigie e nere, corrente elettrica, area picnic e barbecue; area cani a 50 metri e giochi per bambini a 100 metri.",
+   "info": [
+    "Sosta a pagamento",
+    "Aperta tutto l'anno",
+    "Animali ammessi",
+    "055 8199441 · 055 8199477 · info@comune.firenzuola.fi.it"
+   ],
+   "scheda": "https://www.comune.firenzuola.fi.it",
+   "lat": 44.11641,
+   "lon": 11.37383,
+   "posizione": "OpenStreetMap",
+   "avviso": ""
+  },
+  {
+   "n": 9,
+   "nome": "Area camper Ponte a Vicchio",
+   "comune": "Vicchio",
+   "cat": "Sosta gratuita",
+   "indirizzo": "Loc. Ponte a Vicchio, via Piscine / via P. Costoli",
+   "descrizione": "In località Ponte a Vicchio, vicino alle piscine. Camper service, bagni e corrente elettrica.",
+   "info": [
+    "Aperta solo in stagione",
+    "Animali ammessi",
+    "Caravan ammessi",
+    "324 907 0857 · prolocovicchio2016@gmail.com"
+   ],
+   "scheda": "",
+   "lat": 43.93068,
+   "lon": 11.46378,
+   "posizione": "approssimata: piscine comunali di via Costoli",
+   "avviso": ""
+  }
+ ]
+}

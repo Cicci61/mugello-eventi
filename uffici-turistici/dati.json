@@ -1,0 +1,196 @@
+{
+ "slug": "uffici-turistici",
+ "titolo": "Uffici turistici del Mugello",
+ "sottotitolo": "Dove chiedere informazioni, mappe e consigli sul posto",
+ "meta": "Gli uffici di informazione turistica del Mugello sulla mappa, con orari, indirizzi e contatti. Fonte: Ufficio Turismo del Mugello.",
+ "fonte": {
+  "ente": "Ufficio Turismo del Mugello (Unione Montana dei Comuni del Mugello)",
+  "url": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione.html",
+  "letto": "2026-10-14"
+ },
+ "legenda": [
+  {
+   "chiave": "Ufficio turistico",
+   "colore": "#1f5f8b"
+  }
+ ],
+ "nota": "Orari e contatti come pubblicati dall'Ufficio Turismo del Mugello: possono cambiare, telefonate prima di andare. Ufficio Turismo del Mugello: 055 84527185/6, turismo@uc-mugello.fi.it.",
+ "voci": [
+  {
+   "n": 1,
+   "nome": "Ufficio Relazioni con il Pubblico",
+   "comune": "Barberino di Mugello",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Comune di Barberino, viale della Repubblica 24",
+   "descrizione": "",
+   "info": [
+    "Lunedì, mercoledì e venerdì 9-12",
+    "Martedì e giovedì 8:30-12 e 15-18",
+    "Tel. 055 8477261-262-263",
+    "urp@comune.barberino-di-mugello.fi.it"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/858-barberino-di-mugello-municipal-tourism-board.html",
+   "lat": 44.000413,
+   "lon": 11.238526,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  },
+  {
+   "n": 2,
+   "nome": "Ufficio Informazioni Turistiche",
+   "comune": "Borgo San Lorenzo",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Centro d'Incontro, piazza Dante 33",
+   "descrizione": "",
+   "info": [
+    "Venerdì 15-19, sabato 9-13 e 15-19",
+    "Tel. 055 8453414",
+    "infopointborgosl@gmail.com",
+    "Trasferito qui da Villa Pecori Giraldi, chiusa per lavori"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/294-borgo-san-lorenzo-tourism-information-office.html",
+   "lat": 43.956125,
+   "lon": 11.386192,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  },
+  {
+   "n": 3,
+   "nome": "Ufficio Cultura",
+   "comune": "Dicomano",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Comune di Dicomano, piazza della Repubblica 3",
+   "descrizione": "",
+   "info": [
+    "Orario invernale: martedì, venerdì e sabato 8:30-12:30, giovedì 15-18",
+    "Dal 30 giugno al 30 agosto: martedì, giovedì, venerdì e sabato 8:30-12:30",
+    "Tel. 055 8385408",
+    "cultura@comune.dicomano.fi.it"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/305-dicomano-municipal-tourism-office.html",
+   "lat": 43.89139,
+   "lon": 11.523624,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  },
+  {
+   "n": 4,
+   "nome": "Biblioteca comunale",
+   "comune": "Firenzuola",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Comune di Firenzuola, via SS. Annunziata 4",
+   "descrizione": "",
+   "info": [
+    "Lunedì 8:30-12:30 e 15-18",
+    "Martedì, mercoledì, venerdì e sabato 8:30-12:30",
+    "Giovedì 15-18",
+    "Tel. 055 8199434",
+    "cultura@comune.firenzuola.fi.it"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/295-firenzuola-municipal-tourism-office.html",
+   "lat": 44.118785,
+   "lon": 11.379702,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  },
+  {
+   "n": 5,
+   "nome": "Ufficio Informazioni Turistiche Pro Loco",
+   "comune": "Firenzuola",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Museo della pietra serena, piazza Don S. Casini 5",
+   "descrizione": "",
+   "info": [
+    "Lunedì e martedì 16-18",
+    "Mercoledì chiuso",
+    "Da giovedì a domenica 10-12",
+    "Tel. 055 8199477",
+    "firenzuolaproloco@gmail.com"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/296-firenzuola-uffici-informazioni-turistiche.html",
+   "lat": 44.118335,
+   "lon": 11.378086,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  },
+  {
+   "n": 6,
+   "nome": "Ufficio Informazioni Turistiche Pro Loco",
+   "comune": "Marradi",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Pro Loco, via Castelnaudary 5",
+   "descrizione": "",
+   "info": [
+    "Ottobre: tutti i giorni 9-12 e 15-18 (mercoledì solo mattina)",
+    "Da gennaio a maggio 9-12, domenica chiuso",
+    "Tel. 055 8045170",
+    "info@pro-marradi.it"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/297-marradi-ufficio-informazioni-turistiche.html",
+   "lat": 44.076946,
+   "lon": 11.613101,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  },
+  {
+   "n": 7,
+   "nome": "Ufficio Informazioni Turistiche Pro Loco",
+   "comune": "Palazzuolo sul Senio",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Palazzo dei Capitani, piazza Ettore Alpi 2",
+   "descrizione": "",
+   "info": [
+    "Aprile e maggio: domenica 10-12 e 15-17",
+    "Giugno, settembre e ottobre: sabato e domenica 10-12 e 15-17",
+    "Luglio e agosto: tutti i giorni tranne lunedì 10-12 e 15:30-17:30",
+    "Tel. 055 8046125",
+    "palazzuoloturismo@gmail.com"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/298-palazzuolo-sul-senio-tourist-information-office.html",
+   "lat": 44.112323,
+   "lon": 11.54791,
+   "posizione": "OpenStreetMap: Palazzo dei Capitani",
+   "avviso": ""
+  },
+  {
+   "n": 8,
+   "nome": "Ufficio Informazioni Turistiche Pro Loco",
+   "comune": "Scarperia e San Piero",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Palazzo dei Vicari, piazza dei Vicari 1, Scarperia",
+   "descrizione": "",
+   "info": [
+    "Lunedì, giovedì e venerdì 9-13 e 14:30-18:30",
+    "Martedì e mercoledì 9-13",
+    "Sabato e domenica 10-13 e 14:30-18:30, aperto tutti i festivi tranne il 25 dicembre",
+    "Tel. 055 8468165",
+    "informazioni@prolocoscarperia.it"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/301-scarperia-e-san-piero-tourist-information-office.html",
+   "lat": 43.995954,
+   "lon": 11.355017,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  },
+  {
+   "n": 9,
+   "nome": "Ufficio Relazioni col Pubblico",
+   "comune": "Vicchio",
+   "cat": "Ufficio turistico",
+   "indirizzo": "Comune di Vicchio, via Garibaldi 1",
+   "descrizione": "",
+   "info": [
+    "Lunedì, mercoledì, giovedì e venerdì 9-12",
+    "Martedì 9-13, giovedì anche 16-19",
+    "Sabato chiuso",
+    "Tel. 055 8439220",
+    "urp@comune.vicchio.fi.it"
+   ],
+   "scheda": "https://www.mugellotoscana.it/it/infopoint/uffici-informazione/item/303-vicchio-municipal-tourism-office.html",
+   "lat": 43.933546,
+   "lon": 11.465309,
+   "posizione": "civico ufficiale",
+   "avviso": ""
+  }
+ ]
+}
