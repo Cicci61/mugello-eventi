@@ -57,8 +57,24 @@ footer a { color: inherit; }
 <body>
 <header class="sito"><div class="in">
   <a class="marchio" href="../">Mugello Eventi</a>
-  <nav><a href="../">La guida</a><a href="../notizie/">Notizie</a><a href="../pubblica-evento.html">Pubblica il tuo evento</a></nav>
+  <nav><a href="../">La guida</a><a href="../notizie/">Notizie</a><a href="https://salutemugello.it/">Salute Mugello</a><a href="../pubblica-evento.html">Pubblica il tuo evento</a></nav>
 </div></header>
+<style>.radio{background:#fff;border:1px solid #e2d6b0;border-radius:10px;padding:16px 18px;margin:18px auto;max-width:760px;width:calc(100% - 32px);box-sizing:border-box}.radio h3{margin-top:0;color:#1f4d2b}.radio a{display:block;padding:8px 0;border-bottom:1px solid #eee4c8;text-decoration:none;color:inherit}.radio a b{display:block;font-size:.98rem;color:#2b2b23}.radio small{color:#6b6558}.radio a.tutte{border:0;color:#1f4d2b;font-weight:600}@media (prefers-color-scheme: dark){.radio{background:#221e16;border-color:#3a3426}.radio a b{color:#ece6d6}.radio h3,.radio a.tutte{color:#c9a227}}</style><section class="radio" id="radio"><h3>Le notizie di Radio Mugello</h3><div id="radio-lista"><a href="https://www.radiomugello.it/cronaca/firenzuola-disavanzo-comunale-da-92mila-euro-lopposizione-contesta-il-piano-di-rientro-a-pagare-saranno-i-cittadini/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Firenzuola – Disavanzo comunale da 92mila euro, l’opposizione contesta il piano di rientro: «A pagare saranno i cittadini»</b></a><a href="https://www.radiomugello.it/cronaca/intelligenza-artificiale-cresce-luso-nelle-piccole-imprese-al-mugello-ai-forum-la-sfida-delle-competenze/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Intelligenza artificiale, cresce l’uso nelle piccole imprese: al Mugello AI Forum la sfida delle competenze</b></a><a href="https://www.radiomugello.it/cronaca/vino-ed-eccellenze-del-mugello-guardano-alla-cina-incontro-per-i-produttori-locali/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Vino ed eccellenze del Mugello guardano alla Cina: incontro per i produttori locali</b></a><a href="https://www.radiomugello.it/cronaca/trasporti-fdi-borgo-s-lorenzo-scarperia-e-s-piero-giani-risponda-ai-pendolari-del-mugello-i-ricorsi-non-fanno-arrivare-i-treni/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Trasporti, FdI Borgo S. Lorenzo Scarperia e S. Piero: «Giani risponda ai pendolari del Mugello: i ricorsi non fanno arrivare i treni»</b></a><a href="https://www.radiomugello.it/cronaca/barberino-lavori-alla-passerella-sullandolaccio-100mila-euro-per-completare-la-riqualificazione/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Barberino, lavori alla passerella sull’Andolaccio: 100mila euro per completare la riqualificazione</b></a><a href="https://www.radiomugello.it/cronaca/borgo-san-lorenzo-la-fotografia-della-salute-bene-il-sociale-da-rafforzare-cronicita-e-salute-mentale/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Borgo San Lorenzo, la fotografia della salute: bene il sociale, da rafforzare cronicità e salute mentale</b></a></div>
+<a class="tutte" href="https://www.radiomugello.it/" target="_blank" rel="noopener">Tutte le notizie su radiomugello.it →</a></section>
+<script>
+fetch('https://www.radiomugello.it/wp-json/wp/v2/posts?per_page=6&categories_exclude=25&_fields=title,link,date')
+  .then(function (r) { return r.json(); })
+  .then(function (d) {
+    var t = document.createElement('textarea');
+    var h = d.map(function (p) {
+      t.innerHTML = p.title.rendered;
+      var tit = t.value.replace(/[&<>"]/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]; });
+      var g = new Date(p.date).toLocaleDateString('it-IT', {day: 'numeric', month: 'long'});
+      return '<a href="' + p.link + '" target="_blank" rel="noopener"><small>' + g + '</small><b>' + tit + '</b></a>';
+    }).join('');
+    if (h) { document.getElementById('radio-lista').innerHTML = h; document.getElementById('radio').hidden = false; }
+  }).catch(function () {});
+</script>
 <main>
 <h1>Notizie</h1>
 <p class="motto">Notizie ed eventi in Mugello e Alto Mugello</p>
