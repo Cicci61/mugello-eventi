@@ -80,22 +80,7 @@
 </header>
 <main>
   <section class="evidenza"><div class="ev-invito" id="ev-invito"><b>Il tuo evento qui</b> · Vuoi che il tuo evento sia il primo che si vede su Mugello Event? <a href="pubblica-evento.html">Chiedi lo spazio in evidenza</a></div></section><script>(function(){var o=new Date().toISOString().slice(0,10),n=0;document.querySelectorAll(".ev-sch").forEach(function(e){if((e.dataset.al&&e.dataset.al<o)||(e.dataset.dal&&e.dataset.dal>o))e.remove();else n++;});if(!n)document.getElementById("ev-invito").hidden=false;})();</script>
-  <section class="radio" id="radio"><h3>Le notizie di Radio Mugello</h3><div id="radio-lista"><a href="https://www.radiomugello.it/cronaca/firenzuola-disavanzo-comunale-da-92mila-euro-lopposizione-contesta-il-piano-di-rientro-a-pagare-saranno-i-cittadini/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Firenzuola – Disavanzo comunale da 92mila euro, l’opposizione contesta il piano di rientro: «A pagare saranno i cittadini»</b></a><a href="https://www.radiomugello.it/cronaca/intelligenza-artificiale-cresce-luso-nelle-piccole-imprese-al-mugello-ai-forum-la-sfida-delle-competenze/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Intelligenza artificiale, cresce l’uso nelle piccole imprese: al Mugello AI Forum la sfida delle competenze</b></a><a href="https://www.radiomugello.it/cronaca/vino-ed-eccellenze-del-mugello-guardano-alla-cina-incontro-per-i-produttori-locali/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Vino ed eccellenze del Mugello guardano alla Cina: incontro per i produttori locali</b></a><a href="https://www.radiomugello.it/cronaca/trasporti-fdi-borgo-s-lorenzo-scarperia-e-s-piero-giani-risponda-ai-pendolari-del-mugello-i-ricorsi-non-fanno-arrivare-i-treni/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Trasporti, FdI Borgo S. Lorenzo Scarperia e S. Piero: «Giani risponda ai pendolari del Mugello: i ricorsi non fanno arrivare i treni»</b></a><a href="https://www.radiomugello.it/cronaca/barberino-lavori-alla-passerella-sullandolaccio-100mila-euro-per-completare-la-riqualificazione/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Barberino, lavori alla passerella sull’Andolaccio: 100mila euro per completare la riqualificazione</b></a><a href="https://www.radiomugello.it/cronaca/borgo-san-lorenzo-la-fotografia-della-salute-bene-il-sociale-da-rafforzare-cronicita-e-salute-mentale/" target="_blank" rel="noopener"><small>14 ottobre</small><b>Borgo San Lorenzo, la fotografia della salute: bene il sociale, da rafforzare cronicità e salute mentale</b></a></div>
-<a class="tutte" href="https://www.radiomugello.it/" target="_blank" rel="noopener">Tutte le notizie su radiomugello.it →</a></section>
-<script>
-fetch('https://www.radiomugello.it/wp-json/wp/v2/posts?per_page=6&categories_exclude=25&_fields=title,link,date')
-  .then(function (r) { return r.json(); })
-  .then(function (d) {
-    var t = document.createElement('textarea');
-    var h = d.map(function (p) {
-      t.innerHTML = p.title.rendered;
-      var tit = t.value.replace(/[&<>"]/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]; });
-      var g = new Date(p.date).toLocaleDateString('it-IT', {day: 'numeric', month: 'long'});
-      return '<a href="' + p.link + '" target="_blank" rel="noopener"><small>' + g + '</small><b>' + tit + '</b></a>';
-    }).join('');
-    if (h) { document.getElementById('radio-lista').innerHTML = h; document.getElementById('radio').hidden = false; }
-  }).catch(function () {});
-</script>
+  
   <h2>Weekend 16–18 ottobre 2026</h2>
   <p style="text-align:center;margin:-6px 0 18px"><a href="weekend/16-18ott2026/" style="color:var(--verde)">Leggi la guida in versione testo</a></p>
   <div class="pagine">
