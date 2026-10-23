@@ -1,0 +1,570 @@
+{
+ "titolo": "Teatri del Mugello e della Val di Sieve",
+ "sottotitolo": "Le stagioni 2026/27 di quattro teatri, sempre aggiornate",
+ "meta": "Le stagioni teatrali 2026/27 del Teatro Giotto di Vicchio, del Teatro Giotto di Borgo San Lorenzo, del Teatro Corsini di Barberino di Mugello e del Piccolo Teatro di Rufina: date, orari, abbonamenti e biglietti.",
+ "controllato": "2026-10-23",
+ "teatri": [
+  {
+   "id": "giotto-vicchio",
+   "nome": "Teatro Giotto",
+   "comune": "Vicchio",
+   "indirizzo": "Vicchio",
+   "maps": "Teatro Giotto, Vicchio FI",
+   "colore": "#6d3f63",
+   "intro": "Nove appuntamenti: sette spettacoli di prosa, la serata di San Silvestro e un evento del Giotto Jazz Festival. Cartellone del Comune di Vicchio con la Fondazione Toscana Spettacolo.",
+   "fonti": [
+    {
+     "nome": "teatrogiotto.it",
+     "url": "https://www.teatrogiotto.it/"
+    },
+    {
+     "nome": "Radio Mugello, 21/10/2026",
+     "url": "https://www.radiomugello.it/cultura/teatro-giotto-di-vicchio-nove-appuntamenti-per-la-stagione-2026-27-nuovi-abbonamenti-dal-2-novembre/"
+    }
+   ],
+   "abbonamenti": {
+    "fino": "2026-11-07",
+    "righe": [
+     "Vecchi abbonati: conferma entro sabato 31 ottobre.",
+     "Nuovi abbonamenti dal 2 al 7 novembre: lunedì 2 e mercoledì 4 dalle 18:15 alle 20, venerdì 6 dalle 15 alle 18, sabato 7 dalle 10 alle 12.",
+     "7 spettacoli di prosa 100 euro (ridotto 90); con il Giotto Jazz Festival 110 euro (ridotto 100)."
+    ]
+   },
+   "biglietti": "Biglietto 17 euro, ridotto 15, under 30 8 euro. In stagione la biglietteria apre il giorno prima di ogni spettacolo dalle 18:15 alle 20 e il giorno dello spettacolo dalle 20:15.",
+   "contatti": "353 4906678 · teatrogiottovicchio@gmail.com",
+   "spettacoli": [
+    {
+     "data": "2026-11-13",
+     "ora": "21:15",
+     "titolo": "L'amante",
+     "con": "Giorgio Marchesi, Simonetta Solder",
+     "nota": "da Harold Pinter",
+     "sezione": ""
+    },
+    {
+     "data": "2026-12-11",
+     "ora": "21:15",
+     "titolo": "Metaforicamente Schiros",
+     "con": "Beatrice Schiros",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2026-12-31",
+     "ora": "22:30",
+     "titolo": "Borderline",
+     "con": "Lara Gallo",
+     "nota": "San Silvestro, fuori abbonamento: 30 euro, 25 per gli abbonati",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-15",
+     "ora": "21:15",
+     "titolo": "Bruna è la notte",
+     "con": "Alessandro Riccio, Alberto Becucci",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-28",
+     "ora": "21:15",
+     "titolo": "Troilo e Cressida. L'Iliade raccontata da Shakespeare",
+     "con": "I Sacchi di Sabbia",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-02-10",
+     "ora": "21:15",
+     "titolo": "Algoritmo: lui e l'AI",
+     "con": "",
+     "nota": "un uomo e un robot umanoide",
+     "sezione": ""
+    },
+    {
+     "data": "2027-03-05",
+     "ora": "21:15",
+     "titolo": "Terzo tempo",
+     "con": "Lucia Vasini, Paolo Hendel",
+     "nota": "dal romanzo di Lidia Ravera",
+     "sezione": ""
+    },
+    {
+     "data": "2027-03-21",
+     "ora": "17:00",
+     "titolo": "La musica del silenzio",
+     "con": "Stefano Fresi, Giovanni Guidi",
+     "nota": "Giotto Jazz Festival",
+     "sezione": ""
+    },
+    {
+     "data": "2027-04-14",
+     "ora": "21:15",
+     "titolo": "Cari genitori",
+     "con": "Giulio Scarpati, Amanda Sandrelli",
+     "nota": "",
+     "sezione": ""
+    }
+   ]
+  },
+  {
+   "id": "giotto-borgo",
+   "nome": "Teatro Giotto",
+   "comune": "Borgo San Lorenzo",
+   "indirizzo": "Corso Matteotti 151, Borgo San Lorenzo",
+   "maps": "Teatro Giotto, Corso Matteotti 151, Borgo San Lorenzo FI",
+   "colore": "#2d5a3d",
+   "intro": "Sette appuntamenti tra prosa, danza e letteratura contemporanea, tutti alle 21. Cartellone del Comune di Borgo San Lorenzo con la Fondazione Toscana Spettacolo, in collaborazione con l'Accademia degli Audaci e con il supporto del Teatro Idea.",
+   "fonti": [
+    {
+     "nome": "Radio Mugello, 15/10/2026",
+     "url": "https://www.radiomugello.it/cultura/teatro-giotto-sette-spettacoli-per-la-stagione-2026-2027-si-parte-il-12-novembre-con-figli/"
+    }
+   ],
+   "abbonamenti": {
+    "fino": "2026-11-07",
+    "righe": [
+     "Alla Biblioteca comunale, piazza Garibaldi 10 (lunedì-venerdì 9-19).",
+     "Rinnovi dal 19 al 31 ottobre, con prelazione sul posto della stagione scorsa.",
+     "Nuovi abbonati dal 2 al 7 novembre."
+    ]
+   },
+   "biglietti": "I biglietti di «Figli» sono in vendita dal 9 novembre. Per gli altri spettacoli la prevendita in biblioteca parte il lunedì della settimana prima; al teatro i biglietti si comprano da mezz'ora prima dell'inizio.",
+   "contatti": "Biblioteca 055 8457197 · biblioteca@comune.borgo-san-lorenzo.fi.it · Teatro 055 8459658 · teatroidea@alice.it",
+   "spettacoli": [
+    {
+     "data": "2026-11-12",
+     "ora": "21:00",
+     "titolo": "Figli",
+     "con": "",
+     "nota": "di Mattia Torre",
+     "sezione": ""
+    },
+    {
+     "data": "2026-12-03",
+     "ora": "21:00",
+     "titolo": "Accabadora",
+     "con": "Anna Della Rosa",
+     "nota": "dal romanzo di Michela Murgia",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-27",
+     "ora": "21:00",
+     "titolo": "L'attrice",
+     "con": "Cristiana Capotondi",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-02-12",
+     "ora": "21:00",
+     "titolo": "Il medico dei maiali",
+     "con": "Luca Bizzarri, Francesco Montanari",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-03-03",
+     "ora": "21:00",
+     "titolo": "La governante",
+     "con": "Franco Branciaroli",
+     "nota": "di Vitaliano Brancati",
+     "sezione": ""
+    },
+    {
+     "data": "2027-03-17",
+     "ora": "21:00",
+     "titolo": "Casanova – Variazioni sul desiderio",
+     "con": "Compagnia Opus Ballet",
+     "nota": "danza",
+     "sezione": ""
+    },
+    {
+     "data": "2027-04-06",
+     "ora": "21:00",
+     "titolo": "Roccu u stortu. Una guerra infinita",
+     "con": "Fulvio Cauteruccio",
+     "nota": "",
+     "sezione": ""
+    }
+   ]
+  },
+  {
+   "id": "corsini",
+   "nome": "Teatro Corsini",
+   "comune": "Barberino di Mugello",
+   "indirizzo": "Via della Repubblica 3, Barberino di Mugello",
+   "maps": "Teatro Corsini, Via della Repubblica 3, Barberino di Mugello FI",
+   "colore": "#a8502f",
+   "intro": "«Dall'altra prospettiva»: una stagione a cura di Catalyst dedicata alle voci femminili e alla nuova drammaturgia, più la stagione per bambini e famiglie.",
+   "fonti": [
+    {
+     "nome": "catalyst.it, stagione serale",
+     "url": "https://www.catalyst.it/stagione-serale-20262027/"
+    },
+    {
+     "nome": "catalyst.it, teatro ragazzi",
+     "url": "https://www.catalyst.it/teatro-ragazzi-20262027/"
+    }
+   ],
+   "abbonamenti": {
+    "fino": "2026-10-30",
+    "righe": [
+     "In vendita fino al 30 ottobre.",
+     "Completo: 10 spettacoli più 2 a scelta, 144 euro (soci Coop 120).",
+     "A scelta: 5 spettacoli, 60 euro. Combo: 6 spettacoli e 6 ingressi al cinema, 100 euro. Under 25: 4 spettacoli, 25 euro."
+    ]
+   },
+   "biglietti": "Biglietto intero 18 euro (soci Coop 16), studenti e young 8 euro, bambini 3-12 anni 6 euro. Biglietteria lunedì e giovedì 16-20, sabato 10-13 e nei giorni di spettacolo dalle 16; biglietti anche su BoxOffice e Ticketone.",
+   "contatti": "055 841237 · teatrocorsini@gmail.com · catalyst.it",
+   "spettacoli": [
+    {
+     "data": "2026-10-24",
+     "ora": "16:30",
+     "titolo": "Evolution Clown",
+     "con": "Catalyst",
+     "nota": "festa di apertura: ingresso gratuito offerto da Fondazione CR Firenze, prenotazione obbligatoria sul portale voucher della Fondazione",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2026-10-30",
+     "ora": "21:00",
+     "titolo": "E lasciatemi divertire! Un omaggio a Paolo Poli",
+     "con": "Maria Cassi, Leonardo Brizzi",
+     "nota": "apertura della stagione",
+     "sezione": ""
+    },
+    {
+     "data": "2026-11-08",
+     "ora": "16:30",
+     "titolo": "I tre porcellini",
+     "con": "Pandemonium Teatro",
+     "nota": "dai 3 anni",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2026-11-20",
+     "ora": "21:00",
+     "titolo": "Piccola Iliade – Diario calcistico del '97/'98",
+     "con": "Valeria La Bua",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2026-11-25",
+     "ora": "21:00",
+     "titolo": "Ricordatemi come vi pare",
+     "con": "Marta Dalla Via, Valentina Melis",
+     "nota": "ispirato a Michela Murgia",
+     "sezione": ""
+    },
+    {
+     "data": "2026-11-29",
+     "ora": "16:30",
+     "titolo": "Peter Pan",
+     "con": "Teatro Blu",
+     "nota": "dai 4 anni",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2026-12-04",
+     "ora": "21:00",
+     "titolo": "Le donne che amano muoiono",
+     "con": "Claudia Allodi",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2026-12-11",
+     "ora": "21:00",
+     "titolo": "Pinocchio. Un bambino come tutti gli altri",
+     "con": "di Tonio De Nitto",
+     "nota": "per tutti, rassegna POIETICA",
+     "sezione": ""
+    },
+    {
+     "data": "2026-12-13",
+     "ora": "16:30",
+     "titolo": "Teo ha le orecchie curiose",
+     "con": "Teatro del Drago",
+     "nota": "dai 18 mesi",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2026-12-18",
+     "ora": "21:00",
+     "titolo": "Lavoro da morire",
+     "con": "Riccardo Rombi",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2026-12-20",
+     "ora": "16:30",
+     "titolo": "Il vestito nuovo dell'Imperatopo",
+     "con": "Accademia Perduta/Romagna Teatri",
+     "nota": "",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2026-12-31",
+     "ora": "22:00",
+     "titolo": "La Burla",
+     "con": "Madame Rebiné",
+     "nota": "commedia circense per San Silvestro",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-09",
+     "ora": "",
+     "titolo": "Te lo giuro sul tuo ex",
+     "con": "Jonathan Canini",
+     "nota": "anche domenica 10 gennaio · fuori abbonamento · orario da confermare",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-16",
+     "ora": "21:00",
+     "titolo": "Marylin oltre il sorriso",
+     "con": "Lyric Dance Company",
+     "nota": "danza",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-17",
+     "ora": "16:30",
+     "titolo": "La favola del Principe Granchio",
+     "con": "La Piccionaia",
+     "nota": "",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2027-01-29",
+     "ora": "21:00",
+     "titolo": "Nel blu – Avere tra le braccia tanta felicità",
+     "con": "Mario Perrotta",
+     "nota": "Domenico Modugno e l'Italia del 1958",
+     "sezione": ""
+    },
+    {
+     "data": "2027-02-12",
+     "ora": "21:00",
+     "titolo": "Odissea. Di città, uomini e menti",
+     "con": "Catalyst",
+     "nota": "anche sabato 13 febbraio · prima nazionale",
+     "sezione": ""
+    },
+    {
+     "data": "2027-02-14",
+     "ora": "16:30",
+     "titolo": "Ubuntu",
+     "con": "Compagnia TPO",
+     "nota": "",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2027-02-26",
+     "ora": "21:00",
+     "titolo": "Lui, Enrico",
+     "con": "Anna Meacci",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-02-28",
+     "ora": "16:30",
+     "titolo": "Raperonzolo",
+     "con": "i Pupi di Stac",
+     "nota": "dai 4 anni",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2027-03-06",
+     "ora": "21:00",
+     "titolo": "Storie della buonanotte per bambine ribelli",
+     "con": "Thony e i Solisti dell'Orchestra Multietnica di Arezzo",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-03-11",
+     "ora": "21:00",
+     "titolo": "Bovary",
+     "con": "Manifatture Teatrali Milanesi",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-03-14",
+     "ora": "16:30",
+     "titolo": "L'usignolo o dell'amicizia",
+     "con": "Teatro Pan",
+     "nota": "",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2027-03-21",
+     "ora": "18:00",
+     "titolo": "Lo sciopero delle bambine",
+     "con": "Rita Pelusio, Rossana Mola",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-04-02",
+     "ora": "21:00",
+     "titolo": "Mio padre è Sylvester Stallone",
+     "con": "Davide Niccolini",
+     "nota": "On STAGE, pubblico sul palco",
+     "sezione": ""
+    },
+    {
+     "data": "2027-04-04",
+     "ora": "16:30",
+     "titolo": "Come il brutto anatroccolo",
+     "con": "Teatro Crest",
+     "nota": "",
+     "sezione": "ragazzi"
+    },
+    {
+     "data": "2027-04-09",
+     "ora": "21:00",
+     "titolo": "A volo d'angelo",
+     "con": "Binario Vivo",
+     "nota": "On STAGE",
+     "sezione": ""
+    },
+    {
+     "data": "2027-04-16",
+     "ora": "21:00",
+     "titolo": "Nessun elenco di cose storte",
+     "con": "Sandra Garuglieri",
+     "nota": "On STAGE",
+     "sezione": ""
+    },
+    {
+     "data": "2027-04-23",
+     "ora": "21:00",
+     "titolo": "The Beat of Freedom – La Resistenza a fumetti",
+     "con": "Marta Cuscunà",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-05-07",
+     "ora": "21:00",
+     "titolo": "Riccardo III, quasi un'orazione civile",
+     "con": "Daniela Morozzi, Stefano Cocco Cantini",
+     "nota": "",
+     "sezione": ""
+    },
+    {
+     "data": "2027-05-13",
+     "ora": "",
+     "titolo": "DJ Show",
+     "con": "Sotterraneo",
+     "nota": "chiusura della stagione · giorno, orario e luogo da confermare",
+     "sezione": ""
+    }
+   ]
+  },
+  {
+   "id": "rufina",
+   "nome": "Piccolo Teatro",
+   "comune": "Rufina",
+   "indirizzo": "Piazza Umberto I, Rufina",
+   "maps": "Piccolo Teatro, Piazza Umberto I, Rufina FI",
+   "colore": "#c98a1f",
+   "intro": "Rufinateatro 2026/27: nove spettacoli tra commedia, vernacolo fiorentino e grandi classici, nel ricordo di Ezio Sarti, figura storica del Gruppo del Teatro di Rufina.",
+   "fonti": [
+    {
+     "nome": "Radio Mugello, 21/10/2026",
+     "url": "https://www.radiomugello.it/cronaca/rufinateatro-2026-2027-nove-spettacoli-nel-ricordo-di-ezio-sarti/"
+    }
+   ],
+   "abbonamenti": {
+    "fino": "2027-04-11",
+    "righe": [
+     "Abbonamento a tutta la stagione 90 euro; 70 per i soci Coop, Sieve Mutua e Sistema bibliotecario Mugello-Valdisieve; 50 per i militari."
+    ]
+   },
+   "biglietti": "Biglietto 12 euro, ridotto 10. Prenotazioni allo 055 8396177 (lasciando i dati alla segreteria telefonica) o su WhatsApp al 351 3115102.",
+   "contatti": "055 8396177 · WhatsApp 351 3115102",
+   "spettacoli": [
+    {
+     "data": "2026-10-25",
+     "ora": "16:30",
+     "titolo": "Ostaggi",
+     "con": "Compagnia Teatrale Seconda Volta",
+     "nota": "di Angelo Longoni, regia di Francesco Falsettini",
+     "sezione": ""
+    },
+    {
+     "data": "2026-11-08",
+     "ora": "",
+     "titolo": "Le nonne squillo",
+     "con": "Compagnia Teatrale Il Pontormo",
+     "nota": "di Dory Cei · orario da confermare",
+     "sezione": ""
+    },
+    {
+     "data": "2026-11-22",
+     "ora": "16:30",
+     "titolo": "Una questione delicata",
+     "con": "Gruppo del Teatro di Rufina",
+     "nota": "vernacolo fiorentino di Antonella Zucchini · repliche sab 28/11 ore 21:15, dom 29/11 ore 16:30, sab 5/12 ore 21:15",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-17",
+     "ora": "",
+     "titolo": "Un borghese piccolo piccolo",
+     "con": "Compagnia I Giardini dell'Arte",
+     "nota": "dal romanzo di Vincenzo Cerami · orario da confermare",
+     "sezione": ""
+    },
+    {
+     "data": "2027-01-24",
+     "ora": "",
+     "titolo": "Sposa chiunque basta sia ricco/a",
+     "con": "Compagnia Cerchio di Gesso",
+     "nota": "di Augusta Giglioli · orario da confermare",
+     "sezione": ""
+    },
+    {
+     "data": "2027-02-14",
+     "ora": "",
+     "titolo": "Fiorentini a Viareggio",
+     "con": "Compagnia Teatrale La Caldana",
+     "nota": "di Dory Cei · orario da confermare",
+     "sezione": ""
+    },
+    {
+     "data": "2027-02-28",
+     "ora": "",
+     "titolo": "Benvenuti in casa Gori",
+     "con": "Compagnia Metropolis Teatro",
+     "nota": "di Alessandro Benvenuti · orario da confermare",
+     "sezione": ""
+    },
+    {
+     "data": "2027-03-21",
+     "ora": "",
+     "titolo": "Twist",
+     "con": "Compagnia Unicorno",
+     "nota": "di Clive Exton · orario da confermare",
+     "sezione": ""
+    },
+    {
+     "data": "2027-04-11",
+     "ora": "",
+     "titolo": "La governante dei Cavour",
+     "con": "Marco Predieri, Francesca Nunzi",
+     "nota": "Compagnia Altrove Teatro · orario da confermare",
+     "sezione": ""
+    }
+   ]
+  }
+ ]
+}
