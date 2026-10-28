@@ -2,7 +2,7 @@
  "titolo": "Teatri del Mugello e della Val di Sieve",
  "sottotitolo": "Le stagioni 2026/27 di quattro teatri, sempre aggiornate",
  "meta": "Le stagioni teatrali 2026/27 del Teatro Giotto di Vicchio, del Teatro Giotto di Borgo San Lorenzo, del Teatro Corsini di Barberino di Mugello e del Piccolo Teatro di Rufina: date, orari, abbonamenti e biglietti.",
- "controllato": "2026-10-23",
+ "controllato": "2026-10-28",
  "teatri": [
   {
    "id": "giotto-vicchio",
@@ -479,6 +479,10 @@
    "intro": "Rufinateatro 2026/27: nove spettacoli tra commedia, vernacolo fiorentino e grandi classici, nel ricordo di Ezio Sarti, figura storica del Gruppo del Teatro di Rufina.",
    "fonti": [
     {
+     "nome": "rufinateatro.it",
+     "url": "https://www.rufinateatro.it/"
+    },
+    {
      "nome": "Radio Mugello, 21/10/2026",
      "url": "https://www.radiomugello.it/cronaca/rufinateatro-2026-2027-nove-spettacoli-nel-ricordo-di-ezio-sarti/"
     }
@@ -502,10 +506,10 @@
     },
     {
      "data": "2026-11-08",
-     "ora": "",
+     "ora": "16:30",
      "titolo": "Le nonne squillo",
      "con": "Compagnia Teatrale Il Pontormo",
-     "nota": "di Dory Cei · orario da confermare",
+     "nota": "di Dory Cei",
      "sezione": ""
     },
     {
@@ -518,50 +522,50 @@
     },
     {
      "data": "2027-01-17",
-     "ora": "",
+     "ora": "16:30",
      "titolo": "Un borghese piccolo piccolo",
      "con": "Compagnia I Giardini dell'Arte",
-     "nota": "dal romanzo di Vincenzo Cerami · orario da confermare",
+     "nota": "dal romanzo di Vincenzo Cerami",
      "sezione": ""
     },
     {
      "data": "2027-01-24",
-     "ora": "",
+     "ora": "16:30",
      "titolo": "Sposa chiunque basta sia ricco/a",
      "con": "Compagnia Cerchio di Gesso",
-     "nota": "di Augusta Giglioli · orario da confermare",
+     "nota": "di Augusta Giglioli",
      "sezione": ""
     },
     {
      "data": "2027-02-14",
-     "ora": "",
+     "ora": "16:30",
      "titolo": "Fiorentini a Viareggio",
      "con": "Compagnia Teatrale La Caldana",
-     "nota": "di Dory Cei · orario da confermare",
+     "nota": "di Dory Cei",
      "sezione": ""
     },
     {
      "data": "2027-02-28",
-     "ora": "",
+     "ora": "16:30",
      "titolo": "Benvenuti in casa Gori",
      "con": "Compagnia Metropolis Teatro",
-     "nota": "di Alessandro Benvenuti · orario da confermare",
+     "nota": "di Alessandro Benvenuti",
      "sezione": ""
     },
     {
      "data": "2027-03-21",
-     "ora": "",
+     "ora": "16:30",
      "titolo": "Twist",
      "con": "Compagnia Unicorno",
-     "nota": "di Clive Exton · orario da confermare",
+     "nota": "di Clive Exton",
      "sezione": ""
     },
     {
      "data": "2027-04-11",
-     "ora": "",
+     "ora": "16:30",
      "titolo": "La governante dei Cavour",
      "con": "Marco Predieri, Francesca Nunzi",
-     "nota": "Compagnia Altrove Teatro · orario da confermare",
+     "nota": "Compagnia Altrove Teatro",
      "sezione": ""
     }
    ]
