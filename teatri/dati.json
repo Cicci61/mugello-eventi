@@ -2,7 +2,7 @@
  "titolo": "Teatri del Mugello e della Val di Sieve",
  "sottotitolo": "Le stagioni 2026/27 di quattro teatri, sempre aggiornate",
  "meta": "Le stagioni teatrali 2026/27 del Teatro Giotto di Vicchio, del Teatro Giotto di Borgo San Lorenzo, del Teatro Corsini di Barberino di Mugello e del Piccolo Teatro di Rufina: date, orari, abbonamenti e biglietti.",
- "controllato": "2026-10-28",
+ "controllato": "2026-11-04",
  "teatri": [
   {
    "id": "giotto-vicchio",
@@ -490,10 +490,10 @@
    "abbonamenti": {
     "fino": "2027-04-11",
     "righe": [
-     "Abbonamento a tutta la stagione 90 euro; 70 per i soci Coop, Sieve Mutua e Sistema bibliotecario Mugello-Valdisieve; 50 per i militari."
+     "Abbonamento a tutta la stagione 90 euro; 70 per i soci Coop, Sieve Mutua e Sistema bibliotecario Mugello-Valdisieve; 50 per militari e ragazzi."
     ]
    },
-   "biglietti": "Biglietto 12 euro, ridotto 10. Prenotazioni allo 055 8396177 (lasciando i dati alla segreteria telefonica) o su WhatsApp al 351 3115102.",
+   "biglietti": "Biglietto 12 euro, ridotto 10, militari e ragazzi 8. Prenotazioni allo 055 8396177 (lasciando i dati alla segreteria telefonica) o su WhatsApp al 351 3115102.",
    "contatti": "055 8396177 · WhatsApp 351 3115102",
    "spettacoli": [
     {
