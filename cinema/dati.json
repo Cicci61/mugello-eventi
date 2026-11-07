@@ -1,0 +1,175 @@
+{
+ "titolo": "Cinema del Mugello e della Val di Sieve",
+ "sottotitolo": "Sette sale e i film in programma, giorno per giorno",
+ "meta": "I cinema del Mugello e della Val di Sieve e i film in programma: Garibaldi di Scarperia, Don Bosco e Giotto di Borgo San Lorenzo, Corsini di Barberino, Giotto di Vicchio, DOP di Firenzuola e Teatro Cinema Italia di Pontassieve. Orari, indirizzi e contatti.",
+ "controllato": "2026-11-07",
+ "fonte_settimana": {
+  "nome": "Il Filo, «Tutti al cinema!», 6/11/2026",
+  "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"
+ },
+ "cinema": [
+  {
+   "id": "garibaldi-scarperia",
+   "nome": "Cinema Garibaldi",
+   "comune": "Scarperia e San Piero",
+   "indirizzo": "Via Filippo Lippi, Largo De André, Scarperia",
+   "maps": "Cinema Garibaldi, Scarperia FI",
+   "colore": "#8a3b2e",
+   "intro": "Cinema d'essai con una sala, gestito dall'Associazione Culturale Arzach.",
+   "programmazione": {"nome": "pagina Facebook del cinema", "url": "https://www.facebook.com/cinemagaribaldiscarperia"},
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "garibaldi.scarperia@gmail.com · Instagram @cinema_garibaldi_scarperia",
+   "fonti": [
+    {"nome": "cinemagaribaldiscarperia.it", "url": "https://www.cinemagaribaldiscarperia.it/"},
+    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+   ],
+   "film": [
+    {"titolo": "L'estranea", "regia": "", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}]}
+   ]
+  },
+  {
+   "id": "don-bosco-borgo",
+   "nome": "Cinema Don Bosco",
+   "comune": "Borgo San Lorenzo",
+   "indirizzo": "Corso Matteotti 184, Borgo San Lorenzo",
+   "maps": "Cinema Don Bosco, Corso Matteotti 184, Borgo San Lorenzo FI",
+   "colore": "#2f5d8a",
+   "intro": "Sala parrocchiale da 300 posti portata avanti dai volontari; d'estate le proiezioni si spostano all'Arena Don Bosco.",
+   "programmazione": {"nome": "Instagram del cinema", "url": "https://www.instagram.com/cinema.donbosco/"},
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "055 8495018",
+   "fonti": [
+    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"},
+    {"nome": "Il Filo, 25/02/2026", "url": "https://www.ilfilo.net/il-cinema-don-bosco-di-borgo-san-lorenzo-cerca-nuovi-volontari/"}
+   ],
+   "film": [
+    {"titolo": "Dio ride", "regia": "Giovanni Veronesi", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}, {"data": "2026-11-09", "ora": "21:30"}]}
+   ]
+  },
+  {
+   "id": "giotto-borgo",
+   "nome": "Teatro Cinema Giotto",
+   "comune": "Borgo San Lorenzo",
+   "indirizzo": "Corso Matteotti 151, Borgo San Lorenzo",
+   "maps": "Teatro Giotto, Corso Matteotti 151, Borgo San Lorenzo FI",
+   "colore": "#6d3f63",
+   "intro": "La stessa sala della stagione di prosa del Teatro Giotto: nelle sere senza spettacolo dal vivo si proiettano film.",
+   "programmazione": {"nome": "Il Filo, programmazione della settimana", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"},
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "055 8459658",
+   "fonti": [
+    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+   ],
+   "film": [
+    {"titolo": "Ragione e Sentimento", "regia": "", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}, {"data": "2026-11-09", "ora": "21:30"}]}
+   ]
+  },
+  {
+   "id": "corsini-barberino",
+   "nome": "Cinema Teatro Corsini",
+   "comune": "Barberino di Mugello",
+   "indirizzo": "Via della Repubblica 3, Barberino di Mugello",
+   "maps": "Teatro Corsini, Via della Repubblica 3, Barberino di Mugello FI",
+   "colore": "#a0702a",
+   "intro": "Il teatro comunale gestito da Catalyst: oltre alla stagione teatrale c'è una programmazione di cinema. Con l'abbonamento Combo ci sono 6 spettacoli e 6 ingressi al cinema.",
+   "programmazione": {"nome": "catalyst.it", "url": "https://www.catalyst.it/cinema-corsini-programmazione/"},
+   "giorni": "",
+   "biglietti": "Biglietteria lunedì e giovedì 16-20, sabato 10-13, e nei giorni di spettacolo dalle 16.",
+   "contatti": "055 841237 · teatrocorsini@gmail.com",
+   "fonti": [
+    {"nome": "catalyst.it", "url": "https://www.catalyst.it/cinema-corsini-programmazione/"},
+    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+   ],
+   "film": [
+    {"titolo": "Fatherland", "regia": "Paweł Pawlikowski", "durata": "", "nota": "Thomas Mann torna in Germania con la figlia Erika per un ciclo di conferenze su Goethe.",
+     "proiezioni": [{"data": "2026-11-07", "ora": "21:00"}, {"data": "2026-11-08", "ora": "21:00"}]}
+   ]
+  },
+  {
+   "id": "giotto-vicchio",
+   "nome": "Teatro Cinema Giotto",
+   "comune": "Vicchio",
+   "indirizzo": "Piazzetta dei Buoni 1, Vicchio",
+   "maps": "Teatro Giotto, Piazzetta dei Buoni 1, Vicchio FI",
+   "colore": "#3f6d4f",
+   "intro": "Il teatro di Vicchio è anche cinema. Da febbraio 2026 propone pure film in lingua originale, la domenica sera.",
+   "programmazione": {"nome": "pagina Facebook del Teatro Giotto", "url": "https://www.facebook.com/teatrogiottovicchio/"},
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "",
+   "fonti": [
+    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"},
+    {"nome": "Il Filo, 20/02/2026", "url": "https://cultura.ilfilo.net/cinema-giotto-vicchio-arrivano-film-lingua-originale-2026/"}
+   ],
+   "film": [
+    {"titolo": "L'estranea", "regia": "", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}]}
+   ]
+  },
+  {
+   "id": "dop-firenzuola",
+   "nome": "Cinema DOP, Sala Don Otello Puccetti",
+   "comune": "Firenzuola",
+   "indirizzo": "Via Giovanni Villani 42, Firenzuola",
+   "maps": "Via Giovanni Villani 42, Firenzuola FI",
+   "colore": "#5a4a8a",
+   "intro": "La sala del capoluogo dell'Alto Mugello, con i biglietti anche online.",
+   "programmazione": {"nome": "liveticket.it", "url": "https://www.liveticket.it/cinemadopfirenzuola"},
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "338 3394840",
+   "fonti": [
+    {"nome": "liveticket.it", "url": "https://www.liveticket.it/cinemadopfirenzuola"},
+    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+   ],
+   "film": [
+    {"titolo": "La città dei vivi", "regia": "", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-06", "ora": "21:15"}, {"data": "2026-11-07", "ora": "21:15"}, {"data": "2026-11-08", "ora": "21:15"}]}
+   ]
+  },
+  {
+   "id": "italia-pontassieve",
+   "nome": "Teatro Cinema Italia",
+   "comune": "Pontassieve",
+   "indirizzo": "Via Tanzini 48, Pontassieve",
+   "maps": "Teatro Cinema Italia, Via Tanzini 48, Pontassieve FI",
+   "colore": "#1f6f78",
+   "intro": "Due sale, la grande da 350 posti e la piccola da 95, con proiezioni anche nei giorni feriali e incontri con autori e registi.",
+   "programmazione": {"nome": "teatrocinemaitalia.it", "url": "https://www.teatrocinemaitalia.it/programma/cinema/"},
+   "giorni": "",
+   "biglietti": "Biglietto 8 euro (8,80 online); ridotto 6 euro per le pomeridiane dal lunedì al venerdì, studenti, under 25 e under 12; 5 euro le pomeridiane per gli over 65. Biglietteria martedì e giovedì 16:30-17:30 e un'ora prima delle proiezioni.",
+   "contatti": "331 4254819 (anche WhatsApp) · info@teatrocinemaitalia.it",
+   "fonti": [
+    {"nome": "teatrocinemaitalia.it", "url": "https://www.teatrocinemaitalia.it/programma/cinema/"},
+    {"nome": "prezzi", "url": "https://www.teatrocinemaitalia.it/info-e-biglietti/"}
+   ],
+   "film": [
+    {"titolo": "Dio ride", "regia": "Giovanni Veronesi", "durata": "114 minuti",
+     "nota": "Domenica 8 alle 18:30 in sala grande ci sono il regista Giovanni Veronesi, l'attore Maurizio Lombardi e lo sceneggiatore Nicola Deorsola.",
+     "proiezioni": [{"data": "2026-11-07", "ora": "15:45"}, {"data": "2026-11-07", "ora": "21:00"}, {"data": "2026-11-08", "ora": "18:30"}, {"data": "2026-11-08", "ora": "21:30"}, {"data": "2026-11-10", "ora": "18:30"}, {"data": "2026-11-11", "ora": "21:00"}]},
+    {"titolo": "Se domani non torno", "regia": "Paola Randi", "durata": "107 minuti",
+     "nota": "La storia di Giulia Cecchettin, dal libro del padre Gino «Cara Giulia».",
+     "proiezioni": [{"data": "2026-11-07", "ora": "16:00"}, {"data": "2026-11-07", "ora": "18:30"}, {"data": "2026-11-08", "ora": "15:30"}, {"data": "2026-11-10", "ora": "18:00"}]},
+    {"titolo": "Wild Horse Nine", "regia": "Martin McDonagh", "durata": "118 minuti", "nota": "",
+     "proiezioni": [{"data": "2026-11-07", "ora": "18:15"}, {"data": "2026-11-07", "ora": "21:00"}, {"data": "2026-11-08", "ora": "15:30"}, {"data": "2026-11-08", "ora": "18:00"}, {"data": "2026-11-10", "ora": "21:00"}, {"data": "2026-11-11", "ora": "18:30"}]},
+    {"titolo": "Spezie e bugie", "regia": "Amine Adjina", "durata": "114 minuti", "nota": "",
+     "proiezioni": [{"data": "2026-11-12", "ora": "17:30"}, {"data": "2026-11-12", "ora": "21:00"}]},
+    {"titolo": "2001: Odissea nello spazio", "regia": "Stanley Kubrick", "durata": "148 minuti", "nota": "Versione restaurata in 4K.",
+     "proiezioni": [{"data": "2026-11-17", "ora": "21:00"}]},
+    {"titolo": "Io sono l'Assente", "regia": "Adamo Antonacci", "durata": "78 minuti",
+     "nota": "Documentario su Alessandro Benvenuti, che lo presenta in sala con il regista. Biglietto 5 euro.",
+     "proiezioni": [{"data": "2026-11-19", "ora": "17:30"}, {"data": "2026-11-19", "ora": "21:00"}]},
+    {"titolo": "Calle Malaga", "regia": "Maryam Touzani", "durata": "116 minuti", "nota": "Biglietto 5 euro.",
+     "proiezioni": [{"data": "2026-11-26", "ora": "17:30"}, {"data": "2026-11-26", "ora": "21:00"}]},
+    {"titolo": "Il Bhutan e la felicità", "regia": "Arun Bhattarai, Dorottya Zurbò", "durata": "93 minuti", "nota": "",
+     "proiezioni": [{"data": "2026-12-03", "ora": "17:30"}, {"data": "2026-12-03", "ora": "21:00"}]}
+   ]
+  }
+ ]
+}
