@@ -1,228 +1,258 @@
 {
- "edizione": "6-8nov2026",
- "titolo": "6–8 novembre 2026",
- "url": "https://mugelloeventi.it/weekend/6-8nov2026/",
- "aggiornato": "2026-11-07",
+ "edizione": "13-15nov2026",
+ "titolo": "13–15 novembre 2026",
+ "url": "https://mugelloeventi.it/weekend/13-15nov2026/",
+ "aggiornato": "2026-11-11",
  "eventi": [
   {
-   "titolo": "«Endless Peaks», apericena e film",
-   "quando": "Venerdì 6 novembre 2026",
-   "inizio": "2026-11-06",
-   "fine": "2026-11-06",
-   "luogo": "Cinema Garibaldi, largo De André, Scarperia",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/endless-peaks-apericena-e-film/"
-  },
-  {
-   "titolo": "SI.EVO, inaugurazione del Festival dell'olio",
-   "quando": "Venerdì 6 novembre 2026",
-   "inizio": "2026-11-06",
-   "fine": "2026-11-06",
-   "luogo": "Villa Poggio Reale, viale Duca della Vittoria 7, Rufina",
-   "comune": "Rufina",
-   "cslug": "rufina",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/si-evo-inaugurazione-del-festival-dell-olio/"
-  },
-  {
-   "titolo": "«Un Mugellano in Quisqueya», il libro di Giovanni Berti",
-   "quando": "Venerdì 6 novembre 2026",
-   "inizio": "2026-11-06",
-   "fine": "2026-11-06",
-   "luogo": "Pieve di San Piero a Sieve, salone mediceo",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/un-mugellano-in-quisqueya-il-libro-di-giovanni-berti/"
-  },
-  {
-   "titolo": "Lamera Cup",
-   "quando": "Da venerdì 6 a domenica 8 novembre 2026",
-   "inizio": "2026-11-06",
-   "fine": "2026-11-08",
-   "luogo": "Mugello Circuit, Scarperia e San Piero",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/lamera-cup/"
-  },
-  {
-   "titolo": "Circolo di lettura giovani",
-   "quando": "Venerdì 6 novembre 2026",
-   "inizio": "2026-11-06",
-   "fine": "2026-11-06",
-   "luogo": "Biblioteca comunale, piazza Garibaldi 10, Borgo San Lorenzo",
+   "titolo": "«Figli» di Mattia Torre",
+   "quando": "Giovedì 12 novembre 2026",
+   "inizio": "2026-11-12",
+   "fine": "2026-11-12",
+   "luogo": "Teatro Giotto, Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/circolo-di-lettura-giovani/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/figli-di-mattia-torre/"
   },
   {
-   "titolo": "SI.EVO, mostra mercato e degustazioni",
-   "quando": "Sabato 7 e domenica 8 novembre 2026",
-   "inizio": "2026-11-07",
-   "fine": "2026-11-08",
-   "luogo": "Piazza Verdi, San Francesco (Pelago)",
-   "comune": "Pelago",
-   "cslug": "pelago",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/si-evo-mostra-mercato-e-degustazioni/"
+   "titolo": "«L'amante» al Teatro Giotto",
+   "quando": "Venerdì 13 novembre 2026",
+   "inizio": "2026-11-13",
+   "fine": "2026-11-13",
+   "luogo": "Teatro Giotto, Vicchio",
+   "comune": "Vicchio",
+   "cslug": "vicchio",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/l-amante-al-teatro-giotto/"
   },
   {
-   "titolo": "SI.EVO, Orto d'Autunno, mercatini e musica",
-   "quando": "Sabato 7 e domenica 8 novembre 2026",
-   "inizio": "2026-11-07",
-   "fine": "2026-11-08",
-   "luogo": "Borgo di Pontassieve, piazza Boetani",
+   "titolo": "Arkattak, cello orchestra",
+   "quando": "Venerdì 13 novembre 2026",
+   "inizio": "2026-11-13",
+   "fine": "2026-11-13",
+   "luogo": "Oratorio di Sant'Omobono, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/arkattak-cello-orchestra/"
+  },
+  {
+   "titolo": "«Un gatto nel computer»",
+   "quando": "Venerdì 13 novembre 2026",
+   "inizio": "2026-11-13",
+   "fine": "2026-11-13",
+   "luogo": "Oratorio parrocchiale di Galliano",
+   "comune": "Barberino di Mugello",
+   "cslug": "barberino-di-mugello",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/un-gatto-nel-computer/"
+  },
+  {
+   "titolo": "La Grande Guerra nei diari e nelle lettere",
+   "quando": "Venerdì 13 novembre 2026",
+   "inizio": "2026-11-13",
+   "fine": "2026-11-13",
+   "luogo": "Circolo Primo Maggio ARCI, Sieci",
    "comune": "Pontassieve",
    "cslug": "pontassieve",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/si-evo-orto-d-autunno-mercatini-e-musica/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/la-grande-guerra-nei-diari-e-nelle-lettere/"
   },
   {
-   "titolo": "Sagra del Tartufo Bianco, Nero e Tortello",
-   "quando": "Sabato 7 e domenica 8 novembre 2026",
-   "inizio": "2026-11-07",
-   "fine": "2026-11-08",
-   "luogo": "Circolo MCL, via San Martino 16, Scarperia",
+   "titolo": "«Magie di luce», Galileo Chini per bambini",
+   "quando": "Venerdì 13 novembre 2026",
+   "inizio": "2026-11-13",
+   "fine": "2026-11-13",
+   "luogo": "Biblioteca comunale, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/magie-di-luce-galileo-chini-per-bambini/"
+  },
+  {
+   "titolo": "Barberino Bambino: il DNA in cucina",
+   "quando": "Venerdì 13 novembre 2026",
+   "inizio": "2026-11-13",
+   "fine": "2026-11-13",
+   "luogo": "Biblioteca Padre E. Balducci, Barberino",
+   "comune": "Barberino di Mugello",
+   "cslug": "barberino-di-mugello",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/barberino-bambino-il-dna-in-cucina/"
+  },
+  {
+   "titolo": "«Wild Horse Nine»",
+   "quando": "Da venerdì 13 a domenica 15 novembre 2026",
+   "inizio": "2026-11-13",
+   "fine": "2026-11-15",
+   "luogo": "Cinema Garibaldi, Scarperia",
    "comune": "Scarperia e San Piero",
    "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/sagra-del-tartufo-bianco-nero-e-tortello/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/wild-horse-nine/"
+  },
+  {
+   "titolo": "Ingorgo Letterario",
+   "quando": "Sabato 14 e domenica 15 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-15",
+   "luogo": "Palazzo comunale, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/ingorgo-letterario/"
+  },
+  {
+   "titolo": "La Dolce Sfida",
+   "quando": "Sabato 14 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-14",
+   "luogo": "Palazzo dei Vicari, Scarperia",
+   "comune": "Scarperia e San Piero",
+   "cslug": "scarperia-e-san-piero",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/la-dolce-sfida/"
+  },
+  {
+   "titolo": "«I luoghi di San Francesco d'Assisi»",
+   "quando": "Sabato 14 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-14",
+   "luogo": "Chiesa di San Francesco, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/i-luoghi-di-san-francesco-d-assisi/"
+  },
+  {
+   "titolo": "Leggiamo al Museo: L'arte del ritratto",
+   "quando": "Sabato 14 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-14",
+   "luogo": "Museo della Pietra Serena, Firenzuola",
+   "comune": "Firenzuola",
+   "cslug": "firenzuola",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/leggiamo-al-museo-l-arte-del-ritratto/"
+  },
+  {
+   "titolo": "Leggiamo al Museo: Narciso ed Eco",
+   "quando": "Sabato 14 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-14",
+   "luogo": "Museo Archeologico Alto Mugello, Palazzuolo sul Senio",
+   "comune": "Palazzuolo sul Senio",
+   "cslug": "palazzuolo-sul-senio",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/leggiamo-al-museo-narciso-ed-eco/"
+  },
+  {
+   "titolo": "Leggiamo al Museo: Storie d'autunno",
+   "quando": "Sabato 14 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-14",
+   "luogo": "Museo della Vite e del Vino, Rufina",
+   "comune": "Rufina",
+   "cslug": "rufina",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/leggiamo-al-museo-storie-d-autunno/"
+  },
+  {
+   "titolo": "Baratto Kid Corner",
+   "quando": "Sabato 14 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-14",
+   "luogo": "Biblioteca di Ronta",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/baratto-kid-corner/"
+  },
+  {
+   "titolo": "Polcanto: libro-scambio e «Voci»",
+   "quando": "Sabato 14 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-14",
+   "luogo": "Associazione Ellera, Polcanto",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/polcanto-libro-scambio-e-voci/"
+  },
+  {
+   "titolo": "Sagra del Tartufo",
+   "quando": "Sabato 14 e domenica 15 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-15",
+   "luogo": "Circolo MCL, Scarperia",
+   "comune": "Scarperia e San Piero",
+   "cslug": "scarperia-e-san-piero",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/sagra-del-tartufo/"
   },
   {
    "titolo": "Festa delle Specialità al Tartufo",
-   "quando": "Sabato 7 e domenica 8 novembre 2026",
-   "inizio": "2026-11-07",
-   "fine": "2026-11-08",
-   "luogo": "SMS Croce Azzurra, piazza Sergio Chiari 5, Sieci",
+   "quando": "Sabato 14 e domenica 15 novembre 2026",
+   "inizio": "2026-11-14",
+   "fine": "2026-11-15",
+   "luogo": "SMS Croce Azzurra, Sieci",
    "comune": "Pontassieve",
    "cslug": "pontassieve",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/festa-delle-specialita-al-tartufo/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/festa-delle-specialita-al-tartufo/"
   },
   {
-   "titolo": "«Il paesaggio palinsesto. Il caso del Mugello etrusco»",
-   "quando": "Sabato 7 novembre 2026",
-   "inizio": "2026-11-07",
-   "fine": "2026-11-07",
-   "luogo": "Accademia Dicomano, piazza della Repubblica 26, Dicomano",
-   "comune": "Dicomano",
-   "cslug": "dicomano",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/il-paesaggio-palinsesto-il-caso-del-mugello-etrusco/"
-  },
-  {
-   "titolo": "Barberino Bambino: «Vita nell'acqua»",
-   "quando": "Sabato 7 novembre 2026",
-   "inizio": "2026-11-07",
-   "fine": "2026-11-07",
-   "luogo": "Biblioteca Padre E. Balducci, Barberino di Mugello",
+   "titolo": "Fiera di Novembre a Galliano",
+   "quando": "Domenica 15 novembre 2026",
+   "inizio": "2026-11-15",
+   "fine": "2026-11-15",
+   "luogo": "Corso Marco da Galliano",
    "comune": "Barberino di Mugello",
    "cslug": "barberino-di-mugello",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/barberino-bambino-vita-nell-acqua/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/fiera-di-novembre-a-galliano/"
   },
   {
-   "titolo": "Quattro passi in fattoria, ritrovo",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Campo sportivo di Dicomano",
-   "comune": "Dicomano",
-   "cslug": "dicomano",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/quattro-passi-in-fattoria-ritrovo/"
-  },
-  {
-   "titolo": "Mercanzie in Piazza",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Via Provinciale, San Piero a Sieve",
+   "titolo": "«Tutti passano e nessuno lo sa!»",
+   "quando": "Domenica 15 novembre 2026",
+   "inizio": "2026-11-15",
+   "fine": "2026-11-15",
+   "luogo": "Sant'Agata, davanti alla farmacia",
    "comune": "Scarperia e San Piero",
    "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/mercanzie-in-piazza/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/tutti-passano-e-nessuno-lo-sa/"
   },
   {
-   "titolo": "Koncime, passeggiata narrativa",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Piazzetta de Cambray Digny 6, San Piero a Sieve",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/koncime-passeggiata-narrativa/"
-  },
-  {
-   "titolo": "«Orizzonti di Libertà», escursione sulla Linea Gotica",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "MuGot, Ponzalla 47, Scarperia e San Piero",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/orizzonti-di-liberta-escursione-sulla-linea-gotica/"
-  },
-  {
-   "titolo": "Dog trekking al Passo del Giogo",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Passo del Giogo, Scarperia e San Piero",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/dog-trekking-al-passo-del-giogo/"
-  },
-  {
-   "titolo": "Giornata dell'Agricoltura al Castello di Barberino",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Castello di Barberino, via di Castello 8, Barberino di Mugello",
-   "comune": "Barberino di Mugello",
-   "cslug": "barberino-di-mugello",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/giornata-dell-agricoltura-al-castello-di-barberino/"
-  },
-  {
-   "titolo": "Stortellata in Mise",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Centro Giovanile del Mugello, Santuario del SS. Crocifisso, Borgo San Lorenzo",
+   "titolo": "Sentiero dei pittori",
+   "quando": "Domenica 15 novembre 2026",
+   "inizio": "2026-11-15",
+   "fine": "2026-11-15",
+   "luogo": "Stazione FS di Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/stortellata-in-mise/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/sentiero-dei-pittori/"
   },
   {
-   "titolo": "Gloriosus Franciscus, Ensemble Anonima Frottolisti",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Ex chiesa di San Francesco, Borgo San Lorenzo",
+   "titolo": "La Smarronata del CAI",
+   "quando": "Domenica 15 novembre 2026",
+   "inizio": "2026-11-15",
+   "fine": "2026-11-15",
+   "luogo": "Cimitero di Castagno d'Andrea",
+   "comune": "San Godenzo",
+   "cslug": "san-godenzo",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/la-smarronata-del-cai/"
+  },
+  {
+   "titolo": "«Visionari», violoncello e clavicembalo",
+   "quando": "Domenica 15 novembre 2026",
+   "inizio": "2026-11-15",
+   "fine": "2026-11-15",
+   "luogo": "Palazzo dei Vicari, Scarperia",
+   "comune": "Scarperia e San Piero",
+   "cslug": "scarperia-e-san-piero",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/visionari-violoncello-e-clavicembalo/"
+  },
+  {
+   "titolo": "Festa di San Martino",
+   "quando": "Domenica 15 novembre 2026",
+   "inizio": "2026-11-15",
+   "fine": "2026-11-15",
+   "luogo": "Chiesa di San Martino, Rufina",
+   "comune": "Rufina",
+   "cslug": "rufina",
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/festa-di-san-martino/"
+  },
+  {
+   "titolo": "Audizioni Coro dei Mugellini",
+   "quando": "Domenica 15 novembre 2026",
+   "inizio": "2026-11-15",
+   "fine": "2026-11-15",
+   "luogo": "Auditorium Paola Leoni, Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/gloriosus-franciscus-ensemble-anonima-frottolisti/"
-  },
-  {
-   "titolo": "«I tre porcellini», teatro ragazzi",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Teatro Corsini, Barberino di Mugello",
-   "comune": "Barberino di Mugello",
-   "cslug": "barberino-di-mugello",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/i-tre-porcellini-teatro-ragazzi/"
-  },
-  {
-   "titolo": "«Le nonne squillo»",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Piccolo Teatro di Rufina",
-   "comune": "Rufina",
-   "cslug": "rufina",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/le-nonne-squillo/"
-  },
-  {
-   "titolo": "Museo della Vite e del Vino, ingresso gratuito",
-   "quando": "Domenica 8 novembre 2026",
-   "inizio": "2026-11-08",
-   "fine": "2026-11-08",
-   "luogo": "Villa di Poggio Reale, Rufina",
-   "comune": "Rufina",
-   "cslug": "rufina",
-   "url": "https://mugelloeventi.it/weekend/6-8nov2026/museo-della-vite-e-del-vino-ingresso-gratuito/"
+   "url": "https://mugelloeventi.it/weekend/13-15nov2026/audizioni-coro-dei-mugellini/"
   }
  ]
 }
