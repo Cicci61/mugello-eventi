@@ -2,9 +2,9 @@
  "titolo": "Cinema del Mugello e della Val di Sieve",
  "sottotitolo": "Sette sale e i film in programma, giorno per giorno",
  "meta": "I cinema del Mugello e della Val di Sieve e i film in programma: Garibaldi di Scarperia, Don Bosco e Giotto di Borgo San Lorenzo, Corsini di Barberino, Giotto di Vicchio, DOP di Firenzuola e Teatro Cinema Italia di Pontassieve. Orari, indirizzi e contatti.",
- "controllato": "2026-11-07",
+ "controllato": "2026-11-13",
  "fonte_settimana": {
-  "nome": "Il Filo, «Tutti al cinema!», 6/11/2026",
+  "nome": "Il Filo, «Tutti al cinema!», aggiornato il 10/11/2026",
   "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"
  },
  "cinema": [
@@ -22,11 +22,11 @@
    "contatti": "garibaldi.scarperia@gmail.com · Instagram @cinema_garibaldi_scarperia",
    "fonti": [
     {"nome": "cinemagaribaldiscarperia.it", "url": "https://www.cinemagaribaldiscarperia.it/"},
-    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+    {"nome": "Il Filo, 10/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
    ],
    "film": [
-    {"titolo": "L'estranea", "regia": "", "durata": "", "nota": "",
-     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}]}
+    {"titolo": "Wild Horse Nine", "regia": "Martin McDonagh", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-13", "ora": "21:30"}, {"data": "2026-11-14", "ora": "21:30"}, {"data": "2026-11-15", "ora": "17:30"}, {"data": "2026-11-15", "ora": "21:30"}]}
    ]
   },
   {
@@ -42,12 +42,14 @@
    "biglietti": "",
    "contatti": "055 8495018",
    "fonti": [
-    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"},
+    {"nome": "Il Filo, 10/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"},
     {"nome": "Il Filo, 25/02/2026", "url": "https://www.ilfilo.net/il-cinema-don-bosco-di-borgo-san-lorenzo-cerca-nuovi-volontari/"}
    ],
    "film": [
-    {"titolo": "Dio ride", "regia": "Giovanni Veronesi", "durata": "", "nota": "",
-     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}, {"data": "2026-11-09", "ora": "21:30"}]}
+    {"titolo": "Se domani non torno", "regia": "Paola Randi", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-14", "ora": "21:30"}, {"data": "2026-11-15", "ora": "17:30"}, {"data": "2026-11-15", "ora": "21:30"}, {"data": "2026-11-16", "ora": "21:30"}]},
+    {"titolo": "Il gatto con il cappello", "regia": "", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-15", "ora": "15:00"}]}
    ]
   },
   {
@@ -63,11 +65,11 @@
    "biglietti": "",
    "contatti": "055 8459658",
    "fonti": [
-    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+    {"nome": "Il Filo, 10/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
    ],
    "film": [
-    {"titolo": "Ragione e Sentimento", "regia": "", "durata": "", "nota": "",
-     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}, {"data": "2026-11-09", "ora": "21:30"}]}
+    {"titolo": "Un weekend artificiale", "regia": "Leonardo Pieraccioni", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-13", "ora": "21:30"}, {"data": "2026-11-14", "ora": "17:30"}, {"data": "2026-11-14", "ora": "21:30"}, {"data": "2026-11-15", "ora": "15:30"}, {"data": "2026-11-15", "ora": "17:30"}, {"data": "2026-11-15", "ora": "21:30"}, {"data": "2026-11-16", "ora": "21:30"}]}
    ]
   },
   {
@@ -84,11 +86,13 @@
    "contatti": "055 841237 · teatrocorsini@gmail.com",
    "fonti": [
     {"nome": "catalyst.it", "url": "https://www.catalyst.it/cinema-corsini-programmazione/"},
-    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+    {"nome": "Il Filo, 10/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
    ],
    "film": [
-    {"titolo": "Fatherland", "regia": "Paweł Pawlikowski", "durata": "", "nota": "Thomas Mann torna in Germania con la figlia Erika per un ciclo di conferenze su Goethe.",
-     "proiezioni": [{"data": "2026-11-07", "ora": "21:00"}, {"data": "2026-11-08", "ora": "21:00"}]}
+    {"titolo": "Dio ride", "regia": "Giovanni Veronesi", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-14", "ora": "21:00"}, {"data": "2026-11-15", "ora": "17:00"}, {"data": "2026-11-15", "ora": "21:00"}]},
+    {"titolo": "Se domani non torno", "regia": "Paola Randi", "durata": "", "nota": "Il film tratto dalla storia di Giulia Cecchettin.",
+     "proiezioni": [{"data": "2026-11-21", "ora": "21:00"}, {"data": "2026-11-22", "ora": "17:00"}, {"data": "2026-11-22", "ora": "21:00"}]}
    ]
   },
   {
@@ -104,13 +108,10 @@
    "biglietti": "",
    "contatti": "",
    "fonti": [
-    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"},
+    {"nome": "Il Filo, 10/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"},
     {"nome": "Il Filo, 20/02/2026", "url": "https://cultura.ilfilo.net/cinema-giotto-vicchio-arrivano-film-lingua-originale-2026/"}
    ],
-   "film": [
-    {"titolo": "L'estranea", "regia": "", "durata": "", "nota": "",
-     "proiezioni": [{"data": "2026-11-07", "ora": "21:30"}, {"data": "2026-11-08", "ora": "17:30"}, {"data": "2026-11-08", "ora": "21:30"}]}
-   ]
+   "film": []
   },
   {
    "id": "dop-firenzuola",
@@ -126,11 +127,11 @@
    "contatti": "338 3394840",
    "fonti": [
     {"nome": "liveticket.it", "url": "https://www.liveticket.it/cinemadopfirenzuola"},
-    {"nome": "Il Filo, 6/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
+    {"nome": "Il Filo, 10/11/2026", "url": "https://www.ilfilo.net/tutti-al-cinema-i-film-in-programma-nelle-sale-del-mugello/"}
    ],
    "film": [
-    {"titolo": "La città dei vivi", "regia": "", "durata": "", "nota": "",
-     "proiezioni": [{"data": "2026-11-06", "ora": "21:15"}, {"data": "2026-11-07", "ora": "21:15"}, {"data": "2026-11-08", "ora": "21:15"}]}
+    {"titolo": "Dio ride", "regia": "Giovanni Veronesi", "durata": "", "nota": "",
+     "proiezioni": [{"data": "2026-11-13", "ora": "21:15"}, {"data": "2026-11-14", "ora": "21:15"}, {"data": "2026-11-15", "ora": "21:15"}]}
    ]
   },
   {
@@ -150,21 +151,23 @@
     {"nome": "prezzi", "url": "https://www.teatrocinemaitalia.it/info-e-biglietti/"}
    ],
    "film": [
-    {"titolo": "Dio ride", "regia": "Giovanni Veronesi", "durata": "114 minuti",
-     "nota": "Domenica 8 alle 18:30 in sala grande ci sono il regista Giovanni Veronesi, l'attore Maurizio Lombardi e lo sceneggiatore Nicola Deorsola.",
-     "proiezioni": [{"data": "2026-11-07", "ora": "15:45"}, {"data": "2026-11-07", "ora": "21:00"}, {"data": "2026-11-08", "ora": "18:30"}, {"data": "2026-11-08", "ora": "21:30"}, {"data": "2026-11-10", "ora": "18:30"}, {"data": "2026-11-11", "ora": "21:00"}]},
+    {"titolo": "Dio ride", "regia": "Giovanni Veronesi", "durata": "114 minuti", "nota": "",
+     "proiezioni": [{"data": "2026-11-13", "ora": "18:00"}, {"data": "2026-11-14", "ora": "21:00"}, {"data": "2026-11-15", "ora": "21:00"}, {"data": "2026-11-17", "ora": "18:30"}]},
     {"titolo": "Se domani non torno", "regia": "Paola Randi", "durata": "107 minuti",
      "nota": "La storia di Giulia Cecchettin, dal libro del padre Gino «Cara Giulia».",
-     "proiezioni": [{"data": "2026-11-07", "ora": "16:00"}, {"data": "2026-11-07", "ora": "18:30"}, {"data": "2026-11-08", "ora": "15:30"}, {"data": "2026-11-10", "ora": "18:00"}]},
-    {"titolo": "Wild Horse Nine", "regia": "Martin McDonagh", "durata": "118 minuti", "nota": "",
-     "proiezioni": [{"data": "2026-11-07", "ora": "18:15"}, {"data": "2026-11-07", "ora": "21:00"}, {"data": "2026-11-08", "ora": "15:30"}, {"data": "2026-11-08", "ora": "18:00"}, {"data": "2026-11-10", "ora": "21:00"}, {"data": "2026-11-11", "ora": "18:30"}]},
-    {"titolo": "Spezie e bugie", "regia": "Amine Adjina", "durata": "114 minuti", "nota": "",
-     "proiezioni": [{"data": "2026-11-12", "ora": "17:30"}, {"data": "2026-11-12", "ora": "21:00"}]},
+     "proiezioni": [{"data": "2026-11-13", "ora": "21:00"}, {"data": "2026-11-14", "ora": "16:00"}, {"data": "2026-11-14", "ora": "18:30"}, {"data": "2026-11-15", "ora": "15:45"}, {"data": "2026-11-15", "ora": "17:30"}, {"data": "2026-11-17", "ora": "21:00"}]},
+    {"titolo": "Wild Horse Nine", "regia": "Martin McDonagh", "durata": "118 minuti",
+     "nota": "Domenica 15 alle 20:30 e mercoledì 18 in versione originale inglese con sottotitoli in italiano.",
+     "proiezioni": [{"data": "2026-11-13", "ora": "18:00"}, {"data": "2026-11-13", "ora": "21:00"}, {"data": "2026-11-14", "ora": "18:30"}, {"data": "2026-11-14", "ora": "21:15"}, {"data": "2026-11-15", "ora": "18:15"}, {"data": "2026-11-15", "ora": "20:30"}, {"data": "2026-11-18", "ora": "21:00"}]},
+    {"titolo": "Wildwood - I segreti del bosco proibito", "regia": "Travis Knight", "durata": "139 minuti", "nota": "",
+     "proiezioni": [{"data": "2026-11-14", "ora": "15:30"}, {"data": "2026-11-17", "ora": "17:30"}]},
     {"titolo": "2001: Odissea nello spazio", "regia": "Stanley Kubrick", "durata": "148 minuti", "nota": "Versione restaurata in 4K.",
-     "proiezioni": [{"data": "2026-11-17", "ora": "21:00"}]},
+     "proiezioni": [{"data": "2026-11-17", "ora": "21:00"}, {"data": "2026-11-18", "ora": "17:30"}]},
     {"titolo": "Io sono l'Assente", "regia": "Adamo Antonacci", "durata": "78 minuti",
      "nota": "Documentario su Alessandro Benvenuti, che lo presenta in sala con il regista. Biglietto 5 euro.",
      "proiezioni": [{"data": "2026-11-19", "ora": "17:30"}, {"data": "2026-11-19", "ora": "21:00"}]},
+    {"titolo": "Un weekend artificiale", "regia": "Leonardo Pieraccioni", "durata": "91 minuti", "nota": "Altre proiezioni a seguire.",
+     "proiezioni": [{"data": "2026-11-20", "ora": "21:00"}]},
     {"titolo": "Calle Malaga", "regia": "Maryam Touzani", "durata": "116 minuti", "nota": "Biglietto 5 euro.",
      "proiezioni": [{"data": "2026-11-26", "ora": "17:30"}, {"data": "2026-11-26", "ora": "21:00"}]},
     {"titolo": "Il Bhutan e la felicità", "regia": "Arun Bhattarai, Dorottya Zurbò", "durata": "93 minuti", "nota": "",
