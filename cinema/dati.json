@@ -1,531 +1,1466 @@
 {
-  "titolo": "Cinema del Mugello e della Val di Sieve",
-  "sottotitolo": "Sette sale e i film in programma, giorno per giorno",
-  "meta": "I cinema del Mugello e della Val di Sieve e i film in programma: Garibaldi di Scarperia, Don Bosco e Giotto di Borgo San Lorenzo, Corsini di Barberino, Giotto di Vicchio, DOP di Firenzuola e Teatro Cinema Italia di Pontassieve. Orari, indirizzi e contatti.",
-  "controllato": "2026-11-16",
-  "cinema": [
+ "titolo": "Cinema del Mugello e della Val di Sieve",
+ "sottotitolo": "Sette sale e i film in programma, giorno per giorno. In fondo, cinque sale di Firenze",
+ "meta": "I cinema del Mugello e della Val di Sieve e i film in programma: Garibaldi di Scarperia, Don Bosco e Giotto di Borgo San Lorenzo, Corsini di Barberino, Giotto di Vicchio, DOP di Firenzuola e Teatro Cinema Italia di Pontassieve. Orari, indirizzi e contatti. In fondo, cinque sale scelte di Firenze.",
+ "controllato": "2026-11-16",
+ "cinema": [
+  {
+   "id": "garibaldi-scarperia",
+   "nome": "Cinema Garibaldi",
+   "comune": "Scarperia e San Piero",
+   "indirizzo": "Via Filippo Lippi, Largo De André, Scarperia",
+   "maps": "Cinema Garibaldi, Scarperia FI",
+   "colore": "#8a3b2e",
+   "intro": "Cinema d'essai con una sala, gestito dall'Associazione Culturale Arzach.",
+   "programmazione": {
+    "nome": "pagina Facebook del cinema",
+    "url": "https://www.facebook.com/cinemagaribaldiscarperia"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "garibaldi.scarperia@gmail.com · Instagram @cinema_garibaldi_scarperia",
+   "fonti": [
     {
-      "id": "garibaldi-scarperia",
-      "nome": "Cinema Garibaldi",
-      "comune": "Scarperia e San Piero",
-      "indirizzo": "Via Filippo Lippi, Largo De André, Scarperia",
-      "maps": "Cinema Garibaldi, Scarperia FI",
-      "colore": "#8a3b2e",
-      "intro": "Cinema d'essai con una sala, gestito dall'Associazione Culturale Arzach.",
-      "programmazione": {
-        "nome": "pagina Facebook del cinema",
-        "url": "https://www.facebook.com/cinemagaribaldiscarperia"
-      },
-      "giorni": "",
-      "biglietti": "",
-      "contatti": "garibaldi.scarperia@gmail.com · Instagram @cinema_garibaldi_scarperia",
-      "fonti": [
-        {
-          "nome": "Facebook del cinema",
-          "url": "https://www.facebook.com/cinemagaribaldiscarperia"
-        },
-        {
-          "nome": "cinemagaribaldiscarperia.it",
-          "url": "https://www.cinemagaribaldiscarperia.it/"
-        }
-      ],
-      "film": [
-        {
-          "titolo": "Wild Horse Nine",
-          "regia": "Martin McDonagh",
-          "durata": "",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-13",
-              "ora": "21:30"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "21:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "21:30"
-            }
-          ]
-        }
-      ]
+     "nome": "Facebook del cinema",
+     "url": "https://www.facebook.com/cinemagaribaldiscarperia"
     },
     {
-      "id": "don-bosco-borgo",
-      "nome": "Cinema Don Bosco",
-      "comune": "Borgo San Lorenzo",
-      "indirizzo": "Corso Matteotti 184, Borgo San Lorenzo",
-      "maps": "Cinema Don Bosco, Corso Matteotti 184, Borgo San Lorenzo FI",
-      "colore": "#2f5d8a",
-      "intro": "Sala parrocchiale da 300 posti portata avanti dai volontari; d'estate le proiezioni si spostano all'Arena Don Bosco.",
-      "programmazione": {
-        "nome": "Instagram del cinema",
-        "url": "https://www.instagram.com/cinema.donbosco/"
-      },
-      "giorni": "",
-      "biglietti": "",
-      "contatti": "055 8495018",
-      "fonti": [
-        {
-          "nome": "Instagram del cinema",
-          "url": "https://www.instagram.com/cinema.donbosco/"
-        },
-        {
-          "nome": "MYmovies, programmazione del giorno",
-          "url": "https://www.mymovies.it/cinema/firenze/borgosanlorenzo/5055/"
-        }
-      ],
-      "film": [
-        {
-          "titolo": "Se domani non torno",
-          "regia": "Paola Randi",
-          "durata": "",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-14",
-              "ora": "21:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "21:30"
-            },
-            {
-              "data": "2026-11-16",
-              "ora": "21:30"
-            }
-          ]
-        },
-        {
-          "titolo": "Il gatto con il cappello",
-          "regia": "",
-          "durata": "",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-15",
-              "ora": "15:00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "giotto-borgo",
-      "nome": "Teatro Cinema Giotto",
-      "comune": "Borgo San Lorenzo",
-      "indirizzo": "Corso Matteotti 151, Borgo San Lorenzo",
-      "maps": "Teatro Giotto, Corso Matteotti 151, Borgo San Lorenzo FI",
-      "colore": "#6d3f63",
-      "intro": "La stessa sala della stagione di prosa del Teatro Giotto: nelle sere senza spettacolo dal vivo si proiettano film.",
-      "programmazione": {
-        "nome": "MYmovies, programmazione del giorno",
-        "url": "https://www.mymovies.it/cinema/firenze/borgosanlorenzo/6104/"
-      },
-      "giorni": "",
-      "biglietti": "",
-      "contatti": "055 8459658",
-      "fonti": [
-        {
-          "nome": "MYmovies, programmazione del giorno",
-          "url": "https://www.mymovies.it/cinema/firenze/borgosanlorenzo/6104/"
-        }
-      ],
-      "film": [
-        {
-          "titolo": "Un weekend artificiale",
-          "regia": "Leonardo Pieraccioni",
-          "durata": "",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-13",
-              "ora": "21:30"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "21:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "15:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "21:30"
-            },
-            {
-              "data": "2026-11-16",
-              "ora": "21:30"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "corsini-barberino",
-      "nome": "Cinema Teatro Corsini",
-      "comune": "Barberino di Mugello",
-      "indirizzo": "Via della Repubblica 3, Barberino di Mugello",
-      "maps": "Teatro Corsini, Via della Repubblica 3, Barberino di Mugello FI",
-      "colore": "#a0702a",
-      "intro": "Il teatro comunale gestito da Catalyst: oltre alla stagione teatrale c'è una programmazione di cinema. Con l'abbonamento Combo ci sono 6 spettacoli e 6 ingressi al cinema.",
-      "programmazione": {
-        "nome": "catalyst.it",
-        "url": "https://www.catalyst.it/cinema-corsini-programmazione/"
-      },
-      "giorni": "",
-      "biglietti": "Biglietteria lunedì e giovedì 16-20, sabato 10-13, e nei giorni di spettacolo dalle 16.",
-      "contatti": "055 841237 · teatrocorsini@gmail.com",
-      "fonti": [
-        {
-          "nome": "catalyst.it",
-          "url": "https://www.catalyst.it/cinema-corsini-programmazione/"
-        }
-      ],
-      "film": [
-        {
-          "titolo": "Dio ride",
-          "regia": "Giovanni Veronesi",
-          "durata": "",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-14",
-              "ora": "21:00"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "17:00"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "21:00"
-            }
-          ]
-        },
-        {
-          "titolo": "Se domani non torno",
-          "regia": "Paola Randi",
-          "durata": "",
-          "nota": "Il film tratto dalla storia di Giulia Cecchettin.",
-          "proiezioni": [
-            {
-              "data": "2026-11-21",
-              "ora": "21:00"
-            },
-            {
-              "data": "2026-11-22",
-              "ora": "17:00"
-            },
-            {
-              "data": "2026-11-22",
-              "ora": "21:00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "giotto-vicchio",
-      "nome": "Teatro Cinema Giotto",
-      "comune": "Vicchio",
-      "indirizzo": "Piazzetta dei Buoni 1, Vicchio",
-      "maps": "Teatro Giotto, Piazzetta dei Buoni 1, Vicchio FI",
-      "colore": "#3f6d4f",
-      "intro": "Il teatro di Vicchio è anche cinema. Da febbraio 2026 propone pure film in lingua originale, la domenica sera.",
-      "programmazione": {
-        "nome": "pagina Facebook del Teatro Giotto",
-        "url": "https://www.facebook.com/teatrogiottovicchio/"
-      },
-      "giorni": "",
-      "biglietti": "",
-      "contatti": "cinemagiottovicchio@gmail.com",
-      "fonti": [
-        {
-          "nome": "Facebook del Teatro Giotto",
-          "url": "https://www.facebook.com/teatrogiottovicchio/"
-        },
-        {
-          "nome": "linktr.ee del cinema",
-          "url": "https://linktr.ee/cinemagiottovicchio"
-        }
-      ],
-      "film": []
-    },
-    {
-      "id": "dop-firenzuola",
-      "nome": "Cinema DOP, Sala Don Otello Puccetti",
-      "comune": "Firenzuola",
-      "indirizzo": "Via Giovanni Villani 42, Firenzuola",
-      "maps": "Via Giovanni Villani 42, Firenzuola FI",
-      "colore": "#5a4a8a",
-      "intro": "La sala del capoluogo dell'Alto Mugello, con i biglietti anche online.",
-      "programmazione": {
-        "nome": "liveticket.it",
-        "url": "https://www.liveticket.it/cinemadopfirenzuola"
-      },
-      "giorni": "",
-      "biglietti": "",
-      "contatti": "338 3394840",
-      "fonti": [
-        {
-          "nome": "liveticket.it",
-          "url": "https://www.liveticket.it/cinemadopfirenzuola"
-        }
-      ],
-      "film": [
-        {
-          "titolo": "Dio ride",
-          "regia": "Giovanni Veronesi",
-          "durata": "",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-13",
-              "ora": "21:15"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "21:15"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "21:15"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "italia-pontassieve",
-      "nome": "Teatro Cinema Italia",
-      "comune": "Pontassieve",
-      "indirizzo": "Via Tanzini 48, Pontassieve",
-      "maps": "Teatro Cinema Italia, Via Tanzini 48, Pontassieve FI",
-      "colore": "#1f6f78",
-      "intro": "Due sale, la grande da 350 posti e la piccola da 95, con proiezioni anche nei giorni feriali e incontri con autori e registi.",
-      "programmazione": {
-        "nome": "teatrocinemaitalia.it",
-        "url": "https://www.teatrocinemaitalia.it/programma/cinema/"
-      },
-      "giorni": "",
-      "biglietti": "Biglietto 8 euro (8,80 online); ridotto 6 euro per le pomeridiane dal lunedì al venerdì, studenti, under 25 e under 12; 5 euro le pomeridiane per gli over 65. Biglietteria martedì e giovedì 16:30-17:30 e un'ora prima delle proiezioni.",
-      "contatti": "331 4254819 (anche WhatsApp) · info@teatrocinemaitalia.it",
-      "fonti": [
-        {
-          "nome": "teatrocinemaitalia.it",
-          "url": "https://www.teatrocinemaitalia.it/programma/cinema/"
-        },
-        {
-          "nome": "prezzi",
-          "url": "https://www.teatrocinemaitalia.it/info-e-biglietti/"
-        }
-      ],
-      "film": [
-        {
-          "titolo": "Dio ride",
-          "regia": "Giovanni Veronesi",
-          "durata": "114 minuti",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-13",
-              "ora": "18:00"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "21:00"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "21:00"
-            },
-            {
-              "data": "2026-11-17",
-              "ora": "18:30"
-            }
-          ]
-        },
-        {
-          "titolo": "Se domani non torno",
-          "regia": "Paola Randi",
-          "durata": "107 minuti",
-          "nota": "La storia di Giulia Cecchettin, dal libro del padre Gino «Cara Giulia».",
-          "proiezioni": [
-            {
-              "data": "2026-11-13",
-              "ora": "21:00"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "16:00"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "18:30"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "15:45"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-11-17",
-              "ora": "21:00"
-            }
-          ]
-        },
-        {
-          "titolo": "Wild Horse Nine",
-          "regia": "Martin McDonagh",
-          "durata": "118 minuti",
-          "nota": "Domenica 15 alle 20:30 e mercoledì 18 in versione originale inglese con sottotitoli in italiano.",
-          "proiezioni": [
-            {
-              "data": "2026-11-13",
-              "ora": "18:00"
-            },
-            {
-              "data": "2026-11-13",
-              "ora": "21:00"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "18:30"
-            },
-            {
-              "data": "2026-11-14",
-              "ora": "21:15"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "18:15"
-            },
-            {
-              "data": "2026-11-15",
-              "ora": "20:30"
-            },
-            {
-              "data": "2026-11-18",
-              "ora": "21:00"
-            }
-          ]
-        },
-        {
-          "titolo": "Wildwood - I segreti del bosco proibito",
-          "regia": "Travis Knight",
-          "durata": "139 minuti",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-11-14",
-              "ora": "15:30"
-            },
-            {
-              "data": "2026-11-17",
-              "ora": "17:30"
-            }
-          ]
-        },
-        {
-          "titolo": "2001: Odissea nello spazio",
-          "regia": "Stanley Kubrick",
-          "durata": "148 minuti",
-          "nota": "Versione restaurata in 4K.",
-          "proiezioni": [
-            {
-              "data": "2026-11-17",
-              "ora": "21:00"
-            },
-            {
-              "data": "2026-11-18",
-              "ora": "17:30"
-            }
-          ]
-        },
-        {
-          "titolo": "Io sono l'Assente",
-          "regia": "Adamo Antonacci",
-          "durata": "78 minuti",
-          "nota": "Documentario su Alessandro Benvenuti, che lo presenta in sala con il regista. Biglietto 5 euro.",
-          "proiezioni": [
-            {
-              "data": "2026-11-19",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-11-19",
-              "ora": "21:00"
-            }
-          ]
-        },
-        {
-          "titolo": "Un weekend artificiale",
-          "regia": "Leonardo Pieraccioni",
-          "durata": "91 minuti",
-          "nota": "Altre proiezioni a seguire.",
-          "proiezioni": [
-            {
-              "data": "2026-11-20",
-              "ora": "21:00"
-            }
-          ]
-        },
-        {
-          "titolo": "Calle Malaga",
-          "regia": "Maryam Touzani",
-          "durata": "116 minuti",
-          "nota": "Biglietto 5 euro.",
-          "proiezioni": [
-            {
-              "data": "2026-11-26",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-11-26",
-              "ora": "21:00"
-            }
-          ]
-        },
-        {
-          "titolo": "Il Bhutan e la felicità",
-          "regia": "Arun Bhattarai, Dorottya Zurbò",
-          "durata": "93 minuti",
-          "nota": "",
-          "proiezioni": [
-            {
-              "data": "2026-12-03",
-              "ora": "17:30"
-            },
-            {
-              "data": "2026-12-03",
-              "ora": "21:00"
-            }
-          ]
-        }
-      ]
+     "nome": "cinemagaribaldiscarperia.it",
+     "url": "https://www.cinemagaribaldiscarperia.it/"
     }
-  ]
+   ],
+   "film": [
+    {
+     "titolo": "Wild Horse Nine",
+     "regia": "Martin McDonagh",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-13",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "21:30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "don-bosco-borgo",
+   "nome": "Cinema Don Bosco",
+   "comune": "Borgo San Lorenzo",
+   "indirizzo": "Corso Matteotti 184, Borgo San Lorenzo",
+   "maps": "Cinema Don Bosco, Corso Matteotti 184, Borgo San Lorenzo FI",
+   "colore": "#2f5d8a",
+   "intro": "Sala parrocchiale da 300 posti portata avanti dai volontari; d'estate le proiezioni si spostano all'Arena Don Bosco.",
+   "programmazione": {
+    "nome": "Instagram del cinema",
+    "url": "https://www.instagram.com/cinema.donbosco/"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "055 8495018",
+   "fonti": [
+    {
+     "nome": "Instagram del cinema",
+     "url": "https://www.instagram.com/cinema.donbosco/"
+    },
+    {
+     "nome": "MYmovies, programmazione del giorno",
+     "url": "https://www.mymovies.it/cinema/firenze/borgosanlorenzo/5055/"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Se domani non torno",
+     "regia": "Paola Randi",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-14",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "21:30"
+      }
+     ]
+    },
+    {
+     "titolo": "Il gatto con il cappello",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-15",
+       "ora": "15:00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "giotto-borgo",
+   "nome": "Teatro Cinema Giotto",
+   "comune": "Borgo San Lorenzo",
+   "indirizzo": "Corso Matteotti 151, Borgo San Lorenzo",
+   "maps": "Teatro Giotto, Corso Matteotti 151, Borgo San Lorenzo FI",
+   "colore": "#6d3f63",
+   "intro": "La stessa sala della stagione di prosa del Teatro Giotto: nelle sere senza spettacolo dal vivo si proiettano film.",
+   "programmazione": {
+    "nome": "MYmovies, programmazione del giorno",
+    "url": "https://www.mymovies.it/cinema/firenze/borgosanlorenzo/6104/"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "055 8459658",
+   "fonti": [
+    {
+     "nome": "MYmovies, programmazione del giorno",
+     "url": "https://www.mymovies.it/cinema/firenze/borgosanlorenzo/6104/"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Un weekend artificiale",
+     "regia": "Leonardo Pieraccioni",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-13",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "15:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "21:30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "corsini-barberino",
+   "nome": "Cinema Teatro Corsini",
+   "comune": "Barberino di Mugello",
+   "indirizzo": "Via della Repubblica 3, Barberino di Mugello",
+   "maps": "Teatro Corsini, Via della Repubblica 3, Barberino di Mugello FI",
+   "colore": "#a0702a",
+   "intro": "Il teatro comunale gestito da Catalyst: oltre alla stagione teatrale c'è una programmazione di cinema. Con l'abbonamento Combo ci sono 6 spettacoli e 6 ingressi al cinema.",
+   "programmazione": {
+    "nome": "catalyst.it",
+    "url": "https://www.catalyst.it/cinema-corsini-programmazione/"
+   },
+   "giorni": "",
+   "biglietti": "Biglietteria lunedì e giovedì 16-20, sabato 10-13, e nei giorni di spettacolo dalle 16.",
+   "contatti": "055 841237 · teatrocorsini@gmail.com",
+   "fonti": [
+    {
+     "nome": "catalyst.it",
+     "url": "https://www.catalyst.it/cinema-corsini-programmazione/"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Dio ride",
+     "regia": "Giovanni Veronesi",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-14",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "17:00"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Se domani non torno",
+     "regia": "Paola Randi",
+     "durata": "",
+     "nota": "Il film tratto dalla storia di Giulia Cecchettin.",
+     "proiezioni": [
+      {
+       "data": "2026-11-21",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-22",
+       "ora": "17:00"
+      },
+      {
+       "data": "2026-11-22",
+       "ora": "21:00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "giotto-vicchio",
+   "nome": "Teatro Cinema Giotto",
+   "comune": "Vicchio",
+   "indirizzo": "Piazzetta dei Buoni 1, Vicchio",
+   "maps": "Teatro Giotto, Piazzetta dei Buoni 1, Vicchio FI",
+   "colore": "#3f6d4f",
+   "intro": "Il teatro di Vicchio è anche cinema. Da febbraio 2026 propone pure film in lingua originale, la domenica sera.",
+   "programmazione": {
+    "nome": "pagina Facebook del Teatro Giotto",
+    "url": "https://www.facebook.com/teatrogiottovicchio/"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "cinemagiottovicchio@gmail.com",
+   "fonti": [
+    {
+     "nome": "Facebook del Teatro Giotto",
+     "url": "https://www.facebook.com/teatrogiottovicchio/"
+    },
+    {
+     "nome": "linktr.ee del cinema",
+     "url": "https://linktr.ee/cinemagiottovicchio"
+    }
+   ],
+   "film": []
+  },
+  {
+   "id": "dop-firenzuola",
+   "nome": "Cinema DOP, Sala Don Otello Puccetti",
+   "comune": "Firenzuola",
+   "indirizzo": "Via Giovanni Villani 42, Firenzuola",
+   "maps": "Via Giovanni Villani 42, Firenzuola FI",
+   "colore": "#5a4a8a",
+   "intro": "La sala del capoluogo dell'Alto Mugello, con i biglietti anche online.",
+   "programmazione": {
+    "nome": "liveticket.it",
+    "url": "https://www.liveticket.it/cinemadopfirenzuola"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "338 3394840",
+   "fonti": [
+    {
+     "nome": "liveticket.it",
+     "url": "https://www.liveticket.it/cinemadopfirenzuola"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Dio ride",
+     "regia": "Giovanni Veronesi",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-13",
+       "ora": "21:15"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "21:15"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "21:15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "italia-pontassieve",
+   "nome": "Teatro Cinema Italia",
+   "comune": "Pontassieve",
+   "indirizzo": "Via Tanzini 48, Pontassieve",
+   "maps": "Teatro Cinema Italia, Via Tanzini 48, Pontassieve FI",
+   "colore": "#1f6f78",
+   "intro": "Due sale, la grande da 350 posti e la piccola da 95, con proiezioni anche nei giorni feriali e incontri con autori e registi.",
+   "programmazione": {
+    "nome": "teatrocinemaitalia.it",
+    "url": "https://www.teatrocinemaitalia.it/programma/cinema/"
+   },
+   "giorni": "",
+   "biglietti": "Biglietto 8 euro (8,80 online); ridotto 6 euro per le pomeridiane dal lunedì al venerdì, studenti, under 25 e under 12; 5 euro le pomeridiane per gli over 65. Biglietteria martedì e giovedì 16:30-17:30 e un'ora prima delle proiezioni.",
+   "contatti": "331 4254819 (anche WhatsApp) · info@teatrocinemaitalia.it",
+   "fonti": [
+    {
+     "nome": "teatrocinemaitalia.it",
+     "url": "https://www.teatrocinemaitalia.it/programma/cinema/"
+    },
+    {
+     "nome": "prezzi",
+     "url": "https://www.teatrocinemaitalia.it/info-e-biglietti/"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Dio ride",
+     "regia": "Giovanni Veronesi",
+     "durata": "114 minuti",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-13",
+       "ora": "18:00"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "18:30"
+      }
+     ]
+    },
+    {
+     "titolo": "Se domani non torno",
+     "regia": "Paola Randi",
+     "durata": "107 minuti",
+     "nota": "La storia di Giulia Cecchettin, dal libro del padre Gino «Cara Giulia».",
+     "proiezioni": [
+      {
+       "data": "2026-11-13",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "18:30"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "15:45"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Wild Horse Nine",
+     "regia": "Martin McDonagh",
+     "durata": "118 minuti",
+     "nota": "Domenica 15 alle 20:30 e mercoledì 18 in versione originale inglese con sottotitoli in italiano.",
+     "proiezioni": [
+      {
+       "data": "2026-11-13",
+       "ora": "18:00"
+      },
+      {
+       "data": "2026-11-13",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "18:30"
+      },
+      {
+       "data": "2026-11-14",
+       "ora": "21:15"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "18:15"
+      },
+      {
+       "data": "2026-11-15",
+       "ora": "20:30"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Wildwood - I segreti del bosco proibito",
+     "regia": "Travis Knight",
+     "durata": "139 minuti",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-14",
+       "ora": "15:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "17:30"
+      }
+     ]
+    },
+    {
+     "titolo": "2001: Odissea nello spazio",
+     "regia": "Stanley Kubrick",
+     "durata": "148 minuti",
+     "nota": "Versione restaurata in 4K.",
+     "proiezioni": [
+      {
+       "data": "2026-11-17",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "17:30"
+      }
+     ]
+    },
+    {
+     "titolo": "Io sono l'Assente",
+     "regia": "Adamo Antonacci",
+     "durata": "78 minuti",
+     "nota": "Documentario su Alessandro Benvenuti, che lo presenta in sala con il regista. Biglietto 5 euro.",
+     "proiezioni": [
+      {
+       "data": "2026-11-19",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-19",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Un weekend artificiale",
+     "regia": "Leonardo Pieraccioni",
+     "durata": "91 minuti",
+     "nota": "Altre proiezioni a seguire.",
+     "proiezioni": [
+      {
+       "data": "2026-11-20",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Calle Malaga",
+     "regia": "Maryam Touzani",
+     "durata": "116 minuti",
+     "nota": "Biglietto 5 euro.",
+     "proiezioni": [
+      {
+       "data": "2026-11-26",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-26",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Il Bhutan e la felicità",
+     "regia": "Arun Bhattarai, Dorottya Zurbò",
+     "durata": "93 minuti",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-12-03",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-12-03",
+       "ora": "21:00"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "firenze_intro": "Cinque sale scelte per chi scende in città: un multisala e quattro cinema del centro, tra prime visioni, film d'autore e versioni originali. I film del fine settimana spesso escono a metà settimana: li aggiorniamo il mercoledì e il venerdì.",
+ "firenze": [
+  {
+   "id": "space-firenze",
+   "nome": "The Space Cinema Firenze",
+   "comune": "Firenze",
+   "indirizzo": "Via di Novoli 2, Firenze",
+   "maps": "The Space Cinema Firenze, Via di Novoli 2, Firenze",
+   "colore": "#1f4e79",
+   "intro": "Multisala con 8 sale a Novoli, a pochi chilometri dal centro: i film appena usciti.",
+   "programmazione": {
+    "nome": "thespacecinema.it",
+    "url": "https://www.thespacecinema.it/cinema/firenze/al-cinema"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "",
+   "fonti": [
+    {
+     "nome": "thespacecinema.it, programmazione ufficiale",
+     "url": "https://www.thespacecinema.it/cinema/firenze/al-cinema"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Godzilla Minus Zero",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "16:45"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "18:30"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "21:20"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "16:40"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "18:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:20"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "16:45"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "18:30"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "21:20"
+      }
+     ]
+    },
+    {
+     "titolo": "Se domani non torno",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "16:20"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "21:45"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "16:15"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:45"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "16:15"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "21:45"
+      }
+     ]
+    },
+    {
+     "titolo": "Il rumore delle cose nuove",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "16:20"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "18:00"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "20:50"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "16:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "18:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "20:50"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "16:30"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "18:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "20:50"
+      }
+     ]
+    },
+    {
+     "titolo": "Scrooge e gli spiriti del Natale",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "18:10"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "22:20"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "17:40"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "20:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "22:20"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "18:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "22:20"
+      }
+     ]
+    },
+    {
+     "titolo": "Un weekend artificiale",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "19:00"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "20:00"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "22:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "19:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "20:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "22:30"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "19:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "20:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "22:30"
+      }
+     ]
+    },
+    {
+     "titolo": "Look Back",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "18:50"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "18:50"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "18:50"
+      }
+     ]
+    },
+    {
+     "titolo": "2001: Odissea nello spazio",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "21:40"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:40"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "21:40"
+      }
+     ]
+    },
+    {
+     "titolo": "La storia infinita",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "19:15"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "19:15"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "19:15"
+      }
+     ]
+    },
+    {
+     "titolo": "Shaun, vita da pecora: operazione Z.U.C.C.A.",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "16:15"
+      }
+     ]
+    },
+    {
+     "titolo": "In un battito",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "19:50"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "19:50"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "19:50"
+      }
+     ]
+    },
+    {
+     "titolo": "Hunger Games: L'alba sulla mietitura",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-19",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-19",
+       "ora": "19:00"
+      },
+      {
+       "data": "2026-11-19",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": "19:00"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-21",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-21",
+       "ora": "19:00"
+      },
+      {
+       "data": "2026-11-21",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-22",
+       "ora": "11:10"
+      },
+      {
+       "data": "2026-11-22",
+       "ora": "17:30"
+      },
+      {
+       "data": "2026-11-22",
+       "ora": "19:00"
+      },
+      {
+       "data": "2026-11-22",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "BTS World Tour Arirang in Kaohsiung: Live Viewing",
+     "regia": "",
+     "durata": "",
+     "nota": "Concerto in diretta, lingua originale",
+     "proiezioni": [
+      {
+       "data": "2026-11-21",
+       "ora": "11:45"
+      },
+      {
+       "data": "2026-11-21",
+       "ora": "16:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Ti presento i Fotter",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-21",
+       "ora": "21:30"
+      },
+      {
+       "data": "2026-11-22",
+       "ora": "21:30"
+      }
+     ]
+    },
+    {
+     "titolo": "Agata Christian: delitto sulle nevi",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-22",
+       "ora": "11:20"
+      }
+     ]
+    },
+    {
+     "titolo": "Paw Patrol: missione dinosauri",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-22",
+       "ora": "11:10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "odeon-firenze",
+   "nome": "Giunti Odeon",
+   "comune": "Firenze",
+   "indirizzo": "Via degli Anselmi angolo piazza Strozzi, Firenze",
+   "maps": "Giunti Odeon, Piazza Strozzi, Firenze",
+   "colore": "#7a1f3d",
+   "intro": "Lo storico cinema teatro di piazza Strozzi, aperto dal 1922: di giorno libreria, la sera cinema, spesso con film in versione originale sottotitolata.",
+   "programmazione": {
+    "nome": "giuntiodeon.com",
+    "url": "https://www.giuntiodeon.com/it/cinema"
+   },
+   "giorni": "Gli spettacoli iniziano alle 21.",
+   "biglietti": "",
+   "contatti": "",
+   "fonti": [
+    {
+     "nome": "giuntiodeon.com, programmazione",
+     "url": "https://www.giuntiodeon.com/it/cinema"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "2001: Odissea nello spazio",
+     "regia": "Stanley Kubrick",
+     "durata": "",
+     "nota": "Versione restaurata in 4K, originale con sottotitoli in italiano",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Trainspotting",
+     "regia": "Danny Boyle",
+     "durata": "",
+     "nota": "30° anniversario, versione restaurata originale con sottotitoli in italiano",
+     "proiezioni": [
+      {
+       "data": "2026-11-18",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "You Can See Everything",
+     "regia": "Nathan Fielder, Lance Oppenheim",
+     "durata": "",
+     "nota": "Versione originale con sottotitoli in italiano, biglietto unico 15 euro",
+     "proiezioni": [
+      {
+       "data": "2026-11-27",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-28",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-29",
+       "ora": "21:00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "astra-firenze",
+   "nome": "Cinema Astra",
+   "comune": "Firenze",
+   "indirizzo": "Piazza Cesare Beccaria 9, Firenze",
+   "maps": "Cinema Astra, Piazza Cesare Beccaria 9, Firenze",
+   "colore": "#b5651d",
+   "intro": "Sala di piazza Beccaria riaperta nel 2023, programmata dalla Fondazione Stensen: cinema d'autore, molti film in lingua originale e incontri con i registi.",
+   "programmazione": {
+    "nome": "stensen.org, il programma della settimana",
+    "url": "https://stensen.org/attivita/programmazione-cinema-astra-firenze/"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "Tel. 055 576551",
+   "fonti": [
+    {
+     "nome": "Fondazione Stensen",
+     "url": "https://stensen.org/attivita/programmazione-cinema-astra-firenze/"
+    },
+    {
+     "nome": "biglietteria Liveticket",
+     "url": "https://www.liveticket.it/astrafirenze"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Se domani non torno",
+     "regia": "Paola Randi",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "10:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "10:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "11:00"
+      },
+      {
+       "data": "2026-11-19",
+       "ora": "11:00"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": "11:00"
+      }
+     ]
+    },
+    {
+     "titolo": "2001: Odissea nello spazio",
+     "regia": "Stanley Kubrick",
+     "durata": "",
+     "nota": "Versione originale con sottotitoli, restauro",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "15:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Fatherland",
+     "regia": "Paweł Pawlikowski",
+     "durata": "",
+     "nota": "Versione originale tedesca con sottotitoli",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "18:15"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "16:15"
+      }
+     ]
+    },
+    {
+     "titolo": "Finché resta il tuo nome",
+     "regia": "Gianmarco D'Agostino",
+     "durata": "",
+     "nota": "Alla presenza del regista",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "20:30"
+      }
+     ]
+    },
+    {
+     "titolo": "La Gradiva",
+     "regia": "Marine Atlan",
+     "durata": "",
+     "nota": "Versione originale francese con sottotitoli",
+     "proiezioni": [
+      {
+       "data": "2026-11-17",
+       "ora": "15:45"
+      }
+     ]
+    },
+    {
+     "titolo": "Un sogno chiamato Florida",
+     "regia": "Sean Baker",
+     "durata": "",
+     "nota": "Versione originale con sottotitoli, rassegna su Sean Baker",
+     "proiezioni": [
+      {
+       "data": "2026-11-18",
+       "ora": "18:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Le bambine",
+     "regia": "Valentina e Nicole Bertani",
+     "durata": "",
+     "nota": "Alla presenza delle registe",
+     "proiezioni": [
+      {
+       "data": "2026-11-18",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Fjord",
+     "regia": "Cristian Mungiu",
+     "durata": "",
+     "nota": "Alcune proiezioni in versione originale con sottotitoli",
+     "proiezioni": [
+      {
+       "data": "2026-11-19",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-19",
+       "ora": "21:00"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": "15:30"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": "18:15"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": "21:00"
+      }
+     ]
+    },
+    {
+     "titolo": "Il canto di Alina",
+     "regia": "Ilaria Braccialini e Federica Oriente",
+     "durata": "",
+     "nota": "Alla presenza delle registe",
+     "proiezioni": [
+      {
+       "data": "2026-11-19",
+       "ora": "18:45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alfieri-firenze",
+   "nome": "Spazio Alfieri",
+   "comune": "Firenze",
+   "indirizzo": "Via dell'Ulivo 8, Firenze",
+   "maps": "Spazio Alfieri, Via dell'Ulivo 8, Firenze",
+   "colore": "#2e6b5e",
+   "intro": "Cinema, teatro, musica e bistrò in via dell'Ulivo: film d'essai, molti proiettati sia in italiano sia in versione originale sottotitolata.",
+   "programmazione": {
+    "nome": "spazioalfieri.it",
+    "url": "https://www.spazioalfieri.it/"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "Tel. 055 5320840",
+   "fonti": [
+    {
+     "nome": "spazioalfieri.it, calendario",
+     "url": "https://www.spazioalfieri.it/"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "Il canto della foresta",
+     "regia": "",
+     "durata": "",
+     "nota": "Il 18 alle 19.30 in versione originale sottotitolata",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "16:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "15:00"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "19:30"
+      }
+     ]
+    },
+    {
+     "titolo": "L'essere amato",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "17:45"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "17:15"
+      }
+     ]
+    },
+    {
+     "titolo": "Minotaur",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {
+       "data": "2026-11-17",
+       "ora": "15:30"
+      },
+      {
+       "data": "2026-11-18",
+       "ora": "21:15"
+      }
+     ]
+    },
+    {
+     "titolo": "La ballata del re delle api",
+     "regia": "",
+     "durata": "",
+     "nota": "Il 19 in versione originale sottotitolata; gli orari del weekend sul sito della sala",
+     "proiezioni": [
+      {
+       "data": "2026-11-19",
+       "ora": "21:15"
+      },
+      {
+       "data": "2026-11-20",
+       "ora": ""
+      },
+      {
+       "data": "2026-11-21",
+       "ora": ""
+      },
+      {
+       "data": "2026-11-22",
+       "ora": ""
+      }
+     ]
+    },
+    {
+     "titolo": "L'isola dei ricordi",
+     "regia": "",
+     "durata": "",
+     "nota": "Rassegna per ragazzi Un mondo da A(ni)mare",
+     "proiezioni": [
+      {
+       "data": "2026-11-21",
+       "ora": "11:00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "compagnia-firenze",
+   "nome": "Cinema La Compagnia",
+   "comune": "Firenze",
+   "indirizzo": "Via Cavour 50/r, Firenze",
+   "maps": "Cinema La Compagnia, Via Cavour 50r, Firenze",
+   "colore": "#5b3a8a",
+   "intro": "La sala di via Cavour dei festival e delle rassegne, con molti film in lingua originale.",
+   "programmazione": {
+    "nome": "cinemalacompagnia.it",
+    "url": "https://www.cinemalacompagnia.it/programma/"
+   },
+   "giorni": "",
+   "biglietti": "",
+   "contatti": "",
+   "fonti": [
+    {
+     "nome": "cinemalacompagnia.it, programma",
+     "url": "https://www.cinemalacompagnia.it/programma/"
+    }
+   ],
+   "film": [
+    {
+     "titolo": "L'impero dei sensi",
+     "regia": "Nagisa Ōshima",
+     "durata": "",
+     "nota": "Versione integrale restaurata, originale con sottotitoli",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "16:30"
+      },
+      {
+       "data": "2026-11-16",
+       "ora": "18:30"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "17:00"
+      },
+      {
+       "data": "2026-11-17",
+       "ora": "21:30"
+      }
+     ]
+    },
+    {
+     "titolo": "Sweetie",
+     "regia": "Jane Campion",
+     "durata": "",
+     "nota": "Rassegna su Jane Campion, preceduto dal corto Kuri",
+     "proiezioni": [
+      {
+       "data": "2026-11-16",
+       "ora": "20:30"
+      }
+     ]
+    },
+    {
+     "titolo": "Florence Queer Festival",
+     "regia": "",
+     "durata": "",
+     "nota": "24ª edizione, film e incontri dal pomeriggio alla sera: il programma giorno per giorno è sul sito della sala",
+     "proiezioni": [
+      {
+       "data": "2026-11-18",
+       "ora": ""
+      },
+      {
+       "data": "2026-11-19",
+       "ora": ""
+      },
+      {
+       "data": "2026-11-20",
+       "ora": ""
+      },
+      {
+       "data": "2026-11-21",
+       "ora": ""
+      },
+      {
+       "data": "2026-11-22",
+       "ora": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }
