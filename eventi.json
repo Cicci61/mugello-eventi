@@ -1,258 +1,338 @@
 {
- "edizione": "13-15nov2026",
- "titolo": "13–15 novembre 2026",
- "url": "https://mugelloeventi.it/weekend/13-15nov2026/",
+ "edizione": "20-22nov2026",
+ "titolo": "20–22 novembre 2026",
+ "url": "https://mugelloeventi.it/weekend/20-22nov2026/",
  "aggiornato": "2026-11-18",
  "eventi": [
   {
-   "titolo": "«Figli» di Mattia Torre",
-   "quando": "Giovedì 12 novembre 2026",
-   "inizio": "2026-11-12",
-   "fine": "2026-11-12",
-   "luogo": "Teatro Giotto, Borgo San Lorenzo",
-   "comune": "Borgo San Lorenzo",
-   "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/figli-di-mattia-torre/"
+   "titolo": "«Io sono l'assente»",
+   "quando": "Giovedì 19 novembre 2026",
+   "inizio": "2026-11-19",
+   "fine": "2026-11-19",
+   "luogo": "Teatro Cinema Italia, Pontassieve",
+   "comune": "Pontassieve",
+   "cslug": "pontassieve",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/io-sono-l-assente/"
   },
   {
-   "titolo": "«L'amante» al Teatro Giotto",
-   "quando": "Venerdì 13 novembre 2026",
-   "inizio": "2026-11-13",
-   "fine": "2026-11-13",
+   "titolo": "«Sottobanco»",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
    "luogo": "Teatro Giotto, Vicchio",
    "comune": "Vicchio",
    "cslug": "vicchio",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/l-amante-al-teatro-giotto/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/sottobanco/"
   },
   {
-   "titolo": "Arkattak, cello orchestra",
-   "quando": "Venerdì 13 novembre 2026",
-   "inizio": "2026-11-13",
-   "fine": "2026-11-13",
-   "luogo": "Oratorio di Sant'Omobono, Borgo San Lorenzo",
-   "comune": "Borgo San Lorenzo",
-   "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/arkattak-cello-orchestra/"
-  },
-  {
-   "titolo": "«Un gatto nel computer»",
-   "quando": "Venerdì 13 novembre 2026",
-   "inizio": "2026-11-13",
-   "fine": "2026-11-13",
-   "luogo": "Oratorio parrocchiale di Galliano",
+   "titolo": "«Piccola Iliade»",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
+   "luogo": "Teatro Corsini, Barberino di Mugello",
    "comune": "Barberino di Mugello",
    "cslug": "barberino-di-mugello",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/un-gatto-nel-computer/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/piccola-iliade/"
   },
   {
-   "titolo": "La Grande Guerra nei diari e nelle lettere",
-   "quando": "Venerdì 13 novembre 2026",
-   "inizio": "2026-11-13",
-   "fine": "2026-11-13",
-   "luogo": "Circolo Primo Maggio ARCI, Sieci",
-   "comune": "Pontassieve",
-   "cslug": "pontassieve",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/la-grande-guerra-nei-diari-e-nelle-lettere/"
-  },
-  {
-   "titolo": "«Magie di luce», Galileo Chini per bambini",
-   "quando": "Venerdì 13 novembre 2026",
-   "inizio": "2026-11-13",
-   "fine": "2026-11-13",
-   "luogo": "Biblioteca comunale, Borgo San Lorenzo",
-   "comune": "Borgo San Lorenzo",
-   "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/magie-di-luce-galileo-chini-per-bambini/"
-  },
-  {
-   "titolo": "Barberino Bambino: il DNA in cucina",
-   "quando": "Venerdì 13 novembre 2026",
-   "inizio": "2026-11-13",
-   "fine": "2026-11-13",
-   "luogo": "Biblioteca Padre E. Balducci, Barberino",
-   "comune": "Barberino di Mugello",
-   "cslug": "barberino-di-mugello",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/barberino-bambino-il-dna-in-cucina/"
-  },
-  {
-   "titolo": "«Wild Horse Nine»",
-   "quando": "Da venerdì 13 a domenica 15 novembre 2026",
-   "inizio": "2026-11-13",
-   "fine": "2026-11-15",
+   "titolo": "«Ancora tuona il cannone», serata per Guccini",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
    "luogo": "Cinema Garibaldi, Scarperia",
    "comune": "Scarperia e San Piero",
    "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/wild-horse-nine/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/ancora-tuona-il-cannone-serata-per-guccini/"
   },
   {
-   "titolo": "Ingorgo Letterario",
-   "quando": "Sabato 14 e domenica 15 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-15",
-   "luogo": "Palazzo comunale, Borgo San Lorenzo",
+   "titolo": "«Le parole cambiano il mondo»",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
+   "luogo": "Atrio del Comune, Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/ingorgo-letterario/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/le-parole-cambiano-il-mondo/"
   },
   {
-   "titolo": "La Dolce Sfida",
-   "quando": "Sabato 14 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-14",
-   "luogo": "Palazzo dei Vicari, Scarperia",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/la-dolce-sfida/"
-  },
-  {
-   "titolo": "«I luoghi di San Francesco d'Assisi»",
-   "quando": "Sabato 14 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-14",
-   "luogo": "Chiesa di San Francesco, Borgo San Lorenzo",
+   "titolo": "Gaspar Cassadó 60, tavola rotonda",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
+   "luogo": "Sala consiliare, Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/i-luoghi-di-san-francesco-d-assisi/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/gaspar-cassado-60-tavola-rotonda/"
   },
   {
-   "titolo": "Leggiamo al Museo: L'arte del ritratto",
-   "quando": "Sabato 14 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-14",
-   "luogo": "Museo della Pietra Serena, Firenzuola",
-   "comune": "Firenzuola",
-   "cslug": "firenzuola",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/leggiamo-al-museo-l-arte-del-ritratto/"
-  },
-  {
-   "titolo": "Leggiamo al Museo: Narciso ed Eco",
-   "quando": "Sabato 14 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-14",
-   "luogo": "Museo Archeologico Alto Mugello, Palazzuolo sul Senio",
-   "comune": "Palazzuolo sul Senio",
-   "cslug": "palazzuolo-sul-senio",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/leggiamo-al-museo-narciso-ed-eco/"
-  },
-  {
-   "titolo": "Leggiamo al Museo: Storie d'autunno",
-   "quando": "Sabato 14 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-14",
-   "luogo": "Museo della Vite e del Vino, Rufina",
-   "comune": "Rufina",
-   "cslug": "rufina",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/leggiamo-al-museo-storie-d-autunno/"
-  },
-  {
-   "titolo": "Baratto Kid Corner",
-   "quando": "Sabato 14 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-14",
-   "luogo": "Biblioteca di Ronta",
+   "titolo": "«Suoni e parole»",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
+   "luogo": "Centro d'Incontro, Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/baratto-kid-corner/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/suoni-e-parole/"
   },
   {
-   "titolo": "Polcanto: libro-scambio e «Voci»",
-   "quando": "Sabato 14 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-14",
-   "luogo": "Associazione Ellera, Polcanto",
-   "comune": "Borgo San Lorenzo",
-   "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/polcanto-libro-scambio-e-voci/"
-  },
-  {
-   "titolo": "Sagra del Tartufo",
-   "quando": "Sabato 14 e domenica 15 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-15",
-   "luogo": "Circolo MCL, Scarperia",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/sagra-del-tartufo/"
-  },
-  {
-   "titolo": "Festa delle Specialità al Tartufo",
-   "quando": "Sabato 14 e domenica 15 novembre 2026",
-   "inizio": "2026-11-14",
-   "fine": "2026-11-15",
-   "luogo": "SMS Croce Azzurra, Sieci",
+   "titolo": "Incontro con Giacomo Grifoni",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
+   "luogo": "Biblioteca comunale, Pontassieve",
    "comune": "Pontassieve",
    "cslug": "pontassieve",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/festa-delle-specialita-al-tartufo/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/incontro-con-giacomo-grifoni/"
   },
   {
-   "titolo": "Fiera di Novembre a Galliano",
-   "quando": "Domenica 15 novembre 2026",
-   "inizio": "2026-11-15",
-   "fine": "2026-11-15",
-   "luogo": "Corso Marco da Galliano",
-   "comune": "Barberino di Mugello",
-   "cslug": "barberino-di-mugello",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/fiera-di-novembre-a-galliano/"
+   "titolo": "«Dal Silenzio al Futuro»",
+   "quando": "Venerdì 20 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-20",
+   "luogo": "Sala del Consiglio, Pelago",
+   "comune": "Pelago",
+   "cslug": "pelago",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/dal-silenzio-al-futuro/"
   },
   {
-   "titolo": "«Tutti passano e nessuno lo sa!»",
-   "quando": "Domenica 15 novembre 2026",
-   "inizio": "2026-11-15",
-   "fine": "2026-11-15",
-   "luogo": "Sant'Agata, davanti alla farmacia",
-   "comune": "Scarperia e San Piero",
-   "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/tutti-passano-e-nessuno-lo-sa/"
+   "titolo": "Sagra del Tortello, Polenta e Cinghiale",
+   "quando": "Da venerdì 20 a domenica 22 novembre 2026",
+   "inizio": "2026-11-20",
+   "fine": "2026-11-22",
+   "luogo": "Stadio comunale, Pontassieve",
+   "comune": "Pontassieve",
+   "cslug": "pontassieve",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/sagra-del-tortello-polenta-e-cinghiale/"
   },
   {
-   "titolo": "Sentiero dei pittori",
-   "quando": "Domenica 15 novembre 2026",
-   "inizio": "2026-11-15",
-   "fine": "2026-11-15",
-   "luogo": "Stazione FS di Borgo San Lorenzo",
+   "titolo": "Mostra mercato del Tartufo",
+   "quando": "Sabato 21 e domenica 22 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-22",
+   "luogo": "Centro storico, Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/sentiero-dei-pittori/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/mostra-mercato-del-tartufo/"
   },
   {
-   "titolo": "La Smarronata del CAI",
-   "quando": "Domenica 15 novembre 2026",
-   "inizio": "2026-11-15",
-   "fine": "2026-11-15",
-   "luogo": "Cimitero di Castagno d'Andrea",
-   "comune": "San Godenzo",
-   "cslug": "san-godenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/la-smarronata-del-cai/"
+   "titolo": "Cassadó, i quartetti inediti",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Oratorio di Sant'Omobono, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/cassado-i-quartetti-inediti/"
   },
   {
-   "titolo": "«Visionari», violoncello e clavicembalo",
-   "quando": "Domenica 15 novembre 2026",
-   "inizio": "2026-11-15",
-   "fine": "2026-11-15",
+   "titolo": "La Madonna di Borgo e gli esordi di Giotto",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Pieve di San Lorenzo, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/la-madonna-di-borgo-e-gli-esordi-di-giotto/"
+  },
+  {
+   "titolo": "Appennino in festa con il CAI",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Casa d'Erci, Grezzano",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/appennino-in-festa-con-il-cai/"
+  },
+  {
+   "titolo": "Sentieri Narranti",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Vallebuia, Polcanto",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/sentieri-narranti/"
+  },
+  {
+   "titolo": "Puliamo Borgo",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Campo sportivo di Grezzano",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/puliamo-borgo/"
+  },
+  {
+   "titolo": "«Biancaneve d'Autunno»",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Biblioteca comunale, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/biancaneve-d-autunno/"
+  },
+  {
+   "titolo": "Convegno su Leonora di Toledo",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
    "luogo": "Palazzo dei Vicari, Scarperia",
    "comune": "Scarperia e San Piero",
    "cslug": "scarperia-e-san-piero",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/visionari-violoncello-e-clavicembalo/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/convegno-su-leonora-di-toledo/"
   },
   {
-   "titolo": "Festa di San Martino",
-   "quando": "Domenica 15 novembre 2026",
-   "inizio": "2026-11-15",
-   "fine": "2026-11-15",
-   "luogo": "Chiesa di San Martino, Rufina",
+   "titolo": "«Francesco e Chiara» e «RilassArti»",
+   "quando": "Sabato 21 e domenica 22 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-22",
+   "luogo": "Atelier Elisa Marianini, La Torre",
+   "comune": "Scarperia e San Piero",
+   "cslug": "scarperia-e-san-piero",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/francesco-e-chiara-e-rilassarti/"
+  },
+  {
+   "titolo": "Marco Vannini, «Quale uomo, quale Dio»",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Pieve di San Piero a Sieve",
+   "comune": "Scarperia e San Piero",
+   "cslug": "scarperia-e-san-piero",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/marco-vannini-quale-uomo-quale-dio/"
+  },
+  {
+   "titolo": "Barberino: «Rosso senza amore»",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Galleria Corsini n°5, Barberino",
+   "comune": "Barberino di Mugello",
+   "cslug": "barberino-di-mugello",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/barberino-rosso-senza-amore/"
+  },
+  {
+   "titolo": "Barberino: tesi di Eva Galeotti",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Palazzo Pretorio, Barberino",
+   "comune": "Barberino di Mugello",
+   "cslug": "barberino-di-mugello",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/barberino-tesi-di-eva-galeotti/"
+  },
+  {
+   "titolo": "Barberino: «Esistere senza permesso»",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Circolo Arci, Barberino",
+   "comune": "Barberino di Mugello",
+   "cslug": "barberino-di-mugello",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/barberino-esistere-senza-permesso/"
+  },
+  {
+   "titolo": "«Se domani non torno»",
+   "quando": "Sabato 21 e domenica 22 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-22",
+   "luogo": "Teatro Corsini, Barberino e Cinema Garibaldi, Scarperia",
+   "comune": "Barberino di Mugello",
+   "cslug": "barberino-di-mugello",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/se-domani-non-torno/"
+  },
+  {
+   "titolo": "Barberino Bambino",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Biblioteca Padre Balducci, Barberino",
+   "comune": "Barberino di Mugello",
+   "cslug": "barberino-di-mugello",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/barberino-bambino/"
+  },
+  {
+   "titolo": "«Vicchio, una comunità che innova»",
+   "quando": "Sabato 21 e domenica 22 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-22",
+   "luogo": "Centro Civico, Vicchio",
+   "comune": "Vicchio",
+   "cslug": "vicchio",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/vicchio-una-comunita-che-innova/"
+  },
+  {
+   "titolo": "Nano Campeggi prima di Hollywood",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Museo GEO Bruschi, Pontassieve",
+   "comune": "Pontassieve",
+   "cslug": "pontassieve",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/nano-campeggi-prima-di-hollywood/"
+  },
+  {
+   "titolo": "Mostra micologica",
+   "quando": "Sabato 21 e domenica 22 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-22",
+   "luogo": "Doccia, Pontassieve",
+   "comune": "Pontassieve",
+   "cslug": "pontassieve",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/mostra-micologica/"
+  },
+  {
+   "titolo": "Drums Circle",
+   "quando": "Sabato 21 novembre 2026",
+   "inizio": "2026-11-21",
+   "fine": "2026-11-21",
+   "luogo": "Scuola comunale di musica, Pontassieve",
+   "comune": "Pontassieve",
+   "cslug": "pontassieve",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/drums-circle/"
+  },
+  {
+   "titolo": "Red Ride, la pedalata",
+   "quando": "Domenica 22 novembre 2026",
+   "inizio": "2026-11-22",
+   "fine": "2026-11-22",
+   "luogo": "Piazza Dante, Borgo San Lorenzo",
+   "comune": "Borgo San Lorenzo",
+   "cslug": "borgo-san-lorenzo",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/red-ride-la-pedalata/"
+  },
+  {
+   "titolo": "Good Day Mugello",
+   "quando": "Domenica 22 novembre 2026",
+   "inizio": "2026-11-22",
+   "fine": "2026-11-22",
+   "luogo": "Museo Spazio Brizzolari, Scarperia",
+   "comune": "Scarperia e San Piero",
+   "cslug": "scarperia-e-san-piero",
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/good-day-mugello/"
+  },
+  {
+   "titolo": "«Una questione delicata»",
+   "quando": "Domenica 22 novembre 2026",
+   "inizio": "2026-11-22",
+   "fine": "2026-11-22",
+   "luogo": "Piccolo Teatro di Rufina",
    "comune": "Rufina",
    "cslug": "rufina",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/festa-di-san-martino/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/una-questione-delicata/"
   },
   {
-   "titolo": "Audizioni Coro dei Mugellini",
-   "quando": "Domenica 15 novembre 2026",
-   "inizio": "2026-11-15",
-   "fine": "2026-11-15",
+   "titolo": "Audizioni Coro giovanile Music Valley",
+   "quando": "Domenica 22 novembre 2026",
+   "inizio": "2026-11-22",
+   "fine": "2026-11-22",
    "luogo": "Auditorium Paola Leoni, Borgo San Lorenzo",
    "comune": "Borgo San Lorenzo",
    "cslug": "borgo-san-lorenzo",
-   "url": "https://mugelloeventi.it/weekend/13-15nov2026/audizioni-coro-dei-mugellini/"
+   "url": "https://mugelloeventi.it/weekend/20-22nov2026/audizioni-coro-giovanile-music-valley/"
   }
  ]
 }
