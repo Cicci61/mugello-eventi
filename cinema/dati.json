@@ -2,7 +2,7 @@
  "titolo": "Cinema del Mugello e della Val di Sieve",
  "sottotitolo": "Sette sale e i film in programma, giorno per giorno. In fondo, cinque sale di Firenze",
  "meta": "I cinema del Mugello e della Val di Sieve e i film in programma: Garibaldi di Scarperia, Don Bosco e Giotto di Borgo San Lorenzo, Corsini di Barberino, Giotto di Vicchio, DOP di Firenzuola e Teatro Cinema Italia di Pontassieve. Orari, indirizzi e contatti. In fondo, cinque sale scelte di Firenze.",
- "controllato": "2026-11-18",
+ "controllato": "2026-11-20",
  "cinema": [
   {
    "id": "garibaldi-scarperia",
@@ -273,34 +273,6 @@
    ],
    "film": [
     {
-     "titolo": "Wild Horse Nine",
-     "regia": "Martin McDonagh",
-     "durata": "118 minuti",
-     "nota": "Versione originale inglese con sottotitoli in italiano.",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "21:00"}
-     ]
-    },
-    {
-     "titolo": "2001: Odissea nello spazio",
-     "regia": "Stanley Kubrick",
-     "durata": "148 minuti",
-     "nota": "Versione restaurata in 4K.",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "17:30"}
-     ]
-    },
-    {
-     "titolo": "Io sono l'Assente",
-     "regia": "Adamo Antonacci",
-     "durata": "78 minuti",
-     "nota": "Documentario su Alessandro Benvenuti, che lo presenta in sala con il regista. Biglietto 5 euro.",
-     "proiezioni": [
-      {"data": "2026-11-19", "ora": "17:30"},
-      {"data": "2026-11-19", "ora": "21:00"}
-     ]
-    },
-    {
      "titolo": "Un weekend artificiale",
      "regia": "Leonardo Pieraccioni",
      "durata": "91 minuti",
@@ -426,12 +398,7 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "17:30"},
-      {"data": "2026-11-19", "ora": "18:20"},
-      {"data": "2026-11-19", "ora": "19:00"},
-      {"data": "2026-11-19", "ora": "20:10"},
-      {"data": "2026-11-19", "ora": "21:00"},
-      {"data": "2026-11-19", "ora": "21:50"},
+      {"data": "2026-11-20", "ora": "16:00"},
       {"data": "2026-11-20", "ora": "17:30"},
       {"data": "2026-11-20", "ora": "18:40"},
       {"data": "2026-11-20", "ora": "19:00"},
@@ -441,9 +408,11 @@
       {"data": "2026-11-21", "ora": "17:30"},
       {"data": "2026-11-21", "ora": "19:00"},
       {"data": "2026-11-21", "ora": "20:00"},
+      {"data": "2026-11-21", "ora": "20:30"},
       {"data": "2026-11-21", "ora": "21:00"},
       {"data": "2026-11-21", "ora": "22:40"},
       {"data": "2026-11-22", "ora": "11:10"},
+      {"data": "2026-11-22", "ora": "15:30"},
       {"data": "2026-11-22", "ora": "17:30"},
       {"data": "2026-11-22", "ora": "19:00"},
       {"data": "2026-11-22", "ora": "20:00"},
@@ -457,15 +426,6 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "17:30"},
-      {"data": "2026-11-18", "ora": "19:00"},
-      {"data": "2026-11-18", "ora": "20:00"},
-      {"data": "2026-11-18", "ora": "21:30"},
-      {"data": "2026-11-18", "ora": "22:30"},
-      {"data": "2026-11-19", "ora": "16:15"},
-      {"data": "2026-11-19", "ora": "17:45"},
-      {"data": "2026-11-19", "ora": "19:45"},
-      {"data": "2026-11-19", "ora": "22:10"},
       {"data": "2026-11-20", "ora": "16:10"},
       {"data": "2026-11-20", "ora": "19:25"},
       {"data": "2026-11-20", "ora": "21:15"},
@@ -490,11 +450,6 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "16:15"},
-      {"data": "2026-11-18", "ora": "21:45"},
-      {"data": "2026-11-19", "ora": "18:05"},
-      {"data": "2026-11-19", "ora": "20:45"},
-      {"data": "2026-11-20", "ora": "16:45"},
       {"data": "2026-11-20", "ora": "19:40"},
       {"data": "2026-11-20", "ora": "22:20"},
       {"data": "2026-11-21", "ora": "14:30"},
@@ -509,12 +464,6 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "16:00"},
-      {"data": "2026-11-18", "ora": "18:00"},
-      {"data": "2026-11-18", "ora": "21:00"},
-      {"data": "2026-11-18", "ora": "22:20"},
-      {"data": "2026-11-19", "ora": "18:40"},
-      {"data": "2026-11-19", "ora": "21:30"},
       {"data": "2026-11-20", "ora": "16:10"},
       {"data": "2026-11-20", "ora": "22:10"},
       {"data": "2026-11-21", "ora": "11:00"},
@@ -531,10 +480,6 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "16:30"},
-      {"data": "2026-11-18", "ora": "18:00"},
-      {"data": "2026-11-18", "ora": "20:50"},
-      {"data": "2026-11-19", "ora": "22:30"},
       {"data": "2026-11-20", "ora": "18:20"},
       {"data": "2026-11-20", "ora": "22:30"},
       {"data": "2026-11-21", "ora": "16:15"},
@@ -547,14 +492,12 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "16:15"},
       {"data": "2026-11-20", "ora": "17:15"},
       {"data": "2026-11-21", "ora": "12:20"},
       {"data": "2026-11-21", "ora": "14:55"},
       {"data": "2026-11-21", "ora": "17:15"},
       {"data": "2026-11-22", "ora": "11:15"},
-      {"data": "2026-11-22", "ora": "14:20"},
-      {"data": "2026-11-22", "ora": "16:25"}
+      {"data": "2026-11-22", "ora": "14:20"}
      ]
     },
     {
@@ -563,9 +506,8 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "18:50"},
       {"data": "2026-11-20", "ora": "17:00"},
-      {"data": "2026-11-21", "ora": "20:30"},
+      {"data": "2026-11-21", "ora": "17:00"},
       {"data": "2026-11-22", "ora": "21:15"}
      ]
     },
@@ -575,8 +517,6 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "15:55"},
-      {"data": "2026-11-19", "ora": "22:15"},
       {"data": "2026-11-20", "ora": "19:50"},
       {"data": "2026-11-21", "ora": "19:50"},
       {"data": "2026-11-22", "ora": "20:45"}
@@ -586,9 +526,8 @@
      "titolo": "Ramayana: la nascita di una leggenda",
      "regia": "",
      "durata": "",
-     "nota": "Hollywood Cut; domenica 22 alle 11.10 Director's Cut",
+     "nota": "Hollywood Cut; domenica 22 alle 11.10 Director's Cut in lingua originale",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "16:00"},
       {"data": "2026-11-20", "ora": "16:00"},
       {"data": "2026-11-21", "ora": "14:00"},
       {"data": "2026-11-22", "ora": "11:10"},
@@ -601,7 +540,6 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "16:00"},
       {"data": "2026-11-20", "ora": "16:00"},
       {"data": "2026-11-21", "ora": "11:25"},
       {"data": "2026-11-21", "ora": "14:00"},
@@ -614,9 +552,6 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "16:45"},
-      {"data": "2026-11-18", "ora": "18:30"},
-      {"data": "2026-11-18", "ora": "21:20"},
       {"data": "2026-11-21", "ora": "11:25"}
      ]
     },
@@ -626,37 +561,8 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "16:00"},
-      {"data": "2026-11-18", "ora": "18:50"},
       {"data": "2026-11-21", "ora": "13:55"},
       {"data": "2026-11-22", "ora": "14:45"}
-     ]
-    },
-    {
-     "titolo": "2001: Odissea nello spazio",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "21:40"}
-     ]
-    },
-    {
-     "titolo": "La storia infinita",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "19:15"}
-     ]
-    },
-    {
-     "titolo": "In un battito",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "19:50"}
      ]
     },
     {
@@ -740,21 +646,11 @@
    ],
    "film": [
     {
-     "titolo": "Trainspotting",
-     "regia": "Danny Boyle",
-     "durata": "93 minuti",
-     "nota": "30° anniversario, versione restaurata in 4K, originale con sottotitoli in italiano",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "21:00"}
-     ]
-    },
-    {
      "titolo": "Wild Horse Nine",
      "regia": "Martin McDonagh",
      "durata": "120 minuti",
      "nota": "Versione originale con sottotitoli in italiano",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "21:00"},
       {"data": "2026-11-20", "ora": "21:00"},
       {"data": "2026-11-21", "ora": "21:00"},
       {"data": "2026-11-22", "ora": "21:00"}
@@ -768,6 +664,15 @@
      "proiezioni": [
       {"data": "2026-11-23", "ora": "21:00"},
       {"data": "2026-11-24", "ora": "21:00"}
+     ]
+    },
+    {
+     "titolo": "Primetime",
+     "regia": "Lance Oppenheim",
+     "durata": "110 minuti",
+     "nota": "Versione originale con sottotitoli in italiano",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "21:00"}
      ]
     },
     {
@@ -824,8 +729,6 @@
      "durata": "146 minuti",
      "nota": "Molte proiezioni in versione originale inglese e rumeno con sottotitoli; venerdì 27 alle 21 nella rassegna Buio in sala, cinema e psicanalisi",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "16:00"},
-      {"data": "2026-11-19", "ora": "21:00"},
       {"data": "2026-11-20", "ora": "15:30"},
       {"data": "2026-11-20", "ora": "18:15"},
       {"data": "2026-11-20", "ora": "21:00"},
@@ -847,48 +750,18 @@
      "durata": "107 minuti",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "11:00"},
-      {"data": "2026-11-19", "ora": "11:00"},
       {"data": "2026-11-20", "ora": "11:00"},
       {"data": "2026-11-21", "ora": "11:00"},
       {"data": "2026-11-25", "ora": "11:00"}
      ]
     },
     {
-     "titolo": "Fatherland",
-     "regia": "Paweł Pawlikowski",
-     "durata": "85 minuti",
-     "nota": "Versione originale tedesca con sottotitoli",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "16:15"}
-     ]
-    },
-    {
-     "titolo": "Un sogno chiamato Florida",
-     "regia": "Sean Baker",
-     "durata": "115 minuti",
-     "nota": "Versione originale con sottotitoli, rassegna Ti amo Sean Baker",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "18:00"}
-     ]
-    },
-    {
      "titolo": "Le bambine",
      "regia": "Valentina e Nicole Bertani",
      "durata": "105 minuti",
-     "nota": "Mercoledì 18 alla presenza delle registe, domenica 22 con un loro contributo video",
+     "nota": "Con un contributo video delle registe",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "21:00"},
       {"data": "2026-11-22", "ora": "13:15"}
-     ]
-    },
-    {
-     "titolo": "Il canto di Alina",
-     "regia": "Ilaria Braccialini e Federica Oriente",
-     "durata": "73 minuti",
-     "nota": "Alla presenza delle registe",
-     "proiezioni": [
-      {"data": "2026-11-19", "ora": "18:45"}
      ]
     },
     {
@@ -975,11 +848,8 @@
      "titolo": "Il canto della foresta",
      "regia": "",
      "durata": "",
-     "nota": "Mercoledì 18 e sabato 21 alle 19.30 in versione originale sottotitolata",
+     "nota": "Sabato 21 alle 19.30 in versione originale sottotitolata",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "15:00"},
-      {"data": "2026-11-18", "ora": "19:30"},
-      {"data": "2026-11-19", "ora": "19:15"},
       {"data": "2026-11-20", "ora": "17:15"},
       {"data": "2026-11-21", "ora": "15:15"},
       {"data": "2026-11-21", "ora": "19:30"},
@@ -994,29 +864,17 @@
      "durata": "",
      "nota": "Venerdì 20 in versione originale sottotitolata",
      "proiezioni": [
-      {"data": "2026-11-18", "ora": "17:15"},
-      {"data": "2026-11-19", "ora": "16:45"},
       {"data": "2026-11-20", "ora": "21:15"},
       {"data": "2026-11-21", "ora": "17:00"},
       {"data": "2026-11-22", "ora": "17:00"}
      ]
     },
     {
-     "titolo": "Minotaur",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "21:15"}
-     ]
-    },
-    {
      "titolo": "La ballata del re delle api",
      "regia": "",
      "durata": "",
-     "nota": "Giovedì 19 e domenica 22 in versione originale sottotitolata",
+     "nota": "Domenica 22 in versione originale sottotitolata",
      "proiezioni": [
-      {"data": "2026-11-19", "ora": "21:15"},
       {"data": "2026-11-20", "ora": "19:00"},
       {"data": "2026-11-21", "ora": "21:15"},
       {"data": "2026-11-22", "ora": "21:15"},
@@ -1190,60 +1048,6 @@
     }
    ],
    "film": [
-    {
-     "titolo": "Fatherland",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "15:00"}
-     ]
-    },
-    {
-     "titolo": "Fjord",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "18:00"}
-     ]
-    },
-    {
-     "titolo": "Un angelo a tavola",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-18", "ora": "20:30"}
-     ]
-    },
-    {
-     "titolo": "Minotaur - Nel labirinto del potere",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-19", "ora": "16:00"}
-     ]
-    },
-    {
-     "titolo": "L'impero dei sensi",
-     "regia": "Nagisa Ōshima",
-     "durata": "102 minuti",
-     "nota": "Versione originale con sottotitoli",
-     "proiezioni": [
-      {"data": "2026-11-19", "ora": "19:00"}
-     ]
-    },
-    {
-     "titolo": "Le cose che posso cambiare",
-     "regia": "Serena Mannelli e Federico Micali",
-     "durata": "79 minuti",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-19", "ora": "21:00"}
-     ]
-    },
     {
      "titolo": "Florence Queer Festival",
      "regia": "",
