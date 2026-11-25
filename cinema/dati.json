@@ -2,7 +2,7 @@
  "titolo": "Cinema del Mugello e della Val di Sieve",
  "sottotitolo": "Sette sale e i film in programma, giorno per giorno. In fondo, cinque sale di Firenze",
  "meta": "I cinema del Mugello e della Val di Sieve e i film in programma: Garibaldi di Scarperia, Don Bosco e Giotto di Borgo San Lorenzo, Corsini di Barberino, Giotto di Vicchio, DOP di Firenzuola e Teatro Cinema Italia di Pontassieve. Orari, indirizzi e contatti. In fondo, cinque sale scelte di Firenze.",
- "controllato": "2026-11-20",
+ "controllato": "2026-11-25",
  "cinema": [
   {
    "id": "garibaldi-scarperia",
@@ -31,15 +31,15 @@
    ],
    "film": [
     {
-     "titolo": "Se domani non torno",
+     "titolo": "Il canto della foresta",
      "regia": "",
      "durata": "",
-     "nota": "Il film tratto dalla storia di Giulia Cecchettin. Martedì 24 alle 20.30 evento speciale a cura della Consulta Giovanile del Comune di Scarperia e San Piero, con il contributo delle Pro Loco di Scarperia e di San Piero.",
+     "nota": "",
      "proiezioni": [
-      {"data": "2026-11-21", "ora": "21:30"},
-      {"data": "2026-11-22", "ora": "17:30"},
-      {"data": "2026-11-22", "ora": "21:30"},
-      {"data": "2026-11-24", "ora": "20:30"}
+      {"data": "2026-11-27", "ora": "21:30"},
+      {"data": "2026-11-28", "ora": "21:30"},
+      {"data": "2026-11-29", "ora": "17:30"},
+      {"data": "2026-11-29", "ora": "21:30"}
      ]
     }
    ]
@@ -69,7 +69,17 @@
      "url": "https://www.mymovies.it/cinema/firenze/borgosanlorenzo/5055/"
     }
    ],
-   "film": []
+   "film": [
+    {
+     "titolo": "A UFO",
+     "regia": "",
+     "durata": "",
+     "nota": "Il film di Dai Colli Fiorentini. Ingresso a offerta libera, ricavato in beneficenza alla Misericordia di Borgo San Lorenzo; prenotazione consigliata al 349 0734553.",
+     "proiezioni": [
+      {"data": "2026-11-27", "ora": "21:15"}
+     ]
+    }
+   ]
   },
   {
    "id": "giotto-borgo",
@@ -117,14 +127,45 @@
    ],
    "film": [
     {
-     "titolo": "Se domani non torno",
-     "regia": "Paola Randi",
+     "titolo": "Wild Horse Nine",
+     "regia": "Martin McDonagh",
      "durata": "",
-     "nota": "Il film tratto dalla storia di Giulia Cecchettin.",
+     "nota": "",
      "proiezioni": [
-      {"data": "2026-11-21", "ora": "21:00"},
-      {"data": "2026-11-22", "ora": "17:00"},
-      {"data": "2026-11-22", "ora": "21:00"}
+      {"data": "2026-11-28", "ora": "21:00"},
+      {"data": "2026-11-29", "ora": "21:00"}
+     ]
+    },
+    {
+     "titolo": "Hexe - Il regno delle streghe",
+     "regia": "Jason Hand, Fawn Veerasunthorn",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-05", "ora": "17:00"},
+      {"data": "2026-12-06", "ora": "17:00"},
+      {"data": "2026-12-08", "ora": "17:00"}
+     ]
+    },
+    {
+     "titolo": "Il rumore delle cose nuove",
+     "regia": "Paolo Genovese",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-05", "ora": "21:00"},
+      {"data": "2026-12-06", "ora": "21:00"},
+      {"data": "2026-12-08", "ora": "21:00"}
+     ]
+    },
+    {
+     "titolo": "Il fuoco che ti porti dentro",
+     "regia": "Edoardo De Angelis",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-12", "ora": "21:00"},
+      {"data": "2026-12-13", "ora": "21:00"}
      ]
     }
    ]
@@ -156,13 +197,13 @@
    ],
    "film": [
     {
-     "titolo": "Primetime",
-     "regia": "L. Oppenheim",
+     "titolo": "Wild Horse Nine",
+     "regia": "M. McDonagh",
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-22", "ora": "17:30"},
-      {"data": "2026-11-22", "ora": "21:30"}
+      {"data": "2026-11-29", "ora": "17:30"},
+      {"data": "2026-11-29", "ora": "21:30"}
      ]
     }
    ]
@@ -190,23 +231,11 @@
    ],
    "film": [
     {
-     "titolo": "Je so' pazzo",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "21:15"},
-      {"data": "2026-11-21", "ora": "21:15"},
-      {"data": "2026-11-22", "ora": "21:15"}
-     ]
-    },
-    {
      "titolo": "Se domani non torno",
      "regia": "",
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-24", "ora": "21:15"},
       {"data": "2026-11-27", "ora": "21:15"},
       {"data": "2026-11-28", "ora": "21:15"},
       {"data": "2026-11-29", "ora": "21:15"}
@@ -278,18 +307,17 @@
      "durata": "91 minuti",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-20", "ora": "19:00"},
-      {"data": "2026-11-20", "ora": "21:00"},
-      {"data": "2026-11-21", "ora": "16:30"},
-      {"data": "2026-11-21", "ora": "18:30"},
-      {"data": "2026-11-21", "ora": "21:30"},
-      {"data": "2026-11-22", "ora": "16:00"},
-      {"data": "2026-11-22", "ora": "18:15"},
-      {"data": "2026-11-22", "ora": "21:00"},
-      {"data": "2026-11-24", "ora": "17:30"},
-      {"data": "2026-11-24", "ora": "21:00"},
       {"data": "2026-11-25", "ora": "18:30"},
-      {"data": "2026-11-25", "ora": "21:00"}
+      {"data": "2026-11-25", "ora": "21:00"},
+      {"data": "2026-11-27", "ora": "21:00"},
+      {"data": "2026-11-28", "ora": "16:00"},
+      {"data": "2026-11-28", "ora": "18:45"},
+      {"data": "2026-11-28", "ora": "21:30"},
+      {"data": "2026-11-29", "ora": "17:15"},
+      {"data": "2026-11-29", "ora": "19:15"},
+      {"data": "2026-12-01", "ora": "18:00"},
+      {"data": "2026-12-01", "ora": "21:00"},
+      {"data": "2026-12-02", "ora": "20:30"}
      ]
     },
     {
@@ -298,24 +326,10 @@
      "durata": "113 minuti",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-20", "ora": "18:30"},
-      {"data": "2026-11-20", "ora": "21:15"},
-      {"data": "2026-11-21", "ora": "19:00"},
-      {"data": "2026-11-21", "ora": "21:00"},
-      {"data": "2026-11-22", "ora": "15:30"},
-      {"data": "2026-11-22", "ora": "18:00"},
-      {"data": "2026-11-22", "ora": "20:30"},
       {"data": "2026-11-25", "ora": "18:00"},
-      {"data": "2026-11-25", "ora": "21:00"}
-     ]
-    },
-    {
-     "titolo": "Il gatto col cappello",
-     "regia": "Alessandro Carloni, Erica Rivinoja",
-     "durata": "107 minuti",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "16:00"}
+      {"data": "2026-11-25", "ora": "21:00"},
+      {"data": "2026-11-28", "ora": "21:00"},
+      {"data": "2026-11-29", "ora": "21:15"}
      ]
     },
     {
@@ -329,12 +343,30 @@
      ]
     },
     {
+     "titolo": "Se domani non torno",
+     "regia": "Paola Randi",
+     "durata": "107 minuti",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-27", "ora": "18:00"},
+      {"data": "2026-11-27", "ora": "20:30"},
+      {"data": "2026-11-29", "ora": "21:00"},
+      {"data": "2026-12-01", "ora": "17:30"},
+      {"data": "2026-12-01", "ora": "21:00"}
+     ]
+    },
+    {
      "titolo": "Hexe - Il regno delle streghe",
      "regia": "Jason Hand, Fawn Veerasunthorn",
      "durata": "103 minuti",
-     "nota": "Evento speciale Disney: chi viene vestito da strega riceve un gadget del film.",
+     "nota": "Sabato 28 alle 16 evento speciale Disney: chi viene vestito da strega riceve un gadget del film.",
      "proiezioni": [
-      {"data": "2026-11-28", "ora": "16:00"}
+      {"data": "2026-11-27", "ora": "17:30"},
+      {"data": "2026-11-28", "ora": "16:00"},
+      {"data": "2026-11-28", "ora": "18:00"},
+      {"data": "2026-11-29", "ora": "16:00"},
+      {"data": "2026-11-29", "ora": "18:00"},
+      {"data": "2026-12-02", "ora": "17:30"}
      ]
     },
     {
@@ -398,199 +430,30 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-20", "ora": "16:00"},
-      {"data": "2026-11-20", "ora": "17:30"},
-      {"data": "2026-11-20", "ora": "18:40"},
-      {"data": "2026-11-20", "ora": "19:00"},
-      {"data": "2026-11-20", "ora": "20:20"},
-      {"data": "2026-11-20", "ora": "21:00"},
-      {"data": "2026-11-20", "ora": "21:50"},
-      {"data": "2026-11-21", "ora": "17:30"},
-      {"data": "2026-11-21", "ora": "19:00"},
-      {"data": "2026-11-21", "ora": "20:00"},
-      {"data": "2026-11-21", "ora": "20:30"},
-      {"data": "2026-11-21", "ora": "21:00"},
-      {"data": "2026-11-21", "ora": "22:40"},
-      {"data": "2026-11-22", "ora": "11:10"},
-      {"data": "2026-11-22", "ora": "15:30"},
-      {"data": "2026-11-22", "ora": "17:30"},
-      {"data": "2026-11-22", "ora": "19:00"},
-      {"data": "2026-11-22", "ora": "20:00"},
-      {"data": "2026-11-22", "ora": "21:00"},
-      {"data": "2026-11-22", "ora": "21:50"}
-     ]
-    },
-    {
-     "titolo": "Un weekend artificiale",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "16:10"},
-      {"data": "2026-11-20", "ora": "19:25"},
-      {"data": "2026-11-20", "ora": "21:15"},
-      {"data": "2026-11-20", "ora": "22:50"},
-      {"data": "2026-11-21", "ora": "16:40"},
-      {"data": "2026-11-21", "ora": "19:05"},
-      {"data": "2026-11-21", "ora": "20:15"},
-      {"data": "2026-11-21", "ora": "22:30"},
-      {"data": "2026-11-21", "ora": "23:30"},
-      {"data": "2026-11-22", "ora": "13:40"},
-      {"data": "2026-11-22", "ora": "15:05"},
-      {"data": "2026-11-22", "ora": "16:00"},
-      {"data": "2026-11-22", "ora": "17:00"},
-      {"data": "2026-11-22", "ora": "18:10"},
-      {"data": "2026-11-22", "ora": "19:25"},
-      {"data": "2026-11-22", "ora": "22:30"}
-     ]
-    },
-    {
-     "titolo": "Se domani non torno",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "19:40"},
-      {"data": "2026-11-20", "ora": "22:20"},
-      {"data": "2026-11-21", "ora": "14:30"},
-      {"data": "2026-11-21", "ora": "17:45"},
-      {"data": "2026-11-22", "ora": "17:15"},
-      {"data": "2026-11-22", "ora": "18:35"}
-     ]
-    },
-    {
-     "titolo": "Scrooge e gli spiriti del Natale",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "16:10"},
-      {"data": "2026-11-20", "ora": "22:10"},
-      {"data": "2026-11-21", "ora": "11:00"},
-      {"data": "2026-11-21", "ora": "14:25"},
-      {"data": "2026-11-21", "ora": "17:10"},
-      {"data": "2026-11-21", "ora": "22:50"},
-      {"data": "2026-11-22", "ora": "18:50"},
-      {"data": "2026-11-22", "ora": "21:40"}
-     ]
-    },
-    {
-     "titolo": "Il rumore delle cose nuove",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "18:20"},
-      {"data": "2026-11-20", "ora": "22:30"},
-      {"data": "2026-11-21", "ora": "16:15"},
-      {"data": "2026-11-22", "ora": "16:05"}
-     ]
-    },
-    {
-     "titolo": "Il gatto col cappello",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "17:15"},
-      {"data": "2026-11-21", "ora": "12:20"},
-      {"data": "2026-11-21", "ora": "14:55"},
-      {"data": "2026-11-21", "ora": "17:15"},
-      {"data": "2026-11-22", "ora": "11:15"},
-      {"data": "2026-11-22", "ora": "14:20"}
-     ]
-    },
-    {
-     "titolo": "Fjord",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "17:00"},
-      {"data": "2026-11-21", "ora": "17:00"},
-      {"data": "2026-11-22", "ora": "21:15"}
-     ]
-    },
-    {
-     "titolo": "La ballata del re delle api",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "19:50"},
-      {"data": "2026-11-21", "ora": "19:50"},
-      {"data": "2026-11-22", "ora": "20:45"}
-     ]
-    },
-    {
-     "titolo": "Ramayana: la nascita di una leggenda",
-     "regia": "",
-     "durata": "",
-     "nota": "Hollywood Cut; domenica 22 alle 11.10 Director's Cut in lingua originale",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "16:00"},
-      {"data": "2026-11-21", "ora": "14:00"},
-      {"data": "2026-11-22", "ora": "11:10"},
-      {"data": "2026-11-22", "ora": "14:30"}
-     ]
-    },
-    {
-     "titolo": "Shaun, vita da pecora: operazione Z.U.C.C.A.",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "16:00"},
-      {"data": "2026-11-21", "ora": "11:25"},
-      {"data": "2026-11-21", "ora": "14:00"},
-      {"data": "2026-11-22", "ora": "12:50"}
-     ]
-    },
-    {
-     "titolo": "Godzilla Minus Zero",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "11:25"}
-     ]
-    },
-    {
-     "titolo": "Look Back",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "13:55"},
-      {"data": "2026-11-22", "ora": "14:45"}
-     ]
-    },
-    {
-     "titolo": "Wild Horse Nine",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "11:35"}
-     ]
-    },
-    {
-     "titolo": "Dio ride",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "11:10"}
-     ]
-    },
-    {
-     "titolo": "BTS World Tour Arirang in Kaohsiung: Live Viewing",
-     "regia": "",
-     "durata": "",
-     "nota": "Concerto in diretta, lingua originale",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "11:45"},
-      {"data": "2026-11-21", "ora": "16:00"}
+      {"data": "2026-11-25", "ora": "16:45"},
+      {"data": "2026-11-25", "ora": "17:30"},
+      {"data": "2026-11-25", "ora": "18:25"},
+      {"data": "2026-11-25", "ora": "19:00"},
+      {"data": "2026-11-25", "ora": "20:15"},
+      {"data": "2026-11-25", "ora": "21:00"},
+      {"data": "2026-11-25", "ora": "21:55"},
+      {"data": "2026-11-26", "ora": "17:20"},
+      {"data": "2026-11-26", "ora": "19:00"},
+      {"data": "2026-11-26", "ora": "20:50"},
+      {"data": "2026-11-26", "ora": "21:45"},
+      {"data": "2026-11-27", "ora": "17:20"},
+      {"data": "2026-11-27", "ora": "19:00"},
+      {"data": "2026-11-27", "ora": "20:50"},
+      {"data": "2026-11-27", "ora": "21:45"},
+      {"data": "2026-11-28", "ora": "18:00"},
+      {"data": "2026-11-28", "ora": "19:00"},
+      {"data": "2026-11-28", "ora": "21:20"},
+      {"data": "2026-11-28", "ora": "22:40"},
+      {"data": "2026-11-29", "ora": "11:10"},
+      {"data": "2026-11-29", "ora": "15:00"},
+      {"data": "2026-11-29", "ora": "17:20"},
+      {"data": "2026-11-29", "ora": "19:00"},
+      {"data": "2026-11-29", "ora": "20:50"}
      ]
     },
     {
@@ -599,17 +462,211 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-21", "ora": "21:30"},
-      {"data": "2026-11-22", "ora": "21:30"}
+      {"data": "2026-11-25", "ora": "18:50"},
+      {"data": "2026-11-25", "ora": "21:30"},
+      {"data": "2026-11-26", "ora": "16:40"},
+      {"data": "2026-11-26", "ora": "18:45"},
+      {"data": "2026-11-26", "ora": "21:30"},
+      {"data": "2026-11-27", "ora": "17:50"},
+      {"data": "2026-11-27", "ora": "19:30"},
+      {"data": "2026-11-27", "ora": "21:30"},
+      {"data": "2026-11-28", "ora": "16:10"},
+      {"data": "2026-11-28", "ora": "18:50"},
+      {"data": "2026-11-28", "ora": "21:30"},
+      {"data": "2026-11-29", "ora": "16:50"},
+      {"data": "2026-11-29", "ora": "19:30"},
+      {"data": "2026-11-29", "ora": "21:30"}
      ]
     },
     {
-     "titolo": "Agata Christian: delitto sulle nevi",
+     "titolo": "Un weekend artificiale",
      "regia": "",
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-22", "ora": "11:40"}
+      {"data": "2026-11-25", "ora": "16:00"},
+      {"data": "2026-11-25", "ora": "22:30"},
+      {"data": "2026-11-26", "ora": "16:20"},
+      {"data": "2026-11-26", "ora": "18:50"},
+      {"data": "2026-11-26", "ora": "22:40"},
+      {"data": "2026-11-27", "ora": "16:00"},
+      {"data": "2026-11-27", "ora": "17:00"},
+      {"data": "2026-11-27", "ora": "19:15"},
+      {"data": "2026-11-27", "ora": "22:40"},
+      {"data": "2026-11-28", "ora": "14:10"},
+      {"data": "2026-11-28", "ora": "21:50"},
+      {"data": "2026-11-29", "ora": "13:45"},
+      {"data": "2026-11-29", "ora": "16:10"},
+      {"data": "2026-11-29", "ora": "18:35"},
+      {"data": "2026-11-29", "ora": "22:50"}
+     ]
+    },
+    {
+     "titolo": "Hexe - Il regno delle streghe",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-26", "ora": "16:10"},
+      {"data": "2026-11-26", "ora": "17:15"},
+      {"data": "2026-11-26", "ora": "18:15"},
+      {"data": "2026-11-26", "ora": "20:00"},
+      {"data": "2026-11-27", "ora": "16:15"},
+      {"data": "2026-11-27", "ora": "17:15"},
+      {"data": "2026-11-27", "ora": "18:50"},
+      {"data": "2026-11-27", "ora": "20:00"},
+      {"data": "2026-11-28", "ora": "14:30"},
+      {"data": "2026-11-28", "ora": "17:15"},
+      {"data": "2026-11-28", "ora": "20:00"},
+      {"data": "2026-11-29", "ora": "14:30"},
+      {"data": "2026-11-29", "ora": "16:20"},
+      {"data": "2026-11-29", "ora": "17:15"},
+      {"data": "2026-11-29", "ora": "20:00"}
+     ]
+    },
+    {
+     "titolo": "La notte delle fragole",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-26", "ora": "16:30"},
+      {"data": "2026-11-26", "ora": "19:20"},
+      {"data": "2026-11-26", "ora": "21:15"},
+      {"data": "2026-11-27", "ora": "16:25"},
+      {"data": "2026-11-27", "ora": "18:30"},
+      {"data": "2026-11-27", "ora": "20:30"},
+      {"data": "2026-11-28", "ora": "16:35"},
+      {"data": "2026-11-28", "ora": "18:35"},
+      {"data": "2026-11-28", "ora": "22:30"},
+      {"data": "2026-11-29", "ora": "15:35"},
+      {"data": "2026-11-29", "ora": "18:00"},
+      {"data": "2026-11-29", "ora": "20:25"}
+     ]
+    },
+    {
+     "titolo": "Lorenzo - L'incredibile avventura di Jovanotti",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-26", "ora": "16:00"},
+      {"data": "2026-11-26", "ora": "21:00"},
+      {"data": "2026-11-27", "ora": "16:50"},
+      {"data": "2026-11-27", "ora": "21:00"},
+      {"data": "2026-11-28", "ora": "14:00"},
+      {"data": "2026-11-28", "ora": "21:00"},
+      {"data": "2026-11-29", "ora": "13:20"},
+      {"data": "2026-11-29", "ora": "14:30"},
+      {"data": "2026-11-29", "ora": "21:00"}
+     ]
+    },
+    {
+     "titolo": "Scrooge e gli spiriti del Natale",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "16:10"},
+      {"data": "2026-11-25", "ora": "22:30"},
+      {"data": "2026-11-26", "ora": "16:45"},
+      {"data": "2026-11-26", "ora": "22:15"},
+      {"data": "2026-11-28", "ora": "18:55"},
+      {"data": "2026-11-28", "ora": "23:15"},
+      {"data": "2026-11-29", "ora": "14:15"},
+      {"data": "2026-11-29", "ora": "18:40"}
+     ]
+    },
+    {
+     "titolo": "Se domani non torno",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "22:15"},
+      {"data": "2026-11-26", "ora": "19:35"},
+      {"data": "2026-11-27", "ora": "22:10"},
+      {"data": "2026-11-28", "ora": "15:55"},
+      {"data": "2026-11-29", "ora": "11:35"},
+      {"data": "2026-11-29", "ora": "13:30"},
+      {"data": "2026-11-29", "ora": "22:10"}
+     ]
+    },
+    {
+     "titolo": "Il rumore delle cose nuove",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "16:05"},
+      {"data": "2026-11-26", "ora": "22:30"},
+      {"data": "2026-11-27", "ora": "22:30"},
+      {"data": "2026-11-29", "ora": "22:30"}
+     ]
+    },
+    {
+     "titolo": "La luce del mondo",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-28", "ora": "15:00"},
+      {"data": "2026-11-28", "ora": "15:45"}
+     ]
+    },
+    {
+     "titolo": "Fjord",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "17:10"}
+     ]
+    },
+    {
+     "titolo": "Mustang",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "20:30"}
+     ]
+    },
+    {
+     "titolo": "Your Name",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "16:50"},
+      {"data": "2026-11-25", "ora": "19:30"}
+     ]
+    },
+    {
+     "titolo": "Ramayana: la nascita di una leggenda",
+     "regia": "",
+     "durata": "",
+     "nota": "Hollywood Cut",
+     "proiezioni": [
+      {"data": "2026-11-25", "ora": "16:10"}
+     ]
+    },
+    {
+     "titolo": "Il gatto col cappello",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-29", "ora": "11:05"}
+     ]
+    },
+    {
+     "titolo": "La ballata del re delle api",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-29", "ora": "11:25"}
      ]
     },
     {
@@ -618,7 +675,16 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-22", "ora": "11:10"}
+      {"data": "2026-11-29", "ora": "11:00"}
+     ]
+    },
+    {
+     "titolo": "Un tranquillo funerale di famiglia",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-29", "ora": "11:00"}
      ]
     }
    ]
@@ -646,27 +712,6 @@
    ],
    "film": [
     {
-     "titolo": "Wild Horse Nine",
-     "regia": "Martin McDonagh",
-     "durata": "120 minuti",
-     "nota": "Versione originale con sottotitoli in italiano",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "21:00"},
-      {"data": "2026-11-21", "ora": "21:00"},
-      {"data": "2026-11-22", "ora": "21:00"}
-     ]
-    },
-    {
-     "titolo": "Mustang",
-     "regia": "Kasia Smutniak",
-     "durata": "105 minuti",
-     "nota": "Versione italiana. Premio del Pubblico alla Festa del Cinema di Roma",
-     "proiezioni": [
-      {"data": "2026-11-23", "ora": "21:00"},
-      {"data": "2026-11-24", "ora": "21:00"}
-     ]
-    },
-    {
      "titolo": "Primetime",
      "regia": "Lance Oppenheim",
      "durata": "110 minuti",
@@ -693,6 +738,17 @@
       {"data": "2026-11-27", "ora": "21:00"},
       {"data": "2026-11-28", "ora": "21:00"},
       {"data": "2026-11-29", "ora": "21:00"}
+     ]
+    },
+    {
+     "titolo": "Hunger Games: L'alba sulla mietitura",
+     "regia": "Francis Lawrence",
+     "durata": "158 minuti",
+     "nota": "Versione originale con sottotitoli in italiano",
+     "proiezioni": [
+      {"data": "2026-11-30", "ora": "21:00"},
+      {"data": "2026-12-01", "ora": "21:00"},
+      {"data": "2026-12-02", "ora": "21:00"}
      ]
     }
    ]
@@ -729,19 +785,22 @@
      "durata": "146 minuti",
      "nota": "Molte proiezioni in versione originale inglese e rumeno con sottotitoli; venerdì 27 alle 21 nella rassegna Buio in sala, cinema e psicanalisi",
      "proiezioni": [
-      {"data": "2026-11-20", "ora": "15:30"},
-      {"data": "2026-11-20", "ora": "18:15"},
-      {"data": "2026-11-20", "ora": "21:00"},
-      {"data": "2026-11-21", "ora": "15:45"},
-      {"data": "2026-11-21", "ora": "18:30"},
-      {"data": "2026-11-21", "ora": "21:15"},
-      {"data": "2026-11-22", "ora": "15:30"},
-      {"data": "2026-11-22", "ora": "18:15"},
       {"data": "2026-11-25", "ora": "16:00"},
       {"data": "2026-11-25", "ora": "21:15"},
       {"data": "2026-11-26", "ora": "21:00"},
       {"data": "2026-11-27", "ora": "16:15"},
-      {"data": "2026-11-27", "ora": "21:00"}
+      {"data": "2026-11-27", "ora": "21:00"},
+      {"data": "2026-11-28", "ora": "15:30"},
+      {"data": "2026-11-28", "ora": "18:15"},
+      {"data": "2026-11-28", "ora": "21:15"},
+      {"data": "2026-11-29", "ora": "15:30"},
+      {"data": "2026-11-29", "ora": "18:15"},
+      {"data": "2026-12-02", "ora": "16:15"},
+      {"data": "2026-12-02", "ora": "21:15"},
+      {"data": "2026-12-03", "ora": "16:15"},
+      {"data": "2026-12-04", "ora": "16:00"},
+      {"data": "2026-12-04", "ora": "18:45"},
+      {"data": "2026-12-04", "ora": "21:30"}
      ]
     },
     {
@@ -750,56 +809,8 @@
      "durata": "107 minuti",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-20", "ora": "11:00"},
-      {"data": "2026-11-21", "ora": "11:00"},
-      {"data": "2026-11-25", "ora": "11:00"}
-     ]
-    },
-    {
-     "titolo": "Le bambine",
-     "regia": "Valentina e Nicole Bertani",
-     "durata": "105 minuti",
-     "nota": "Con un contributo video delle registe",
-     "proiezioni": [
-      {"data": "2026-11-22", "ora": "13:15"}
-     ]
-    },
-    {
-     "titolo": "La Gradiva",
-     "regia": "Marine Atlan",
-     "durata": "145 minuti",
-     "nota": "Versione originale francese con sottotitoli",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "13:00"},
-      {"data": "2026-11-24", "ora": "16:30"}
-     ]
-    },
-    {
-     "titolo": "I Swear - È più forte di me",
-     "regia": "Kirk Jones",
-     "durata": "120 minuti",
-     "nota": "Anteprima, versione originale inglese con sottotitoli",
-     "proiezioni": [
-      {"data": "2026-11-22", "ora": "11:00"}
-     ]
-    },
-    {
-     "titolo": "Take Out",
-     "regia": "Sean Baker",
-     "durata": "87 minuti",
-     "nota": "Versione originale inglese con sottotitoli",
-     "proiezioni": [
-      {"data": "2026-11-22", "ora": "21:00"},
-      {"data": "2026-11-26", "ora": "19:00"}
-     ]
-    },
-    {
-     "titolo": "Dolomitismo - Racconti verticali",
-     "regia": "Emanuele Confortin",
-     "durata": "",
-     "nota": "Alla presenza del regista e della direttrice della Fondazione Dolomiti UNESCO Mara Nemela",
-     "proiezioni": [
-      {"data": "2026-11-23", "ora": "21:00"}
+      {"data": "2026-11-25", "ora": "11:00"},
+      {"data": "2026-12-03", "ora": "11:00"}
      ]
     },
     {
@@ -812,12 +823,54 @@
      ]
     },
     {
+     "titolo": "Take Out",
+     "regia": "Sean Baker",
+     "durata": "87 minuti",
+     "nota": "Versione originale inglese con sottotitoli",
+     "proiezioni": [
+      {"data": "2026-11-26", "ora": "19:00"}
+     ]
+    },
+    {
      "titolo": "Lorenzo - L'incredibile avventura di Jovanotti",
      "regia": "Dario Zonta e Carlo Zoratti",
      "durata": "84 minuti",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-27", "ora": "19:00"}
+      {"data": "2026-11-27", "ora": "19:00"},
+      {"data": "2026-11-28", "ora": "13:45"},
+      {"data": "2026-11-29", "ora": "11:00"},
+      {"data": "2026-11-30", "ora": "21:00"}
+     ]
+    },
+    {
+     "titolo": "Bellissima",
+     "regia": "Luchino Visconti",
+     "durata": "115 minuti",
+     "nota": "Versione restaurata",
+     "proiezioni": [
+      {"data": "2026-11-29", "ora": "13:00"},
+      {"data": "2026-11-30", "ora": "16:00"},
+      {"data": "2026-12-02", "ora": "19:00"}
+     ]
+    },
+    {
+     "titolo": "Four Letter Words",
+     "regia": "Sean Baker",
+     "durata": "82 minuti",
+     "nota": "Versione originale inglese con sottotitoli, rassegna Ti amo Sean Baker",
+     "proiezioni": [
+      {"data": "2026-11-29", "ora": "21:00"},
+      {"data": "2026-12-03", "ora": "19:00"}
+     ]
+    },
+    {
+     "titolo": "La Gradiva",
+     "regia": "Marine Atlan",
+     "durata": "145 minuti",
+     "nota": "Versione originale francese con sottotitoli",
+     "proiezioni": [
+      {"data": "2026-12-03", "ora": "21:00"}
      ]
     }
    ]
@@ -845,59 +898,17 @@
    ],
    "film": [
     {
-     "titolo": "Il canto della foresta",
-     "regia": "",
-     "durata": "",
-     "nota": "Sabato 21 alle 19.30 in versione originale sottotitolata",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "17:15"},
-      {"data": "2026-11-21", "ora": "15:15"},
-      {"data": "2026-11-21", "ora": "19:30"},
-      {"data": "2026-11-22", "ora": "15:15"},
-      {"data": "2026-11-22", "ora": "19:30"},
-      {"data": "2026-11-24", "ora": "16:45"}
-     ]
-    },
-    {
-     "titolo": "L'essere amato",
-     "regia": "",
-     "durata": "",
-     "nota": "Venerdì 20 in versione originale sottotitolata",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": "21:15"},
-      {"data": "2026-11-21", "ora": "17:00"},
-      {"data": "2026-11-22", "ora": "17:00"}
-     ]
-    },
-    {
      "titolo": "La ballata del re delle api",
      "regia": "",
      "durata": "",
-     "nota": "Domenica 22 in versione originale sottotitolata",
+     "nota": "Venerdì 27 e martedì 1 dicembre in versione originale sottotitolata",
      "proiezioni": [
-      {"data": "2026-11-20", "ora": "19:00"},
-      {"data": "2026-11-21", "ora": "21:15"},
-      {"data": "2026-11-22", "ora": "21:15"},
-      {"data": "2026-11-23", "ora": "16:15"},
-      {"data": "2026-11-25", "ora": "14:30"}
-     ]
-    },
-    {
-     "titolo": "L'isola dei ricordi",
-     "regia": "",
-     "durata": "",
-     "nota": "Rassegna per ragazzi Un mondo da A(ni)mare",
-     "proiezioni": [
-      {"data": "2026-11-21", "ora": "11:00"}
-     ]
-    },
-    {
-     "titolo": "Vieni, torniamo a casa",
-     "regia": "",
-     "durata": "",
-     "nota": "Presentazione e firmacopie di Fabio Volo",
-     "proiezioni": [
-      {"data": "2026-11-22", "ora": "11:30"}
+      {"data": "2026-11-25", "ora": "14:30"},
+      {"data": "2026-11-26", "ora": "16:30"},
+      {"data": "2026-11-27", "ora": "19:00"},
+      {"data": "2026-11-28", "ora": "21:15"},
+      {"data": "2026-11-29", "ora": "17:00"},
+      {"data": "2026-12-01", "ora": "21:15"}
      ]
     },
     {
@@ -906,28 +917,8 @@
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-11-23", "ora": "18:30"},
-      {"data": "2026-11-24", "ora": "15:00"},
       {"data": "2026-11-25", "ora": "16:45"},
       {"data": "2026-11-25", "ora": "18:45"}
-     ]
-    },
-    {
-     "titolo": "Hamnet",
-     "regia": "",
-     "durata": "",
-     "nota": "Serata Ecce Pizze; a seguire La ragazza del coro",
-     "proiezioni": [
-      {"data": "2026-11-23", "ora": "20:30"}
-     ]
-    },
-    {
-     "titolo": "Angelo il principe del vintage",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-24", "ora": "21:00"}
      ]
     },
     {
@@ -940,6 +931,19 @@
      ]
     },
     {
+     "titolo": "L'essere amato",
+     "regia": "",
+     "durata": "",
+     "nota": "Giovedì 26 in versione originale sottotitolata",
+     "proiezioni": [
+      {"data": "2026-11-26", "ora": "19:00"},
+      {"data": "2026-11-27", "ora": "16:30"},
+      {"data": "2026-11-28", "ora": "17:00"},
+      {"data": "2026-11-30", "ora": "16:00"},
+      {"data": "2026-12-02", "ora": "16:45"}
+     ]
+    },
+    {
      "titolo": "Lorenzo - L'incredibile avventura di Jovanotti",
      "regia": "",
      "durata": "",
@@ -949,6 +953,20 @@
       {"data": "2026-11-27", "ora": "21:30"},
       {"data": "2026-11-28", "ora": "19:30"},
       {"data": "2026-11-29", "ora": "21:30"}
+     ]
+    },
+    {
+     "titolo": "Il canto della foresta",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-27", "ora": "14:45"},
+      {"data": "2026-11-28", "ora": "15:15"},
+      {"data": "2026-11-29", "ora": "15:15"},
+      {"data": "2026-11-30", "ora": "18:30"},
+      {"data": "2026-12-01", "ora": "15:45"},
+      {"data": "2026-12-02", "ora": "15:00"}
      ]
     },
     {
@@ -970,6 +988,15 @@
      ]
     },
     {
+     "titolo": "La zona di interesse",
+     "regia": "",
+     "durata": "",
+     "nota": "Serata Ecce Pizze; a seguire Palestina 36",
+     "proiezioni": [
+      {"data": "2026-11-30", "ora": "20:30"}
+     ]
+    },
+    {
      "titolo": "Sorry We Missed You",
      "regia": "",
      "durata": "",
@@ -979,25 +1006,28 @@
      ]
     },
     {
-     "titolo": "L'anima della Terra vista dalle Stelle",
+     "titolo": "La città dei bambini",
      "regia": "",
      "durata": "",
      "nota": "",
      "proiezioni": [
-      {"data": "2026-12-03", "ora": "19:15"}
+      {"data": "2026-12-02", "ora": "19:15"}
      ]
     },
     {
      "titolo": "Radio Praga",
      "regia": "",
      "durata": "",
-     "nota": "Gli orari sul sito della sala",
+     "nota": "Mercoledì 2 in versione originale sottotitolata; gli altri orari sul sito della sala",
      "proiezioni": [
+      {"data": "2026-12-02", "ora": "21:15"},
       {"data": "2026-12-03", "ora": ""},
       {"data": "2026-12-04", "ora": ""},
       {"data": "2026-12-05", "ora": ""},
       {"data": "2026-12-06", "ora": ""},
-      {"data": "2026-12-07", "ora": ""}
+      {"data": "2026-12-07", "ora": ""},
+      {"data": "2026-12-08", "ora": ""},
+      {"data": "2026-12-09", "ora": ""}
      ]
     },
     {
@@ -1010,7 +1040,18 @@
       {"data": "2026-12-04", "ora": ""},
       {"data": "2026-12-05", "ora": ""},
       {"data": "2026-12-06", "ora": ""},
-      {"data": "2026-12-07", "ora": ""}
+      {"data": "2026-12-07", "ora": ""},
+      {"data": "2026-12-08", "ora": ""},
+      {"data": "2026-12-09", "ora": ""}
+     ]
+    },
+    {
+     "titolo": "L'anima della Terra vista dalle Stelle",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-03", "ora": "19:15"}
      ]
     },
     {
@@ -1022,6 +1063,24 @@
       {"data": "2026-12-04", "ora": "15:00"},
       {"data": "2026-12-05", "ora": "11:00"},
       {"data": "2026-12-06", "ora": "15:00"}
+     ]
+    },
+    {
+     "titolo": "Wildwood, i segreti del bosco proibito",
+     "regia": "",
+     "durata": "",
+     "nota": "Rassegna per ragazzi Un mondo da A(ni)mare",
+     "proiezioni": [
+      {"data": "2026-12-12", "ora": "11:00"}
+     ]
+    },
+    {
+     "titolo": "Due giorni, una notte",
+     "regia": "",
+     "durata": "",
+     "nota": "Rassegna Lavorare stanca",
+     "proiezioni": [
+      {"data": "2026-12-14", "ora": "17:30"}
      ]
     }
    ]
@@ -1047,21 +1106,7 @@
      "url": "https://www.cinemalacompagnia.it/programma/"
     }
    ],
-   "film": [
-    {
-     "titolo": "Florence Queer Festival",
-     "regia": "",
-     "durata": "",
-     "nota": "24ª edizione, inaugurazione venerdì 20 alle 21; corti, incontri e presentazioni dal pomeriggio alla sera: il programma giorno per giorno è sul sito della sala",
-     "proiezioni": [
-      {"data": "2026-11-20", "ora": ""},
-      {"data": "2026-11-21", "ora": ""},
-      {"data": "2026-11-22", "ora": ""},
-      {"data": "2026-11-23", "ora": ""},
-      {"data": "2026-11-24", "ora": ""}
-     ]
-    }
-   ]
+   "film": []
   }
  ]
 }
