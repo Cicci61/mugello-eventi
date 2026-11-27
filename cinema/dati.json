@@ -2,7 +2,7 @@
  "titolo": "Cinema del Mugello e della Val di Sieve",
  "sottotitolo": "Sette sale e i film in programma, giorno per giorno. In fondo, cinque sale di Firenze",
  "meta": "I cinema del Mugello e della Val di Sieve e i film in programma: Garibaldi di Scarperia, Don Bosco e Giotto di Borgo San Lorenzo, Corsini di Barberino, Giotto di Vicchio, DOP di Firenzuola e Teatro Cinema Italia di Pontassieve. Orari, indirizzi e contatti. In fondo, cinque sale scelte di Firenze.",
- "controllato": "2026-11-25",
+ "controllato": "2026-11-27",
  "cinema": [
   {
    "id": "garibaldi-scarperia",
@@ -333,16 +333,6 @@
      ]
     },
     {
-     "titolo": "Calle Malaga",
-     "regia": "Maryam Touzani",
-     "durata": "116 minuti",
-     "nota": "Biglietto 5 euro.",
-     "proiezioni": [
-      {"data": "2026-11-26", "ora": "17:30"},
-      {"data": "2026-11-26", "ora": "21:00"}
-     ]
-    },
-    {
      "titolo": "Se domani non torno",
      "regia": "Paola Randi",
      "durata": "107 minuti",
@@ -453,7 +443,10 @@
       {"data": "2026-11-29", "ora": "15:00"},
       {"data": "2026-11-29", "ora": "17:20"},
       {"data": "2026-11-29", "ora": "19:00"},
-      {"data": "2026-11-29", "ora": "20:50"}
+      {"data": "2026-11-29", "ora": "20:50"},
+      {"data": "2026-11-30", "ora": "17:20"},
+      {"data": "2026-11-30", "ora": "19:00"},
+      {"data": "2026-11-30", "ora": "20:50"}
      ]
     },
     {
@@ -475,7 +468,10 @@
       {"data": "2026-11-28", "ora": "21:30"},
       {"data": "2026-11-29", "ora": "16:50"},
       {"data": "2026-11-29", "ora": "19:30"},
-      {"data": "2026-11-29", "ora": "21:30"}
+      {"data": "2026-11-29", "ora": "21:30"},
+      {"data": "2026-11-30", "ora": "16:10"},
+      {"data": "2026-11-30", "ora": "18:50"},
+      {"data": "2026-11-30", "ora": "21:30"}
      ]
     },
     {
@@ -498,7 +494,10 @@
       {"data": "2026-11-29", "ora": "13:45"},
       {"data": "2026-11-29", "ora": "16:10"},
       {"data": "2026-11-29", "ora": "18:35"},
-      {"data": "2026-11-29", "ora": "22:50"}
+      {"data": "2026-11-29", "ora": "22:50"},
+      {"data": "2026-11-30", "ora": "18:35"},
+      {"data": "2026-11-30", "ora": "21:50"},
+      {"data": "2026-11-30", "ora": "22:40"}
      ]
     },
     {
@@ -521,7 +520,11 @@
       {"data": "2026-11-29", "ora": "14:30"},
       {"data": "2026-11-29", "ora": "16:20"},
       {"data": "2026-11-29", "ora": "17:15"},
-      {"data": "2026-11-29", "ora": "20:00"}
+      {"data": "2026-11-29", "ora": "20:00"},
+      {"data": "2026-11-30", "ora": "16:20"},
+      {"data": "2026-11-30", "ora": "17:15"},
+      {"data": "2026-11-30", "ora": "19:10"},
+      {"data": "2026-11-30", "ora": "20:00"}
      ]
     },
     {
@@ -541,7 +544,10 @@
       {"data": "2026-11-28", "ora": "22:30"},
       {"data": "2026-11-29", "ora": "15:35"},
       {"data": "2026-11-29", "ora": "18:00"},
-      {"data": "2026-11-29", "ora": "20:25"}
+      {"data": "2026-11-29", "ora": "20:25"},
+      {"data": "2026-11-30", "ora": "16:10"},
+      {"data": "2026-11-30", "ora": "19:25"},
+      {"data": "2026-11-30", "ora": "22:00"}
      ]
     },
     {
@@ -558,7 +564,9 @@
       {"data": "2026-11-28", "ora": "21:00"},
       {"data": "2026-11-29", "ora": "13:20"},
       {"data": "2026-11-29", "ora": "14:30"},
-      {"data": "2026-11-29", "ora": "21:00"}
+      {"data": "2026-11-29", "ora": "21:00"},
+      {"data": "2026-11-30", "ora": "16:45"},
+      {"data": "2026-11-30", "ora": "21:00"}
      ]
     },
     {
@@ -574,7 +582,8 @@
       {"data": "2026-11-28", "ora": "18:55"},
       {"data": "2026-11-28", "ora": "23:15"},
       {"data": "2026-11-29", "ora": "14:15"},
-      {"data": "2026-11-29", "ora": "18:40"}
+      {"data": "2026-11-29", "ora": "18:40"},
+      {"data": "2026-11-30", "ora": "16:30"}
      ]
     },
     {
@@ -589,7 +598,8 @@
       {"data": "2026-11-28", "ora": "15:55"},
       {"data": "2026-11-29", "ora": "11:35"},
       {"data": "2026-11-29", "ora": "13:30"},
-      {"data": "2026-11-29", "ora": "22:10"}
+      {"data": "2026-11-29", "ora": "22:10"},
+      {"data": "2026-11-30", "ora": "22:30"}
      ]
     },
     {
@@ -611,44 +621,8 @@
      "nota": "",
      "proiezioni": [
       {"data": "2026-11-28", "ora": "15:00"},
-      {"data": "2026-11-28", "ora": "15:45"}
-     ]
-    },
-    {
-     "titolo": "Fjord",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "17:10"}
-     ]
-    },
-    {
-     "titolo": "Mustang",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "20:30"}
-     ]
-    },
-    {
-     "titolo": "Your Name",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "16:50"},
-      {"data": "2026-11-25", "ora": "19:30"}
-     ]
-    },
-    {
-     "titolo": "Ramayana: la nascita di una leggenda",
-     "regia": "",
-     "durata": "",
-     "nota": "Hollywood Cut",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "16:10"}
+      {"data": "2026-11-28", "ora": "15:45"},
+      {"data": "2026-11-28", "ora": "16:25"}
      ]
     },
     {
@@ -712,24 +686,6 @@
    ],
    "film": [
     {
-     "titolo": "Primetime",
-     "regia": "Lance Oppenheim",
-     "durata": "110 minuti",
-     "nota": "Versione originale con sottotitoli in italiano",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "21:00"}
-     ]
-    },
-    {
-     "titolo": "2001: Odissea nello spazio",
-     "regia": "Stanley Kubrick",
-     "durata": "148 minuti",
-     "nota": "Versione restaurata in 4K, originale con sottotitoli in italiano",
-     "proiezioni": [
-      {"data": "2026-11-26", "ora": "21:00"}
-     ]
-    },
-    {
      "titolo": "You Can See Everything",
      "regia": "Nathan Fielder, Lance Oppenheim",
      "durata": "174 minuti",
@@ -749,6 +705,17 @@
       {"data": "2026-11-30", "ora": "21:00"},
       {"data": "2026-12-01", "ora": "21:00"},
       {"data": "2026-12-02", "ora": "21:00"}
+     ]
+    },
+    {
+     "titolo": "Lucio",
+     "regia": "Ambrogio Lo Giudice",
+     "durata": "109 minuti",
+     "nota": "Versione italiana",
+     "proiezioni": [
+      {"data": "2027-01-18", "ora": "21:00"},
+      {"data": "2027-01-19", "ora": "21:00"},
+      {"data": "2027-01-20", "ora": "21:00"}
      ]
     }
    ]
@@ -811,24 +778,6 @@
      "proiezioni": [
       {"data": "2026-11-25", "ora": "11:00"},
       {"data": "2026-12-03", "ora": "11:00"}
-     ]
-    },
-    {
-     "titolo": "La luce dell'alba contro l'ombra della violenza",
-     "regia": "",
-     "durata": "",
-     "nota": "Con il cortometraggio Alba Blu, alla presenza della regista Emanuela Mascherini, e a seguire alcuni interventi",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "19:00"}
-     ]
-    },
-    {
-     "titolo": "Take Out",
-     "regia": "Sean Baker",
-     "durata": "87 minuti",
-     "nota": "Versione originale inglese con sottotitoli",
-     "proiezioni": [
-      {"data": "2026-11-26", "ora": "19:00"}
      ]
     },
     {
@@ -909,25 +858,6 @@
       {"data": "2026-11-28", "ora": "21:15"},
       {"data": "2026-11-29", "ora": "17:00"},
       {"data": "2026-12-01", "ora": "21:15"}
-     ]
-    },
-    {
-     "titolo": "Holy Wood Dust",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "16:45"},
-      {"data": "2026-11-25", "ora": "18:45"}
-     ]
-    },
-    {
-     "titolo": "Strudel",
-     "regia": "",
-     "durata": "",
-     "nota": "",
-     "proiezioni": [
-      {"data": "2026-11-25", "ora": "21:00"}
      ]
     },
     {
@@ -1106,7 +1036,95 @@
      "url": "https://www.cinemalacompagnia.it/programma/"
     }
    ],
-   "film": []
+   "film": [
+    {
+     "titolo": "Minotaur - Nel labirinto del potere",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-27", "ora": "18:00"},
+      {"data": "2026-11-28", "ora": "20:30"},
+      {"data": "2026-12-01", "ora": "16:00"},
+      {"data": "2026-12-02", "ora": "20:30"}
+     ]
+    },
+    {
+     "titolo": "The Girl Next Door",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-27", "ora": "20:30"}
+     ]
+    },
+    {
+     "titolo": "Fjord",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-28", "ora": "18:00"},
+      {"data": "2026-12-02", "ora": "18:00"},
+      {"data": "2026-12-03", "ora": "20:30"}
+     ]
+    },
+    {
+     "titolo": "Fatherland",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-11-29", "ora": "21:00"},
+      {"data": "2026-12-02", "ora": "16:30"}
+     ]
+    },
+    {
+     "titolo": "River to River - Florence Indian Film Festival 2026",
+     "regia": "",
+     "durata": "",
+     "nota": "Il programma giorno per giorno è sul sito della sala",
+     "proiezioni": [
+      {"data": "2026-11-30", "ora": ""}
+     ]
+    },
+    {
+     "titolo": "Le cose che posso cambiare",
+     "regia": "Serena Mannelli e Federico Micali",
+     "durata": "79 minuti",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-01", "ora": "18:30"}
+     ]
+    },
+    {
+     "titolo": "Comrades: Almost a Love Story",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-01", "ora": "20:30"}
+     ]
+    },
+    {
+     "titolo": "Dobbiamo rassegnarci alla legge del più forte?",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-02", "ora": "10:00"}
+     ]
+    },
+    {
+     "titolo": "Bats & Bugs",
+     "regia": "",
+     "durata": "",
+     "nota": "",
+     "proiezioni": [
+      {"data": "2026-12-03", "ora": "17:00"}
+     ]
+    }
+   ]
   }
  ]
 }
